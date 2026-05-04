@@ -1,0 +1,121 @@
+{
+    "version": {
+        "id": 1054639,
+        "crate": "zzz_hello_world",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zzz_hello_world/0.1.0/download",
+        "readme_path": "/api/v1/crates/zzz_hello_world/0.1.0/readme",
+        "updated_at": "2024-02-17T06:20:59.231942Z",
+        "created_at": "2024-02-17T06:13:20.963158Z",
+        "downloads": 1457,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zzz_hello_world/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zzz_hello_world/0.1.0/downloads",
+            "authors": "/api/v1/crates/zzz_hello_world/0.1.0/authors"
+        },
+        "crate_size": 760,
+        "published_by": {
+            "id": 254809,
+            "login": "zhouhailin",
+            "name": "zhouhailin",
+            "avatar": "https://avatars.githubusercontent.com/u/26061625?v=4",
+            "url": "https://github.com/zhouhailin"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 254809,
+                    "login": "zhouhailin",
+                    "name": "zhouhailin",
+                    "avatar": "https://avatars.githubusercontent.com/u/26061625?v=4",
+                    "url": "https://github.com/zhouhailin"
+                },
+                "time": "2024-02-17T06:13:20.963158Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 254809,
+                    "login": "zhouhailin",
+                    "name": "zhouhailin",
+                    "avatar": "https://avatars.githubusercontent.com/u/26061625?v=4",
+                    "url": "https://github.com/zhouhailin"
+                },
+                "time": "2024-02-17T06:14:10.379567Z"
+            },
+            {
+                "action": "unyank",
+                "user": {
+                    "id": 254809,
+                    "login": "zhouhailin",
+                    "name": "zhouhailin",
+                    "avatar": "https://avatars.githubusercontent.com/u/26061625?v=4",
+                    "url": "https://github.com/zhouhailin"
+                },
+                "time": "2024-02-17T06:14:12.349187Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 254809,
+                    "login": "zhouhailin",
+                    "name": "zhouhailin",
+                    "avatar": "https://avatars.githubusercontent.com/u/26061625?v=4",
+                    "url": "https://github.com/zhouhailin"
+                },
+                "time": "2024-02-17T06:14:15.587409Z"
+            },
+            {
+                "action": "unyank",
+                "user": {
+                    "id": 254809,
+                    "login": "zhouhailin",
+                    "name": "zhouhailin",
+                    "avatar": "https://avatars.githubusercontent.com/u/26061625?v=4",
+                    "url": "https://github.com/zhouhailin"
+                },
+                "time": "2024-02-17T06:14:21.095748Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 254809,
+                    "login": "zhouhailin",
+                    "name": "zhouhailin",
+                    "avatar": "https://avatars.githubusercontent.com/u/26061625?v=4",
+                    "url": "https://github.com/zhouhailin"
+                },
+                "time": "2024-02-17T06:20:59.237595Z"
+            }
+        ],
+        "checksum": "6b2d125fa847023e85be78ba51f21858a42385fb6f39c1a59c4e5a6ec29b79d5",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zzz_hello_world"
+        ],
+        "edition": "2021",
+        "description": "Hello World",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3,
+            "total_comment_lines": 0
+        }
+    }
+}

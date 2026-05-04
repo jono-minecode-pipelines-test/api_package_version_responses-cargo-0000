@@ -1,0 +1,108 @@
+{
+    "version": {
+        "id": 920742,
+        "crate": "zzz_lib",
+        "num": "0.1.1+rc.1",
+        "dl_path": "/api/v1/crates/zzz_lib/0.1.1+rc.1/download",
+        "readme_path": "/api/v1/crates/zzz_lib/0.1.1+rc.1/readme",
+        "updated_at": "2024-04-30T09:56:14.599262Z",
+        "created_at": "2023-10-09T15:47:04.715676Z",
+        "downloads": 1124,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zzz_lib/0.1.1+rc.1/dependencies",
+            "version_downloads": "/api/v1/crates/zzz_lib/0.1.1+rc.1/downloads",
+            "authors": "/api/v1/crates/zzz_lib/0.1.1+rc.1/authors"
+        },
+        "crate_size": 838,
+        "published_by": {
+            "id": 208670,
+            "login": "L-jasmine",
+            "name": "zzz",
+            "avatar": "https://avatars.githubusercontent.com/u/14789875?v=4",
+            "url": "https://github.com/L-jasmine"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 208670,
+                    "login": "L-jasmine",
+                    "name": "zzz",
+                    "avatar": "https://avatars.githubusercontent.com/u/14789875?v=4",
+                    "url": "https://github.com/L-jasmine"
+                },
+                "time": "2023-10-09T15:47:04.715676Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 208670,
+                    "login": "L-jasmine",
+                    "name": "zzz",
+                    "avatar": "https://avatars.githubusercontent.com/u/14789875?v=4",
+                    "url": "https://github.com/L-jasmine"
+                },
+                "time": "2023-10-09T15:49:23.758383Z"
+            },
+            {
+                "action": "unyank",
+                "user": {
+                    "id": 208670,
+                    "login": "L-jasmine",
+                    "name": "zzz",
+                    "avatar": "https://avatars.githubusercontent.com/u/14789875?v=4",
+                    "url": "https://github.com/L-jasmine"
+                },
+                "time": "2023-10-09T15:49:27.380120Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 208670,
+                    "login": "L-jasmine",
+                    "name": "zzz",
+                    "avatar": "https://avatars.githubusercontent.com/u/14789875?v=4",
+                    "url": "https://github.com/L-jasmine"
+                },
+                "time": "2023-10-09T15:50:21.453433Z"
+            },
+            {
+                "action": "unyank",
+                "user": {
+                    "id": 208670,
+                    "login": "L-jasmine",
+                    "name": "zzz",
+                    "avatar": "https://avatars.githubusercontent.com/u/14789875?v=4",
+                    "url": "https://github.com/L-jasmine"
+                },
+                "time": "2024-04-30T09:56:14.603668Z"
+            }
+        ],
+        "checksum": "a68de46dd2fe7c27695b2f8682369c0d63a36ed87d5b7516e07e2df069dcdd40",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A fun game where you guess what number the computer has chosen.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 12,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 12,
+            "total_comment_lines": 0
+        }
+    }
+}

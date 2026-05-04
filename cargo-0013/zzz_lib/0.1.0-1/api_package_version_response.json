@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 920765,
+        "crate": "zzz_lib",
+        "num": "0.1.0-1",
+        "dl_path": "/api/v1/crates/zzz_lib/0.1.0-1/download",
+        "readme_path": "/api/v1/crates/zzz_lib/0.1.0-1/readme",
+        "updated_at": "2023-10-09T16:01:05.590921Z",
+        "created_at": "2023-10-09T16:01:05.590921Z",
+        "downloads": 1136,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zzz_lib/0.1.0-1/dependencies",
+            "version_downloads": "/api/v1/crates/zzz_lib/0.1.0-1/downloads",
+            "authors": "/api/v1/crates/zzz_lib/0.1.0-1/authors"
+        },
+        "crate_size": 831,
+        "published_by": {
+            "id": 208670,
+            "login": "L-jasmine",
+            "name": "zzz",
+            "avatar": "https://avatars.githubusercontent.com/u/14789875?v=4",
+            "url": "https://github.com/L-jasmine"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 208670,
+                    "login": "L-jasmine",
+                    "name": "zzz",
+                    "avatar": "https://avatars.githubusercontent.com/u/14789875?v=4",
+                    "url": "https://github.com/L-jasmine"
+                },
+                "time": "2023-10-09T16:01:05.590921Z"
+            }
+        ],
+        "checksum": "3442eae9ce80448ced2fbd867028ad758f63bd4542514af408672e9b3887584f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A fun game where you guess what number the computer has chosen.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 12,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 12,
+            "total_comment_lines": 0
+        }
+    }
+}
