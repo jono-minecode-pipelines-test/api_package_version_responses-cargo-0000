@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 187427,
+        "crate": "zstd",
+        "num": "0.5.1+zstd.1.4.4",
+        "dl_path": "/api/v1/crates/zstd/0.5.1+zstd.1.4.4/download",
+        "readme_path": "/api/v1/crates/zstd/0.5.1+zstd.1.4.4/readme",
+        "updated_at": "2019-11-05T19:49:04.871535Z",
+        "created_at": "2019-11-05T19:49:04.871535Z",
+        "downloads": 303700,
+        "features": {
+            "bindgen": [
+                "zstd-safe/bindgen"
+            ],
+            "default": [
+                "legacy"
+            ],
+            "legacy": [
+                "zstd-safe/legacy"
+            ],
+            "tokio": [
+                "tokio-io",
+                "futures"
+            ],
+            "wasm": [
+                "zstd-safe/std"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd/0.5.1+zstd.1.4.4/dependencies",
+            "version_downloads": "/api/v1/crates/zstd/0.5.1+zstd.1.4.4/downloads",
+            "authors": "/api/v1/crates/zstd/0.5.1+zstd.1.4.4/authors"
+        },
+        "crate_size": 26509,
+        "published_by": {
+            "id": 3203,
+            "login": "gyscos",
+            "name": "Alexandre Bury",
+            "avatar": "https://avatars.githubusercontent.com/u/564903?v=4",
+            "url": "https://github.com/gyscos"
+        },
+        "audit_actions": [],
+        "checksum": "5c5d978b793ae64375b80baf652919b148f6a496ac8802922d9999f5a553194f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Binding for the zstd compression library.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zstd",
+        "repository": "https://github.com/gyscos/zstd-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1545,
+                    "comment_lines": 109,
+                    "files": 18
+                }
+            },
+            "total_code_lines": 1545,
+            "total_comment_lines": 109
+        }
+    }
+}

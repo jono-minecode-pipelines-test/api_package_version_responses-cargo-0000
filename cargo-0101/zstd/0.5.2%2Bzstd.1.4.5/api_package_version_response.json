@@ -1,0 +1,81 @@
+{
+    "version": {
+        "id": 244615,
+        "crate": "zstd",
+        "num": "0.5.2+zstd.1.4.5",
+        "dl_path": "/api/v1/crates/zstd/0.5.2+zstd.1.4.5/download",
+        "readme_path": "/api/v1/crates/zstd/0.5.2+zstd.1.4.5/readme",
+        "updated_at": "2020-05-24T04:17:50.647479Z",
+        "created_at": "2020-05-24T04:17:50.647479Z",
+        "downloads": 64409,
+        "features": {
+            "bindgen": [
+                "zstd-safe/bindgen"
+            ],
+            "default": [
+                "legacy"
+            ],
+            "legacy": [
+                "zstd-safe/legacy"
+            ],
+            "tokio": [
+                "tokio-io",
+                "futures"
+            ],
+            "wasm": [
+                "zstd-safe/std"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd/0.5.2+zstd.1.4.5/dependencies",
+            "version_downloads": "/api/v1/crates/zstd/0.5.2+zstd.1.4.5/downloads",
+            "authors": "/api/v1/crates/zstd/0.5.2+zstd.1.4.5/authors"
+        },
+        "crate_size": 25997,
+        "published_by": {
+            "id": 3203,
+            "login": "gyscos",
+            "name": "Alexandre Bury",
+            "avatar": "https://avatars.githubusercontent.com/u/564903?v=4",
+            "url": "https://github.com/gyscos"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 3203,
+                    "login": "gyscos",
+                    "name": "Alexandre Bury",
+                    "avatar": "https://avatars.githubusercontent.com/u/564903?v=4",
+                    "url": "https://github.com/gyscos"
+                },
+                "time": "2020-05-24T04:17:50.647479Z"
+            }
+        ],
+        "checksum": "644352b10ce7f333d6e0af85bd4f5322dc449416dc1211c6308e95bca8923db4",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Binding for the zstd compression library.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zstd",
+        "repository": "https://github.com/gyscos/zstd-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1545,
+                    "comment_lines": 109,
+                    "files": 18
+                }
+            },
+            "total_code_lines": 1545,
+            "total_comment_lines": 109
+        }
+    }
+}

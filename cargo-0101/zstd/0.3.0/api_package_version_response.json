@@ -1,0 +1,81 @@
+{
+    "version": {
+        "id": 33113,
+        "crate": "zstd",
+        "num": "0.3.0",
+        "dl_path": "/api/v1/crates/zstd/0.3.0/download",
+        "readme_path": "/api/v1/crates/zstd/0.3.0/readme",
+        "updated_at": "2017-11-30T02:51:16.314217Z",
+        "created_at": "2016-09-04T20:35:03.676107Z",
+        "downloads": 3312,
+        "features": {
+            "default": [
+                "legacy"
+            ],
+            "legacy": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd/0.3.0/dependencies",
+            "version_downloads": "/api/v1/crates/zstd/0.3.0/downloads",
+            "authors": "/api/v1/crates/zstd/0.3.0/authors"
+        },
+        "crate_size": 614169,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "b3625b80ac6e4ebeb60f2daf93827520635d6d6e35a92a9ba0d450c070268597",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Binding for the zstd compression library.",
+        "homepage": null,
+        "documentation": "https://gyscos.github.io/zstd-rs/zstd/index.html",
+        "repository": "https://github.com/gyscos/zstd-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C": {
+                    "code_lines": 27211,
+                    "comment_lines": 8248,
+                    "files": 26
+                },
+                "C Header": {
+                    "code_lines": 2941,
+                    "comment_lines": 2008,
+                    "files": 27
+                },
+                "Ruby": {
+                    "code_lines": 16,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 1037,
+                    "comment_lines": 52,
+                    "files": 10
+                },
+                "Shell": {
+                    "code_lines": 10,
+                    "comment_lines": 1,
+                    "files": 1
+                },
+                "Visual Studio Project": {
+                    "code_lines": 4880,
+                    "comment_lines": 0,
+                    "files": 13
+                },
+                "Visual Studio Solution": {
+                    "code_lines": 176,
+                    "comment_lines": 0,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 36271,
+            "total_comment_lines": 10309
+        }
+    }
+}

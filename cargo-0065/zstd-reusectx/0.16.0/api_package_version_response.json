@@ -1,0 +1,108 @@
+{
+    "version": {
+        "id": 1529209,
+        "crate": "zstd-reusectx",
+        "num": "0.16.0",
+        "dl_path": "/api/v1/crates/zstd-reusectx/0.16.0/download",
+        "readme_path": "/api/v1/crates/zstd-reusectx/0.16.0/readme",
+        "updated_at": "2025-04-18T08:06:34.942308Z",
+        "created_at": "2025-04-18T08:06:34.942308Z",
+        "downloads": 683,
+        "features": {
+            "arrays": [
+                "zstd-safe/arrays"
+            ],
+            "bindgen": [
+                "zstd-safe/bindgen"
+            ],
+            "debug": [
+                "zstd-safe/debug"
+            ],
+            "default": [
+                "legacy",
+                "arrays",
+                "zdict_builder"
+            ],
+            "doc-cfg": [],
+            "experimental": [
+                "zstd-safe/experimental"
+            ],
+            "fat-lto": [
+                "zstd-safe/fat-lto"
+            ],
+            "legacy": [
+                "zstd-safe/legacy"
+            ],
+            "no_asm": [
+                "zstd-safe/no_asm"
+            ],
+            "pkg-config": [
+                "zstd-safe/pkg-config"
+            ],
+            "thin": [
+                "zstd-safe/thin"
+            ],
+            "thin-lto": [
+                "zstd-safe/thin-lto"
+            ],
+            "wasm": [],
+            "zdict_builder": [
+                "zstd-safe/zdict_builder"
+            ],
+            "zstdmt": [
+                "zstd-safe/zstdmt"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd-reusectx/0.16.0/dependencies",
+            "version_downloads": "/api/v1/crates/zstd-reusectx/0.16.0/downloads",
+            "authors": "/api/v1/crates/zstd-reusectx/0.16.0/authors"
+        },
+        "crate_size": 31289,
+        "published_by": {
+            "id": 254627,
+            "login": "lordofpipes",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/68424788?v=4",
+            "url": "https://github.com/lordofpipes"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 254627,
+                    "login": "lordofpipes",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/68424788?v=4",
+                    "url": "https://github.com/lordofpipes"
+                },
+                "time": "2025-04-18T08:06:34.942308Z"
+            }
+        ],
+        "checksum": "4a00948aafe033941e72749061789510468de7f2aeff820613c5ba6bbe6b2c54",
+        "rust_version": "1.64",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Binding for the zstd compression library, with the ability to reuse compression contexts.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zstd-reusectx",
+        "repository": "https://github.com/lordofpipes/zstd-reusectx",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2021,
+                    "comment_lines": 142,
+                    "files": 17
+                }
+            },
+            "total_code_lines": 2021,
+            "total_comment_lines": 142
+        }
+    }
+}

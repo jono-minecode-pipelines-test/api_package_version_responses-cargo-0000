@@ -1,0 +1,67 @@
+{
+    "version": {
+        "id": 57756,
+        "crate": "zstd",
+        "num": "0.4.11",
+        "dl_path": "/api/v1/crates/zstd/0.4.11/download",
+        "readme_path": "/api/v1/crates/zstd/0.4.11/readme",
+        "updated_at": "2017-11-30T03:10:38.499253Z",
+        "created_at": "2017-06-23T20:49:20.093392Z",
+        "downloads": 3171,
+        "features": {
+            "bindgen": [
+                "zstd-safe/bindgen"
+            ],
+            "default": [
+                "legacy"
+            ],
+            "legacy": [
+                "zstd-safe/legacy"
+            ],
+            "tokio": [
+                "tokio-io",
+                "futures",
+                "partial-io/quickcheck",
+                "partial-io/tokio"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd/0.4.11/dependencies",
+            "version_downloads": "/api/v1/crates/zstd/0.4.11/downloads",
+            "authors": "/api/v1/crates/zstd/0.4.11/authors"
+        },
+        "crate_size": 26030,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "d788f5aca0669f4d2c7439d5ff3bbcd52ad744b8c4fd57d33d6f61006ec572c1",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Binding for the zstd compression library.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zstd",
+        "repository": "https://github.com/gyscos/zstd-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 975,
+                    "comment_lines": 88,
+                    "files": 8
+                },
+                "Shell": {
+                    "code_lines": 10,
+                    "comment_lines": 1,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 985,
+            "total_comment_lines": 89
+        }
+    }
+}

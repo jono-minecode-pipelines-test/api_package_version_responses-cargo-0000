@@ -1,0 +1,58 @@
+{
+    "version": {
+        "id": 48669,
+        "crate": "zstd",
+        "num": "0.4.6",
+        "dl_path": "/api/v1/crates/zstd/0.4.6/download",
+        "readme_path": "/api/v1/crates/zstd/0.4.6/readme",
+        "updated_at": "2017-11-30T02:25:10.811424Z",
+        "created_at": "2017-03-24T19:53:29.651049Z",
+        "downloads": 3263,
+        "features": {
+            "default": [
+                "legacy"
+            ],
+            "legacy": [
+                "zstd-sys/legacy"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd/0.4.6/dependencies",
+            "version_downloads": "/api/v1/crates/zstd/0.4.6/downloads",
+            "authors": "/api/v1/crates/zstd/0.4.6/authors"
+        },
+        "crate_size": 21959,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "328b045a0ed670b4e7aaa695dfb450c2e5aae8ca3b4d47d2fe60e961511b0c3f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Binding for the zstd compression library.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zstd",
+        "repository": "https://github.com/gyscos/zstd-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 727,
+                    "comment_lines": 55,
+                    "files": 8
+                },
+                "Shell": {
+                    "code_lines": 10,
+                    "comment_lines": 1,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 737,
+            "total_comment_lines": 56
+        }
+    }
+}
