@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2337688,
+        "crate": "zshrs-parse",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zshrs-parse/0.1.0/download",
+        "readme_path": "/api/v1/crates/zshrs-parse/0.1.0/readme",
+        "updated_at": "2026-05-02T03:52:16.246437Z",
+        "created_at": "2026-05-02T03:52:16.246437Z",
+        "downloads": 19,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zshrs-parse/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zshrs-parse/0.1.0/downloads",
+            "authors": "/api/v1/crates/zshrs-parse/0.1.0/authors"
+        },
+        "crate_size": 62100,
+        "published_by": {
+            "id": 139708,
+            "login": "MenkeTechnologies",
+            "name": "MenkeTechnologies",
+            "avatar": "https://avatars.githubusercontent.com/u/18195247?v=4",
+            "url": "https://github.com/MenkeTechnologies"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 139708,
+                    "login": "MenkeTechnologies",
+                    "name": "MenkeTechnologies",
+                    "avatar": "https://avatars.githubusercontent.com/u/18195247?v=4",
+                    "url": "https://github.com/MenkeTechnologies"
+                },
+                "time": "2026-05-02T03:52:16.246437Z"
+            }
+        ],
+        "checksum": "a67c2d558abc4ee089228684457b93775e137bc620a6dd24e943945a00d91129",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Lexer + parser for zshrs \u2014 port of zsh's lex.c + parse.c. Shared between the zshrs runtime and zshrs-daemon.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/MenkeTechnologies/zshrs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 5595,
+                    "comment_lines": 585,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 5595,
+            "total_comment_lines": 585
+        }
+    }
+}

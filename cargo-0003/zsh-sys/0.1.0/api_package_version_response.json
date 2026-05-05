@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 704539,
+        "crate": "zsh-sys",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zsh-sys/0.1.0/download",
+        "readme_path": "/api/v1/crates/zsh-sys/0.1.0/readme",
+        "updated_at": "2023-01-16T12:08:22.141493Z",
+        "created_at": "2023-01-16T12:08:22.141493Z",
+        "downloads": 1453,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsh-sys/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zsh-sys/0.1.0/downloads",
+            "authors": "/api/v1/crates/zsh-sys/0.1.0/authors"
+        },
+        "crate_size": 76761,
+        "published_by": {
+            "id": 154765,
+            "login": "Diegovsky",
+            "name": "Diego Augusto",
+            "avatar": "https://avatars.githubusercontent.com/u/46163903?v=4",
+            "url": "https://github.com/Diegovsky"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 154765,
+                    "login": "Diegovsky",
+                    "name": "Diego Augusto",
+                    "avatar": "https://avatars.githubusercontent.com/u/46163903?v=4",
+                    "url": "https://github.com/Diegovsky"
+                },
+                "time": "2023-01-16T12:08:22.141493Z"
+            }
+        ],
+        "checksum": "be4aab6170df21273668770b089ce3ab50eb0a9c7b57f8f3036c07a2018d1c74",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Low-level bindings to zsh internals",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C Header": {
+                    "code_lines": 4565,
+                    "comment_lines": 1922,
+                    "files": 16
+                },
+                "Rust": {
+                    "code_lines": 21,
+                    "comment_lines": 2,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 4586,
+            "total_comment_lines": 1924
+        }
+    }
+}

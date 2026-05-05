@@ -1,0 +1,68 @@
+{
+    "version": {
+        "id": 1156619,
+        "crate": "zshuffle-wasm",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zshuffle-wasm/0.1.1/download",
+        "readme_path": "/api/v1/crates/zshuffle-wasm/0.1.1/readme",
+        "updated_at": "2024-05-27T05:17:32.371986Z",
+        "created_at": "2024-05-27T05:17:32.371986Z",
+        "downloads": 1098,
+        "features": {
+            "default": [
+                "console_error_panic_hook"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0-only",
+        "links": {
+            "dependencies": "/api/v1/crates/zshuffle-wasm/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zshuffle-wasm/0.1.1/downloads",
+            "authors": "/api/v1/crates/zshuffle-wasm/0.1.1/authors"
+        },
+        "crate_size": 11019,
+        "published_by": {
+            "id": 44187,
+            "login": "sunhuachuang",
+            "name": "Neo Sun",
+            "avatar": "https://avatars.githubusercontent.com/u/12514343?v=4",
+            "url": "https://github.com/sunhuachuang"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 44187,
+                    "login": "sunhuachuang",
+                    "name": "Neo Sun",
+                    "avatar": "https://avatars.githubusercontent.com/u/12514343?v=4",
+                    "url": "https://github.com/sunhuachuang"
+                },
+                "time": "2024-05-27T05:17:32.371986Z"
+            }
+        ],
+        "checksum": "db3d07becbcfd02d611f139f36b66e6a157784d9ef0028104c09db8ddcac9bf1",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "WASM SDK for encrypt and shuffle cards",
+        "homepage": "https://zypher.network",
+        "documentation": null,
+        "repository": "https://github.com/zypher-game/uzkge",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 575,
+                    "comment_lines": 2,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 575,
+            "total_comment_lines": 2
+        }
+    }
+}
