@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1886238,
+        "crate": "zots-core",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zots-core/0.1.0/download",
+        "readme_path": "/api/v1/crates/zots-core/0.1.0/readme",
+        "updated_at": "2025-12-17T11:05:47.960752Z",
+        "created_at": "2025-12-17T11:05:47.960752Z",
+        "downloads": 19,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zots-core/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zots-core/0.1.0/downloads",
+            "authors": "/api/v1/crates/zots-core/0.1.0/authors"
+        },
+        "crate_size": 11676,
+        "published_by": {
+            "id": 115553,
+            "login": "AbdelStark",
+            "name": "A\u20bfdel \u221e/21M",
+            "avatar": "https://avatars.githubusercontent.com/u/45264458?v=4",
+            "url": "https://github.com/AbdelStark"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 115553,
+                    "login": "AbdelStark",
+                    "name": "A\u20bfdel \u221e/21M",
+                    "avatar": "https://avatars.githubusercontent.com/u/45264458?v=4",
+                    "url": "https://github.com/AbdelStark"
+                },
+                "time": "2025-12-17T11:05:47.960752Z"
+            }
+        ],
+        "checksum": "2a74b23bf8cae645f6c6322eb1e776a4c171db5f1fe82a80d4251a0bb8ed6015",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Core library for zOpenTimestamps - hashing, proof format, verification",
+        "homepage": "https://github.com/AbdelStark/zopentimestamps",
+        "documentation": "https://github.com/AbdelStark/zopentimestamps/blob/main/README.md",
+        "repository": "https://github.com/AbdelStark/zopentimestamps",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 600,
+                    "comment_lines": 19,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 600,
+            "total_comment_lines": 19
+        }
+    }
+}
