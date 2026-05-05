@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1106398,
+        "crate": "zng-task-proc-macros",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zng-task-proc-macros/0.2.0/download",
+        "readme_path": "/api/v1/crates/zng-task-proc-macros/0.2.0/readme",
+        "updated_at": "2024-04-07T15:31:54.338205Z",
+        "created_at": "2024-04-07T15:31:54.338205Z",
+        "downloads": 1106,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-task-proc-macros/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zng-task-proc-macros/0.2.0/downloads",
+            "authors": "/api/v1/crates/zng-task-proc-macros/0.2.0/authors"
+        },
+        "crate_size": 1747,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-04-07T15:31:54.338205Z"
+            }
+        ],
+        "checksum": "57310977fcfbcd2dff8264d70353b24c61cc562edd0a5efbaa7b6e61dc6817e4",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zng-task-proc-macros",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 54,
+                    "comment_lines": 0,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 54,
+            "total_comment_lines": 0
+        }
+    }
+}
