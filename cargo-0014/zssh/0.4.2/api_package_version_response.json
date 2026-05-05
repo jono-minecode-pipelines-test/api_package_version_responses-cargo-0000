@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1157647,
+        "crate": "zssh",
+        "num": "0.4.2",
+        "dl_path": "/api/v1/crates/zssh/0.4.2/download",
+        "readme_path": "/api/v1/crates/zssh/0.4.2/readme",
+        "updated_at": "2024-05-28T11:03:31.531239Z",
+        "created_at": "2024-05-28T11:03:31.531239Z",
+        "downloads": 11870,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zssh/0.4.2/dependencies",
+            "version_downloads": "/api/v1/crates/zssh/0.4.2/downloads",
+            "authors": "/api/v1/crates/zssh/0.4.2/authors"
+        },
+        "crate_size": 27981,
+        "published_by": {
+            "id": 55205,
+            "login": "TomCrypto",
+            "name": "Thomas B\u00e9n\u00e9teau",
+            "avatar": "https://avatars.githubusercontent.com/u/1861870?v=4",
+            "url": "https://github.com/TomCrypto"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 55205,
+                    "login": "TomCrypto",
+                    "name": "Thomas B\u00e9n\u00e9teau",
+                    "avatar": "https://avatars.githubusercontent.com/u/1861870?v=4",
+                    "url": "https://github.com/TomCrypto"
+                },
+                "time": "2024-05-28T11:03:31.531239Z"
+            }
+        ],
+        "checksum": "19463c1944842efd88582d606f9ea1060a80a233b76b94924a48e0324f0d434c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Minimal SSH server for embedded applications.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zssh",
+        "repository": "https://github.com/TomCrypto/zssh",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2503,
+                    "comment_lines": 46,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 2503,
+            "total_comment_lines": 46
+        }
+    }
+}
