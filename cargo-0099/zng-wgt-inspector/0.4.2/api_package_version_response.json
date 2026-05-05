@@ -1,0 +1,79 @@
+{
+    "version": {
+        "id": 1510895,
+        "crate": "zng-wgt-inspector",
+        "num": "0.4.2",
+        "dl_path": "/api/v1/crates/zng-wgt-inspector/0.4.2/download",
+        "readme_path": "/api/v1/crates/zng-wgt-inspector/0.4.2/readme",
+        "updated_at": "2025-04-04T17:40:11.000431Z",
+        "created_at": "2025-04-04T17:40:11.000431Z",
+        "downloads": 627,
+        "features": {
+            "crash_handler": [
+                "zng-app/crash_handler",
+                "dep:open"
+            ],
+            "debug_default": [],
+            "default": [
+                "debug_default"
+            ],
+            "live": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wgt-inspector/0.4.2/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wgt-inspector/0.4.2/downloads",
+            "authors": "/api/v1/crates/zng-wgt-inspector/0.4.2/authors"
+        },
+        "crate_size": 43447,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-04-04T17:40:11.000431Z"
+            }
+        ],
+        "checksum": "0f8991d99515b5b5b6dfbe83d2dd6f87c47a4ae4af1cdf334651dafb2edc2d2a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_wgt_inspector",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "FreeMarker": {
+                    "code_lines": 169,
+                    "comment_lines": 0,
+                    "files": 6
+                },
+                "Rust": {
+                    "code_lines": 1950,
+                    "comment_lines": 34,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 2119,
+            "total_comment_lines": 34
+        }
+    }
+}
