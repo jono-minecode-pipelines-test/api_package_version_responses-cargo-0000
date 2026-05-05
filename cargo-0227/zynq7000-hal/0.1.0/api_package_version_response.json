@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 1765983,
+        "crate": "zynq7000-hal",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zynq7000-hal/0.1.0/download",
+        "readme_path": "/api/v1/crates/zynq7000-hal/0.1.0/readme",
+        "updated_at": "2025-10-08T22:49:01.386453Z",
+        "created_at": "2025-10-08T22:49:01.386453Z",
+        "downloads": 271,
+        "features": {
+            "7z010-7z007s-clg225": [],
+            "alloc": [],
+            "std": [
+                "thiserror/std",
+                "alloc"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zynq7000-hal/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zynq7000-hal/0.1.0/downloads",
+            "authors": "/api/v1/crates/zynq7000-hal/0.1.0/authors"
+        },
+        "crate_size": 87308,
+        "published_by": {
+            "id": 124403,
+            "login": "robamu",
+            "name": "Robin Mueller",
+            "avatar": "https://avatars.githubusercontent.com/u/31589589?v=4",
+            "url": "https://github.com/robamu"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 124403,
+                    "login": "robamu",
+                    "name": "Robin Mueller",
+                    "avatar": "https://avatars.githubusercontent.com/u/31589589?v=4",
+                    "url": "https://github.com/robamu"
+                },
+                "time": "2025-10-08T22:49:01.386453Z"
+            }
+        ],
+        "checksum": "f7b455ea86f372836580f94ab65efa1e56aa2c2c05d5119d10dfe3cfab3689cf",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Hardware Abstraction Layer (HAL) for the Zynq7000 family of SoCs",
+        "homepage": "https://egit.irs.uni-stuttgart.de/rust/zynq7000-rs",
+        "documentation": null,
+        "repository": "https://egit.irs.uni-stuttgart.de/rust/zynq7000-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 9545,
+                    "comment_lines": 313,
+                    "files": 36
+                }
+            },
+            "total_code_lines": 9545,
+            "total_comment_lines": 313
+        }
+    }
+}

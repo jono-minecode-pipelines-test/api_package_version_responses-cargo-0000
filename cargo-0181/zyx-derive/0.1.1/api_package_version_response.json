@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 1090348,
+        "crate": "zyx-derive",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zyx-derive/0.1.1/download",
+        "readme_path": "/api/v1/crates/zyx-derive/0.1.1/readme",
+        "updated_at": "2024-03-21T16:35:49.320918Z",
+        "created_at": "2024-03-21T16:35:49.320918Z",
+        "downloads": 1525,
+        "features": {
+            "default": [
+                "std"
+            ],
+            "std": [
+                "zyx-core/std"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zyx-derive/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zyx-derive/0.1.1/downloads",
+            "authors": "/api/v1/crates/zyx-derive/0.1.1/authors"
+        },
+        "crate_size": 2552,
+        "published_by": {
+            "id": 177851,
+            "login": "zk4x",
+            "name": "zk4x",
+            "avatar": "https://avatars.githubusercontent.com/u/114350751?v=4",
+            "url": "https://github.com/zk4x"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 177851,
+                    "login": "zk4x",
+                    "name": "zk4x",
+                    "avatar": "https://avatars.githubusercontent.com/u/114350751?v=4",
+                    "url": "https://github.com/zk4x"
+                },
+                "time": "2024-03-21T16:35:49.320918Z"
+            }
+        ],
+        "checksum": "8db27c4275a3e1f8bed9fc2a79fb02c7df537c9879d89fc094d74196db9346ec",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Zyx procedural macros",
+        "homepage": "https://github.com/zk4x/zyx",
+        "documentation": "https://docs.rs/zyx-derive",
+        "repository": "https://github.com/zk4x/zyx",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 96,
+                    "comment_lines": 2,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 96,
+            "total_comment_lines": 2
+        }
+    }
+}

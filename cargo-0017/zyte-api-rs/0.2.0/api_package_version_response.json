@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 808724,
+        "crate": "zyte-api-rs",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zyte-api-rs/0.2.0/download",
+        "readme_path": "/api/v1/crates/zyte-api-rs/0.2.0/readme",
+        "updated_at": "2023-05-25T23:50:18.722824Z",
+        "created_at": "2023-05-25T23:50:18.722824Z",
+        "downloads": 1555,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zyte-api-rs/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zyte-api-rs/0.2.0/downloads",
+            "authors": "/api/v1/crates/zyte-api-rs/0.2.0/authors"
+        },
+        "crate_size": 7167,
+        "published_by": {
+            "id": 196902,
+            "login": "isaacimholt",
+            "name": "Isaac Imholt",
+            "avatar": "https://avatars.githubusercontent.com/u/12482837?v=4",
+            "url": "https://github.com/isaacimholt"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 196902,
+                    "login": "isaacimholt",
+                    "name": "Isaac Imholt",
+                    "avatar": "https://avatars.githubusercontent.com/u/12482837?v=4",
+                    "url": "https://github.com/isaacimholt"
+                },
+                "time": "2023-05-25T23:50:18.722824Z"
+            }
+        ],
+        "checksum": "99636c139a92cc47fc48ea44d2dbc4801c4a37878cb33329c08674bf202ada68",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Use the Zyte API Proxy -- Unofficial & Unstable",
+        "homepage": "https://github.com/isaacimholt/zyte-api-rs",
+        "documentation": "https://github.com/isaacimholt/zyte-api-rs",
+        "repository": "https://github.com/isaacimholt/zyte-api-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 108,
+                    "comment_lines": 6,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 108,
+            "total_comment_lines": 6
+        }
+    }
+}
