@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1270793,
+        "crate": "zng-color-proc-macros",
+        "num": "0.2.7",
+        "dl_path": "/api/v1/crates/zng-color-proc-macros/0.2.7/download",
+        "readme_path": "/api/v1/crates/zng-color-proc-macros/0.2.7/readme",
+        "updated_at": "2024-09-15T19:15:44.529385Z",
+        "created_at": "2024-09-15T19:15:44.529385Z",
+        "downloads": 9141,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-color-proc-macros/0.2.7/dependencies",
+            "version_downloads": "/api/v1/crates/zng-color-proc-macros/0.2.7/downloads",
+            "authors": "/api/v1/crates/zng-color-proc-macros/0.2.7/authors"
+        },
+        "crate_size": 2052,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-09-15T19:15:44.529385Z"
+            }
+        ],
+        "checksum": "d8eeb0a44996de9062a2de5d0e9d21a74a2eef792f2c47a139011a0b0fd731b4",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_color_proc_macros",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 89,
+                    "comment_lines": 5,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 89,
+            "total_comment_lines": 5
+        }
+    }
+}
