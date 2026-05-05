@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1896194,
+        "crate": "zombie_utils",
+        "num": "0.0.2",
+        "dl_path": "/api/v1/crates/zombie_utils/0.0.2/download",
+        "readme_path": "/api/v1/crates/zombie_utils/0.0.2/readme",
+        "updated_at": "2025-12-22T10:32:42.403272Z",
+        "created_at": "2025-12-22T10:32:42.403272Z",
+        "downloads": 18,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zombie_utils/0.0.2/dependencies",
+            "version_downloads": "/api/v1/crates/zombie_utils/0.0.2/downloads",
+            "authors": "/api/v1/crates/zombie_utils/0.0.2/authors"
+        },
+        "crate_size": 7617,
+        "published_by": {
+            "id": 337376,
+            "login": "kawayww",
+            "name": "K.Y.",
+            "avatar": "https://avatars.githubusercontent.com/u/213631983?v=4",
+            "url": "https://github.com/kawayww"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 337376,
+                    "login": "kawayww",
+                    "name": "K.Y.",
+                    "avatar": "https://avatars.githubusercontent.com/u/213631983?v=4",
+                    "url": "https://github.com/kawayww"
+                },
+                "time": "2025-12-22T10:32:42.403272Z"
+            }
+        ],
+        "checksum": "0aa80340930742f5190916e1226f014d3a8001e73a505374db9dbd371d6580a0",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Utility functions and combinators for zombie-rs (bindN, sequence, zip, traverse, etc.)",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/kawayww/zombie-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 517,
+                    "comment_lines": 18,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 517,
+            "total_comment_lines": 18
+        }
+    }
+}

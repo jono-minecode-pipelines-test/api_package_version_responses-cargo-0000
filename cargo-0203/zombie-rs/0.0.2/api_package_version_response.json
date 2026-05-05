@@ -1,0 +1,106 @@
+{
+    "version": {
+        "id": 1896193,
+        "crate": "zombie-rs",
+        "num": "0.0.2",
+        "dl_path": "/api/v1/crates/zombie-rs/0.0.2/download",
+        "readme_path": "/api/v1/crates/zombie-rs/0.0.2/readme",
+        "updated_at": "2025-12-22T10:32:25.931804Z",
+        "created_at": "2025-12-22T10:32:25.931804Z",
+        "downloads": 22,
+        "features": {
+            "cli": [
+                "dep:colored",
+                "dep:serde",
+                "dep:serde_json"
+            ],
+            "default": [
+                "full"
+            ],
+            "derive": [
+                "dep:zombie_derive"
+            ],
+            "full": [
+                "derive",
+                "profiler",
+                "cli"
+            ],
+            "profiler": [
+                "dep:zombie_profiler"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zombie-rs/0.0.2/dependencies",
+            "version_downloads": "/api/v1/crates/zombie-rs/0.0.2/downloads",
+            "authors": "/api/v1/crates/zombie-rs/0.0.2/authors"
+        },
+        "crate_size": 1263052,
+        "published_by": {
+            "id": 337376,
+            "login": "kawayww",
+            "name": "K.Y.",
+            "avatar": "https://avatars.githubusercontent.com/u/213631983?v=4",
+            "url": "https://github.com/kawayww"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 337376,
+                    "login": "kawayww",
+                    "name": "K.Y.",
+                    "avatar": "https://avatars.githubusercontent.com/u/213631983?v=4",
+                    "url": "https://github.com/kawayww"
+                },
+                "time": "2025-12-22T10:32:25.931804Z"
+            }
+        ],
+        "checksum": "02eea4c3128b52ff3cc6c1ce2545011c5c28a388dee9ef7dfa698ff43d88c781",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zombie-rs"
+        ],
+        "edition": "2024",
+        "description": "Zombie - automatic memory management through lazy eviction and recomputation",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/kawayww/zombie-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C++": {
+                    "code_lines": 113,
+                    "comment_lines": 14,
+                    "files": 1
+                },
+                "C++ Header": {
+                    "code_lines": 2129,
+                    "comment_lines": 176,
+                    "files": 19
+                },
+                "Rust": {
+                    "code_lines": 5524,
+                    "comment_lines": 722,
+                    "files": 15
+                },
+                "Shell": {
+                    "code_lines": 84,
+                    "comment_lines": 41,
+                    "files": 2
+                },
+                "Typst": {
+                    "code_lines": 1249,
+                    "comment_lines": 78,
+                    "files": 20
+                }
+            },
+            "total_code_lines": 9099,
+            "total_comment_lines": 1031
+        }
+    }
+}
