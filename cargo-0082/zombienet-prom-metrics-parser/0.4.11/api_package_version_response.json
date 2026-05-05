@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 2256550,
+        "crate": "zombienet-prom-metrics-parser",
+        "num": "0.4.11",
+        "dl_path": "/api/v1/crates/zombienet-prom-metrics-parser/0.4.11/download",
+        "readme_path": "/api/v1/crates/zombienet-prom-metrics-parser/0.4.11/readme",
+        "updated_at": "2026-04-14T16:08:07.576266Z",
+        "created_at": "2026-04-14T16:08:07.576266Z",
+        "downloads": 359,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR GPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zombienet-prom-metrics-parser/0.4.11/dependencies",
+            "version_downloads": "/api/v1/crates/zombienet-prom-metrics-parser/0.4.11/downloads",
+            "authors": "/api/v1/crates/zombienet-prom-metrics-parser/0.4.11/authors"
+        },
+        "crate_size": 34224,
+        "published_by": {
+            "id": 96881,
+            "login": "pepoviola",
+            "name": "Javier Viola",
+            "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+            "url": "https://github.com/pepoviola"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 96881,
+                    "login": "pepoviola",
+                    "name": "Javier Viola",
+                    "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+                    "url": "https://github.com/pepoviola"
+                },
+                "time": "2026-04-14T16:08:07.576266Z"
+            }
+        ],
+        "checksum": "c6b356bab187eda90677147bea9d10f888764aa8c3b8f5ed9d1cbb97a2a88884",
+        "rust_version": "1.79.0",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Prometheus metric parser, parse metrics provided by internal prometheus server",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/paritytech/zombienet-sdk",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Pest": {
+                    "code_lines": 45,
+                    "comment_lines": 2,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 142,
+                    "comment_lines": 16,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 187,
+            "total_comment_lines": 18
+        }
+    }
+}
