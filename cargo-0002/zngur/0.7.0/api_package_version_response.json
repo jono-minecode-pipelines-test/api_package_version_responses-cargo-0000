@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1700839,
+        "crate": "zngur",
+        "num": "0.7.0",
+        "dl_path": "/api/v1/crates/zngur/0.7.0/download",
+        "readme_path": "/api/v1/crates/zngur/0.7.0/readme",
+        "updated_at": "2025-08-26T08:23:14.425807Z",
+        "created_at": "2025-08-26T08:23:14.425807Z",
+        "downloads": 5601,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zngur/0.7.0/dependencies",
+            "version_downloads": "/api/v1/crates/zngur/0.7.0/downloads",
+            "authors": "/api/v1/crates/zngur/0.7.0/authors"
+        },
+        "crate_size": 5831,
+        "published_by": {
+            "id": 139698,
+            "login": "HKalbasi",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/45197576?v=4",
+            "url": "https://github.com/HKalbasi"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 139698,
+                    "login": "HKalbasi",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/45197576?v=4",
+                    "url": "https://github.com/HKalbasi"
+                },
+                "time": "2025-08-26T08:23:14.425807Z"
+            }
+        ],
+        "checksum": "4149b4d31c320567b4ff83ede3fd75d8bbca8269a3cde7ad91f13496d563c5c8",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "A Rust/C++ interoperability tool",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 56,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 56,
+            "total_comment_lines": 0
+        }
+    }
+}

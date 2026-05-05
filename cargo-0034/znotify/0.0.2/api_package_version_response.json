@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 648612,
+        "crate": "znotify",
+        "num": "0.0.2",
+        "dl_path": "/api/v1/crates/znotify/0.0.2/download",
+        "readme_path": "/api/v1/crates/znotify/0.0.2/readme",
+        "updated_at": "2022-10-24T07:44:48.699050Z",
+        "created_at": "2022-10-24T07:44:48.699050Z",
+        "downloads": 1069,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/znotify/0.0.2/dependencies",
+            "version_downloads": "/api/v1/crates/znotify/0.0.2/downloads",
+            "authors": "/api/v1/crates/znotify/0.0.2/authors"
+        },
+        "crate_size": 7381,
+        "published_by": {
+            "id": 181814,
+            "login": "Zxilly",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/31370133?v=4",
+            "url": "https://github.com/Zxilly"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 181814,
+                    "login": "Zxilly",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/31370133?v=4",
+                    "url": "https://github.com/Zxilly"
+                },
+                "time": "2022-10-24T07:44:48.699050Z"
+            }
+        ],
+        "checksum": "68316b661487799e045d6eb74d5b9ba2825a550e0a8eb1604ef2105f86a09873",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Notify SDK for Rust",
+        "homepage": "https://github.com/ZNotify/rs-sdk",
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 177,
+                    "comment_lines": 0,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 177,
+            "total_comment_lines": 0
+        }
+    }
+}

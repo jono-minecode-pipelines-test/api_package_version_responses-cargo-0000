@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1805480,
+        "crate": "znippy",
+        "num": "0.2.5",
+        "dl_path": "/api/v1/crates/znippy/0.2.5/download",
+        "readme_path": "/api/v1/crates/znippy/0.2.5/readme",
+        "updated_at": "2025-11-02T21:14:52.176920Z",
+        "created_at": "2025-11-02T21:14:52.176920Z",
+        "downloads": 33,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/znippy/0.2.5/dependencies",
+            "version_downloads": "/api/v1/crates/znippy/0.2.5/downloads",
+            "authors": "/api/v1/crates/znippy/0.2.5/authors"
+        },
+        "crate_size": 12978,
+        "published_by": {
+            "id": 181172,
+            "login": "Ignalina",
+            "name": "Rickard Ernst Bj\u00f6rn Lundin",
+            "avatar": "https://avatars.githubusercontent.com/u/33436048?v=4",
+            "url": "https://github.com/Ignalina"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 181172,
+                    "login": "Ignalina",
+                    "name": "Rickard Ernst Bj\u00f6rn Lundin",
+                    "avatar": "https://avatars.githubusercontent.com/u/33436048?v=4",
+                    "url": "https://github.com/Ignalina"
+                },
+                "time": "2025-11-02T21:14:52.176920Z"
+            }
+        ],
+        "checksum": "985af1dbeab5cebc732aa431574175248843c71fed35391ae8ccd34998989518",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "znippy"
+        ],
+        "edition": "2024",
+        "description": "Znippy compresses files using Arrow IPC. Readable by DuckDB,Polars,Datafusion. May Allfather Odin watch over every bit.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Ignalina/znippy",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3,
+            "total_comment_lines": 0
+        }
+    }
+}

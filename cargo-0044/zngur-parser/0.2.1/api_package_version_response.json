@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 906834,
+        "crate": "zngur-parser",
+        "num": "0.2.1",
+        "dl_path": "/api/v1/crates/zngur-parser/0.2.1/download",
+        "readme_path": "/api/v1/crates/zngur-parser/0.2.1/readme",
+        "updated_at": "2023-09-25T19:50:50.074249Z",
+        "created_at": "2023-09-25T19:50:50.074249Z",
+        "downloads": 1152,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zngur-parser/0.2.1/dependencies",
+            "version_downloads": "/api/v1/crates/zngur-parser/0.2.1/downloads",
+            "authors": "/api/v1/crates/zngur-parser/0.2.1/authors"
+        },
+        "crate_size": 7969,
+        "published_by": {
+            "id": 139698,
+            "login": "HKalbasi",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/45197576?v=4",
+            "url": "https://github.com/HKalbasi"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 139698,
+                    "login": "HKalbasi",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/45197576?v=4",
+                    "url": "https://github.com/HKalbasi"
+                },
+                "time": "2023-09-25T19:50:50.074249Z"
+            }
+        ],
+        "checksum": "ee5f19fc47c8b4accf5d1e9e3cee705a8b24c293edb7e0dce6d75379d644e8be",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Parser of the zng file",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1019,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 1019,
+            "total_comment_lines": 0
+        }
+    }
+}

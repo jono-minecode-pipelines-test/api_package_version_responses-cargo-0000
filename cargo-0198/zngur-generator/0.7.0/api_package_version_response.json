@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1700837,
+        "crate": "zngur-generator",
+        "num": "0.7.0",
+        "dl_path": "/api/v1/crates/zngur-generator/0.7.0/download",
+        "readme_path": "/api/v1/crates/zngur-generator/0.7.0/readme",
+        "updated_at": "2025-08-26T08:22:55.882425Z",
+        "created_at": "2025-08-26T08:22:55.882425Z",
+        "downloads": 5751,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zngur-generator/0.7.0/dependencies",
+            "version_downloads": "/api/v1/crates/zngur-generator/0.7.0/downloads",
+            "authors": "/api/v1/crates/zngur-generator/0.7.0/authors"
+        },
+        "crate_size": 21410,
+        "published_by": {
+            "id": 139698,
+            "login": "HKalbasi",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/45197576?v=4",
+            "url": "https://github.com/HKalbasi"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 139698,
+                    "login": "HKalbasi",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/45197576?v=4",
+                    "url": "https://github.com/HKalbasi"
+                },
+                "time": "2025-08-26T08:22:55.882425Z"
+            }
+        ],
+        "checksum": "90cb11d26d305fbeceb0f84dd276bb18e37f07edea1c61238a738f3084f3c629",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Generates Rust and C++ glue codes from the zng file",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3048,
+                    "comment_lines": 2,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 3048,
+            "total_comment_lines": 2
+        }
+    }
+}

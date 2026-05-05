@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 660975,
+        "crate": "znotify",
+        "num": "0.0.6",
+        "dl_path": "/api/v1/crates/znotify/0.0.6/download",
+        "readme_path": "/api/v1/crates/znotify/0.0.6/readme",
+        "updated_at": "2022-11-10T17:41:49.647468Z",
+        "created_at": "2022-11-10T17:03:06.718658Z",
+        "downloads": 1048,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/znotify/0.0.6/dependencies",
+            "version_downloads": "/api/v1/crates/znotify/0.0.6/downloads",
+            "authors": "/api/v1/crates/znotify/0.0.6/authors"
+        },
+        "crate_size": 7665,
+        "published_by": {
+            "id": 181814,
+            "login": "Zxilly",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/31370133?v=4",
+            "url": "https://github.com/Zxilly"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 181814,
+                    "login": "Zxilly",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/31370133?v=4",
+                    "url": "https://github.com/Zxilly"
+                },
+                "time": "2022-11-10T17:03:06.718658Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 181814,
+                    "login": "Zxilly",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/31370133?v=4",
+                    "url": "https://github.com/Zxilly"
+                },
+                "time": "2022-11-10T17:41:49.652324Z"
+            }
+        ],
+        "checksum": "16721674705d7e3298c8cbbf29b1658c7c6d32d6867ea3665029cfe7c84f0b48",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Notify SDK for Rust",
+        "homepage": "https://github.com/ZNotify/rs-sdk",
+        "documentation": null,
+        "repository": "https://github.com/ZNotify/rs-sdk",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 182,
+                    "comment_lines": 0,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 182,
+            "total_comment_lines": 0
+        }
+    }
+}

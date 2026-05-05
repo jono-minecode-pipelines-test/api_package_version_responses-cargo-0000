@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1662945,
+        "crate": "znippy-cli",
+        "num": "0.2.4",
+        "dl_path": "/api/v1/crates/znippy-cli/0.2.4/download",
+        "readme_path": "/api/v1/crates/znippy-cli/0.2.4/readme",
+        "updated_at": "2025-07-30T09:51:12.809784Z",
+        "created_at": "2025-07-30T09:51:12.809784Z",
+        "downloads": 544,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/znippy-cli/0.2.4/dependencies",
+            "version_downloads": "/api/v1/crates/znippy-cli/0.2.4/downloads",
+            "authors": "/api/v1/crates/znippy-cli/0.2.4/authors"
+        },
+        "crate_size": 15087,
+        "published_by": {
+            "id": 181172,
+            "login": "Ignalina",
+            "name": "Rickard Ernst Bj\u00f6rn Lundin",
+            "avatar": "https://avatars.githubusercontent.com/u/33436048?v=4",
+            "url": "https://github.com/Ignalina"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 181172,
+                    "login": "Ignalina",
+                    "name": "Rickard Ernst Bj\u00f6rn Lundin",
+                    "avatar": "https://avatars.githubusercontent.com/u/33436048?v=4",
+                    "url": "https://github.com/Ignalina"
+                },
+                "time": "2025-07-30T09:51:12.809784Z"
+            }
+        ],
+        "checksum": "3aec1c661520a102fca0c4395132c30c461b99b922e56b615cfa3d0c525cf822",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "znippy-cli"
+        ],
+        "edition": "2021",
+        "description": "CLI for Znippy, a parallel chunked compression system.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Ignalina/znippy",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 86,
+                    "comment_lines": 1,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 86,
+            "total_comment_lines": 1
+        }
+    }
+}
