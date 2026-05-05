@@ -1,0 +1,68 @@
+{
+    "version": {
+        "id": 1969866,
+        "crate": "zune-hdr",
+        "num": "0.5.1",
+        "dl_path": "/api/v1/crates/zune-hdr/0.5.1/download",
+        "readme_path": "/api/v1/crates/zune-hdr/0.5.1/readme",
+        "updated_at": "2026-01-24T18:02:26.557708Z",
+        "created_at": "2026-01-24T18:02:26.557708Z",
+        "downloads": 59,
+        "features": {
+            "log": [
+                "zune-core/log"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0 OR Zlib",
+        "links": {
+            "dependencies": "/api/v1/crates/zune-hdr/0.5.1/dependencies",
+            "version_downloads": "/api/v1/crates/zune-hdr/0.5.1/downloads",
+            "authors": "/api/v1/crates/zune-hdr/0.5.1/authors"
+        },
+        "crate_size": 15734,
+        "published_by": {
+            "id": 159371,
+            "login": "etemesi254",
+            "name": "Caleb Etemesi",
+            "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+            "url": "https://github.com/etemesi254"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 159371,
+                    "login": "etemesi254",
+                    "name": "Caleb Etemesi",
+                    "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+                    "url": "https://github.com/etemesi254"
+                },
+                "time": "2026-01-24T18:02:26.557708Z"
+            }
+        ],
+        "checksum": "f00c66a831264f222df51f50eb0fe7077fc2aaa6ad0c8567321e11550899a10b",
+        "rust_version": "1.77.0",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Radiance/HDR image decoder and encoder",
+        "homepage": "https://github.com/etemesi254/zune-image/tree/dev/crates/zune-hdr",
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 621,
+                    "comment_lines": 66,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 621,
+            "total_comment_lines": 66
+        }
+    }
+}

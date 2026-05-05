@@ -1,0 +1,48 @@
+{
+    "version": {
+        "id": 94624,
+        "crate": "zummi",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zummi/0.1.0/download",
+        "readme_path": "/api/v1/crates/zummi/0.1.0/readme",
+        "updated_at": "2018-05-29T11:56:47.238295Z",
+        "created_at": "2018-05-29T11:56:47.238295Z",
+        "downloads": 1594,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zummi/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zummi/0.1.0/downloads",
+            "authors": "/api/v1/crates/zummi/0.1.0/authors"
+        },
+        "crate_size": 6230,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "dd040063caf4a2d7bdad95174698b6bd0d5f68584ee34fcc70f6ad97b077a72b",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zummi"
+        ],
+        "edition": null,
+        "description": "fun lib that produces spoonerisms",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 71,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 71,
+            "total_comment_lines": 0
+        }
+    }
+}

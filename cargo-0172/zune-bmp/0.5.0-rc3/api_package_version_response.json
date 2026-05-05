@@ -1,0 +1,72 @@
+{
+    "version": {
+        "id": 1122009,
+        "crate": "zune-bmp",
+        "num": "0.5.0-rc3",
+        "dl_path": "/api/v1/crates/zune-bmp/0.5.0-rc3/download",
+        "readme_path": "/api/v1/crates/zune-bmp/0.5.0-rc3/readme",
+        "updated_at": "2024-04-22T06:44:36.025558Z",
+        "created_at": "2024-04-22T06:44:36.025558Z",
+        "downloads": 1620,
+        "features": {
+            "log": [
+                "zune-core/log"
+            ],
+            "rgb_inverse": [],
+            "std": [
+                "zune-core/std"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0 OR Zlib",
+        "links": {
+            "dependencies": "/api/v1/crates/zune-bmp/0.5.0-rc3/dependencies",
+            "version_downloads": "/api/v1/crates/zune-bmp/0.5.0-rc3/downloads",
+            "authors": "/api/v1/crates/zune-bmp/0.5.0-rc3/authors"
+        },
+        "crate_size": 16515,
+        "published_by": {
+            "id": 159371,
+            "login": "etemesi254",
+            "name": "Caleb Etemesi",
+            "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+            "url": "https://github.com/etemesi254"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 159371,
+                    "login": "etemesi254",
+                    "name": "Caleb Etemesi",
+                    "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+                    "url": "https://github.com/etemesi254"
+                },
+                "time": "2024-04-22T06:44:36.025558Z"
+            }
+        ],
+        "checksum": "c38d3ef22a32bc4967fe5202a419e2f8a5ad9f52811f5662bfd8b0c62c2444f6",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A fast BMP decoder",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/etemesi254/zune-image/tree/dev/crates/zune-bmp",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1015,
+                    "comment_lines": 299,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 1015,
+            "total_comment_lines": 299
+        }
+    }
+}

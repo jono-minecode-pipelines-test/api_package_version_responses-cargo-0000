@@ -1,0 +1,68 @@
+{
+    "version": {
+        "id": 692392,
+        "crate": "zummi",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zummi/0.1.2/download",
+        "readme_path": "/api/v1/crates/zummi/0.1.2/readme",
+        "updated_at": "2022-12-28T10:20:52.835299Z",
+        "created_at": "2022-12-28T10:20:52.835299Z",
+        "downloads": 1579,
+        "features": {
+            "nightly": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zummi/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zummi/0.1.2/downloads",
+            "authors": "/api/v1/crates/zummi/0.1.2/authors"
+        },
+        "crate_size": 6608,
+        "published_by": {
+            "id": 1472,
+            "login": "hoodie",
+            "name": "Hendrik Sollich",
+            "avatar": "https://avatars.githubusercontent.com/u/260370?v=4",
+            "url": "https://github.com/hoodie"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 1472,
+                    "login": "hoodie",
+                    "name": "Hendrik Sollich",
+                    "avatar": "https://avatars.githubusercontent.com/u/260370?v=4",
+                    "url": "https://github.com/hoodie"
+                },
+                "time": "2022-12-28T10:20:52.835299Z"
+            }
+        ],
+        "checksum": "acecf64ad6f1abd57d23fd4e503cbe27791d84697e10bfd406873d72d8fcf6d8",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zummi"
+        ],
+        "edition": "2018",
+        "description": "fun lib that produces spoonerisms",
+        "homepage": null,
+        "documentation": "https://docs.rs/zummi/",
+        "repository": "https://github.com/hoodie/zummi",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 60,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 60,
+            "total_comment_lines": 0
+        }
+    }
+}

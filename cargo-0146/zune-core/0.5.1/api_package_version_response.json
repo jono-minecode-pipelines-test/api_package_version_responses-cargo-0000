@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1947893,
+        "crate": "zune-core",
+        "num": "0.5.1",
+        "dl_path": "/api/v1/crates/zune-core/0.5.1/download",
+        "readme_path": "/api/v1/crates/zune-core/0.5.1/readme",
+        "updated_at": "2026-01-15T21:24:34.903753Z",
+        "created_at": "2026-01-15T21:24:34.903753Z",
+        "downloads": 9219525,
+        "features": {
+            "std": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0 OR Zlib",
+        "links": {
+            "dependencies": "/api/v1/crates/zune-core/0.5.1/dependencies",
+            "version_downloads": "/api/v1/crates/zune-core/0.5.1/downloads",
+            "authors": "/api/v1/crates/zune-core/0.5.1/authors"
+        },
+        "crate_size": 27883,
+        "published_by": {
+            "id": 159371,
+            "login": "etemesi254",
+            "name": "Caleb Etemesi",
+            "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+            "url": "https://github.com/etemesi254"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 159371,
+                    "login": "etemesi254",
+                    "name": "Caleb Etemesi",
+                    "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+                    "url": "https://github.com/etemesi254"
+                },
+                "time": "2026-01-15T21:24:34.903753Z"
+            }
+        ],
+        "checksum": "cb8a0807f7c01457d0379ba880ba6322660448ddebc890ce29bb64da71fb40f9",
+        "rust_version": "1.75.0",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Core utilities for image processing in the zune family of crates",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/etemesi254/zune-image",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1557,
+                    "comment_lines": 146,
+                    "files": 18
+                }
+            },
+            "total_code_lines": 1557,
+            "total_comment_lines": 146
+        }
+    }
+}
