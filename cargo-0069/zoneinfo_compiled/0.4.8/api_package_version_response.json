@@ -1,0 +1,52 @@
+{
+    "version": {
+        "id": 162867,
+        "crate": "zoneinfo_compiled",
+        "num": "0.4.8",
+        "dl_path": "/api/v1/crates/zoneinfo_compiled/0.4.8/download",
+        "readme_path": "/api/v1/crates/zoneinfo_compiled/0.4.8/readme",
+        "updated_at": "2019-07-14T08:52:53.104300Z",
+        "created_at": "2019-07-14T08:52:53.104300Z",
+        "downloads": 68237,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoneinfo_compiled/0.4.8/dependencies",
+            "version_downloads": "/api/v1/crates/zoneinfo_compiled/0.4.8/downloads",
+            "authors": "/api/v1/crates/zoneinfo_compiled/0.4.8/authors"
+        },
+        "crate_size": 7959,
+        "published_by": {
+            "id": 464,
+            "login": "ogham",
+            "name": "Benjamin Sago",
+            "avatar": "https://avatars.githubusercontent.com/u/503760?v=4",
+            "url": "https://github.com/ogham"
+        },
+        "audit_actions": [],
+        "checksum": "6e136f8e8905dcf086773dbb987be12b149e240bf4039dce9d068774780ad52e",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Library for parsing compiled zoneinfo files",
+        "homepage": "https://github.com/rust-datetime/zoneinfo-compiled/",
+        "documentation": "https://docs.rs/zoneinfo_compiled/",
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 435,
+                    "comment_lines": 10,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 435,
+            "total_comment_lines": 10
+        }
+    }
+}

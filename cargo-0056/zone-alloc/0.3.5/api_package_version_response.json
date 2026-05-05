@@ -1,0 +1,70 @@
+{
+    "version": {
+        "id": 965357,
+        "crate": "zone-alloc",
+        "num": "0.3.5",
+        "dl_path": "/api/v1/crates/zone-alloc/0.3.5/download",
+        "readme_path": "/api/v1/crates/zone-alloc/0.3.5/readme",
+        "updated_at": "2023-11-24T01:05:01.071958Z",
+        "created_at": "2023-11-24T01:05:01.071958Z",
+        "downloads": 1186,
+        "features": {
+            "default": [
+                "std"
+            ],
+            "may-dangle": [],
+            "std": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zone-alloc/0.3.5/dependencies",
+            "version_downloads": "/api/v1/crates/zone-alloc/0.3.5/downloads",
+            "authors": "/api/v1/crates/zone-alloc/0.3.5/authors"
+        },
+        "crate_size": 17570,
+        "published_by": {
+            "id": 224819,
+            "login": "jackson-nestelroad",
+            "name": "Jackson Nestelroad",
+            "avatar": "https://avatars.githubusercontent.com/u/40396320?v=4",
+            "url": "https://github.com/jackson-nestelroad"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 224819,
+                    "login": "jackson-nestelroad",
+                    "name": "Jackson Nestelroad",
+                    "avatar": "https://avatars.githubusercontent.com/u/40396320?v=4",
+                    "url": "https://github.com/jackson-nestelroad"
+                },
+                "time": "2023-11-24T01:05:01.071958Z"
+            }
+        ],
+        "checksum": "0052cba93d19e996c8461d9f37251d2cd46453284c6346525eff5913f8a574bf",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Containers for zone-based data allocation.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zone_alloc",
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2283,
+                    "comment_lines": 65,
+                    "files": 9
+                }
+            },
+            "total_code_lines": 2283,
+            "total_comment_lines": 65
+        }
+    }
+}

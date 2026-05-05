@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 965239,
+        "crate": "zone-alloc",
+        "num": "0.3.4",
+        "dl_path": "/api/v1/crates/zone-alloc/0.3.4/download",
+        "readme_path": "/api/v1/crates/zone-alloc/0.3.4/readme",
+        "updated_at": "2023-11-23T22:17:13.944543Z",
+        "created_at": "2023-11-23T22:17:13.944543Z",
+        "downloads": 1147,
+        "features": {
+            "default": [
+                "std"
+            ],
+            "std": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zone-alloc/0.3.4/dependencies",
+            "version_downloads": "/api/v1/crates/zone-alloc/0.3.4/downloads",
+            "authors": "/api/v1/crates/zone-alloc/0.3.4/authors"
+        },
+        "crate_size": 17400,
+        "published_by": {
+            "id": 224819,
+            "login": "jackson-nestelroad",
+            "name": "Jackson Nestelroad",
+            "avatar": "https://avatars.githubusercontent.com/u/40396320?v=4",
+            "url": "https://github.com/jackson-nestelroad"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 224819,
+                    "login": "jackson-nestelroad",
+                    "name": "Jackson Nestelroad",
+                    "avatar": "https://avatars.githubusercontent.com/u/40396320?v=4",
+                    "url": "https://github.com/jackson-nestelroad"
+                },
+                "time": "2023-11-23T22:17:13.944543Z"
+            }
+        ],
+        "checksum": "2698a708587d2014db4571db249c421a8074b29bef0f71c2c995b1d108c24f8d",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Containers for zone-based data allocation.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zone_alloc",
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2264,
+                    "comment_lines": 65,
+                    "files": 9
+                }
+            },
+            "total_code_lines": 2264,
+            "total_comment_lines": 65
+        }
+    }
+}

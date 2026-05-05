@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 2169372,
+        "crate": "zoned",
+        "num": "0.5.0",
+        "dl_path": "/api/v1/crates/zoned/0.5.0/download",
+        "readme_path": "/api/v1/crates/zoned/0.5.0/readme",
+        "updated_at": "2026-03-26T02:07:52.357221Z",
+        "created_at": "2026-03-26T02:07:52.357221Z",
+        "downloads": 17,
+        "features": {
+            "default": [],
+            "tokio": [
+                "dep:tokio"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zoned/0.5.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoned/0.5.0/downloads",
+            "authors": "/api/v1/crates/zoned/0.5.0/authors"
+        },
+        "crate_size": 76076,
+        "published_by": {
+            "id": 35443,
+            "login": "jrobhoward",
+            "name": "James Howard",
+            "avatar": "https://avatars.githubusercontent.com/u/5891200?v=4",
+            "url": "https://github.com/jrobhoward"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 35443,
+                    "login": "jrobhoward",
+                    "name": "James Howard",
+                    "avatar": "https://avatars.githubusercontent.com/u/5891200?v=4",
+                    "url": "https://github.com/jrobhoward"
+                },
+                "time": "2026-03-26T02:07:52.357221Z"
+            }
+        ],
+        "checksum": "18bc7987a5049d5c98089f78e4e220f2bd2368bb918663cbbe3bbda63cc7725d",
+        "rust_version": "1.88.0",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Pure Rust library for zoned block device management (SMR/ZNS)",
+        "homepage": "https://github.com/jrobhoward/zoned",
+        "documentation": "https://docs.rs/zoned",
+        "repository": "https://github.com/jrobhoward/zoned",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3659,
+                    "comment_lines": 173,
+                    "files": 26
+                }
+            },
+            "total_code_lines": 3659,
+            "total_comment_lines": 173
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1869537,
+        "crate": "zonegfx",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zonegfx/0.1.0/download",
+        "readme_path": "/api/v1/crates/zonegfx/0.1.0/readme",
+        "updated_at": "2025-12-09T14:10:52.500316Z",
+        "created_at": "2025-12-09T14:10:52.500316Z",
+        "downloads": 36,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zonegfx/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zonegfx/0.1.0/downloads",
+            "authors": "/api/v1/crates/zonegfx/0.1.0/authors"
+        },
+        "crate_size": 837,
+        "published_by": {
+            "id": 280855,
+            "login": "matheusds365",
+            "name": "Matheus Dias de Souza",
+            "avatar": "https://avatars.githubusercontent.com/u/175531240?v=4",
+            "url": "https://github.com/matheusds365"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 280855,
+                    "login": "matheusds365",
+                    "name": "Matheus Dias de Souza",
+                    "avatar": "https://avatars.githubusercontent.com/u/175531240?v=4",
+                    "url": "https://github.com/matheusds365"
+                },
+                "time": "2025-12-09T14:10:52.500316Z"
+            }
+        ],
+        "checksum": "3fe1c052f5349963d48b932a907be54c1c03a1b1a73a8785f06ee6049a8c8300",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Reserved namespace",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zonegfx/zonegfx",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 0,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 0,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 228860,
+        "crate": "zoneinfo_compiled",
+        "num": "0.5.0",
+        "dl_path": "/api/v1/crates/zoneinfo_compiled/0.5.0/download",
+        "readme_path": "/api/v1/crates/zoneinfo_compiled/0.5.0/readme",
+        "updated_at": "2020-04-07T23:46:35.493578Z",
+        "created_at": "2020-04-07T23:46:35.493578Z",
+        "downloads": 5909,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoneinfo_compiled/0.5.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoneinfo_compiled/0.5.0/downloads",
+            "authors": "/api/v1/crates/zoneinfo_compiled/0.5.0/authors"
+        },
+        "crate_size": 8665,
+        "published_by": {
+            "id": 464,
+            "login": "ogham",
+            "name": "Benjamin Sago",
+            "avatar": "https://avatars.githubusercontent.com/u/503760?v=4",
+            "url": "https://github.com/ogham"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 464,
+                    "login": "ogham",
+                    "name": "Benjamin Sago",
+                    "avatar": "https://avatars.githubusercontent.com/u/503760?v=4",
+                    "url": "https://github.com/ogham"
+                },
+                "time": "2020-04-07T23:46:35.493578Z"
+            }
+        ],
+        "checksum": "7033eef97c288bfa49e3ebf958245a41016f1673a5317196efad03eb656a7648",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Library for parsing compiled zoneinfo files",
+        "homepage": null,
+        "documentation": "https://docs.rs/zoneinfo_compiled/",
+        "repository": "https://github.com/rust-datetime/zoneinfo-compiled/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 434,
+                    "comment_lines": 12,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 434,
+            "total_comment_lines": 12
+        }
+    }
+}
