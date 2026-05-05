@@ -1,0 +1,74 @@
+{
+    "version": {
+        "id": 2013594,
+        "crate": "zlob",
+        "num": "1.2.2",
+        "dl_path": "/api/v1/crates/zlob/1.2.2/download",
+        "readme_path": "/api/v1/crates/zlob/1.2.2/readme",
+        "updated_at": "2026-02-10T00:26:49.431977Z",
+        "created_at": "2026-02-10T00:26:49.431977Z",
+        "downloads": 54,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlob/1.2.2/dependencies",
+            "version_downloads": "/api/v1/crates/zlob/1.2.2/downloads",
+            "authors": "/api/v1/crates/zlob/1.2.2/authors"
+        },
+        "crate_size": 94146,
+        "published_by": {
+            "id": 175088,
+            "login": "dmtrKovalenko",
+            "name": "Dmitriy Kovalenko",
+            "avatar": "https://avatars.githubusercontent.com/u/16926049?v=4",
+            "url": "https://github.com/dmtrKovalenko"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 175088,
+                    "login": "dmtrKovalenko",
+                    "name": "Dmitriy Kovalenko",
+                    "avatar": "https://avatars.githubusercontent.com/u/16926049?v=4",
+                    "url": "https://github.com/dmtrKovalenko"
+                },
+                "time": "2026-02-10T00:26:49.431977Z"
+            }
+        ],
+        "checksum": "cd4e9cb0f6d3dae0f0340b9ca73ace2f31ab47f577a1ca985cf132db20ca9d4a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "SIMD optimized glob pattern matching library faster than glob crate",
+        "homepage": "https://github.com/dmtrKovalenko/zlob",
+        "documentation": "https://docs.rs/zlob",
+        "repository": "https://github.com/dmtrKovalenko/zlob",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C Header": {
+                    "code_lines": 91,
+                    "comment_lines": 218,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 1132,
+                    "comment_lines": 57,
+                    "files": 7
+                },
+                "Zig": {
+                    "code_lines": 6859,
+                    "comment_lines": 1221,
+                    "files": 15
+                }
+            },
+            "total_code_lines": 8082,
+            "total_comment_lines": 1496
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "version": {
+        "id": 782943,
+        "crate": "zm-test",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zm-test/0.1.0/download",
+        "readme_path": "/api/v1/crates/zm-test/0.1.0/readme",
+        "updated_at": "2023-04-24T02:33:41.999788Z",
+        "created_at": "2023-04-23T08:55:39.877607Z",
+        "downloads": 1155,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zm-test/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zm-test/0.1.0/downloads",
+            "authors": "/api/v1/crates/zm-test/0.1.0/authors"
+        },
+        "crate_size": 1131,
+        "published_by": {
+            "id": 209222,
+            "login": "Shaoming7",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/30388869?v=4",
+            "url": "https://github.com/Shaoming7"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 209222,
+                    "login": "Shaoming7",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/30388869?v=4",
+                    "url": "https://github.com/Shaoming7"
+                },
+                "time": "2023-04-23T08:55:39.877607Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 209222,
+                    "login": "Shaoming7",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/30388869?v=4",
+                    "url": "https://github.com/Shaoming7"
+                },
+                "time": "2023-04-24T02:30:50.547793Z"
+            },
+            {
+                "action": "unyank",
+                "user": {
+                    "id": 209222,
+                    "login": "Shaoming7",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/30388869?v=4",
+                    "url": "https://github.com/Shaoming7"
+                },
+                "time": "2023-04-24T02:33:42.010668Z"
+            }
+        ],
+        "checksum": "6736713e27f7727448429a313e6849e50f950d020e2ad8d670fef087f8983815",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A fun game where you guess what number the computer has chosen.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 30,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 30,
+            "total_comment_lines": 0
+        }
+    }
+}

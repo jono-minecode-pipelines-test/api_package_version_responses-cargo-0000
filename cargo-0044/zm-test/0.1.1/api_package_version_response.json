@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 782944,
+        "crate": "zm-test",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zm-test/0.1.1/download",
+        "readme_path": "/api/v1/crates/zm-test/0.1.1/readme",
+        "updated_at": "2023-04-23T08:56:45.083513Z",
+        "created_at": "2023-04-23T08:56:45.083513Z",
+        "downloads": 1484,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zm-test/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zm-test/0.1.1/downloads",
+            "authors": "/api/v1/crates/zm-test/0.1.1/authors"
+        },
+        "crate_size": 1074,
+        "published_by": {
+            "id": 209222,
+            "login": "Shaoming7",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/30388869?v=4",
+            "url": "https://github.com/Shaoming7"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 209222,
+                    "login": "Shaoming7",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/30388869?v=4",
+                    "url": "https://github.com/Shaoming7"
+                },
+                "time": "2023-04-23T08:56:45.083513Z"
+            }
+        ],
+        "checksum": "5f73bf10aebe95f671f42199670914c8e72cc479a565b6fd06bb612b6e1df4f2",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "test",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 27,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 27,
+            "total_comment_lines": 0
+        }
+    }
+}
