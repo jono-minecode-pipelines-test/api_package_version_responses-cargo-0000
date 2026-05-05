@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2349976,
+        "crate": "zlayer-proxy",
+        "num": "0.11.11",
+        "dl_path": "/api/v1/crates/zlayer-proxy/0.11.11/download",
+        "readme_path": "/api/v1/crates/zlayer-proxy/0.11.11/readme",
+        "updated_at": "2026-05-04T23:23:35.876877Z",
+        "created_at": "2026-05-04T23:23:35.876877Z",
+        "downloads": 15,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-proxy/0.11.11/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-proxy/0.11.11/downloads",
+            "authors": "/api/v1/crates/zlayer-proxy/0.11.11/authors"
+        },
+        "crate_size": 82189,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-05-04T23:23:35.876877Z"
+            }
+        ],
+        "checksum": "3855b0054cd1a2736e3ad1af30fd0f79bc9729868362cdf12c104b2068b2f535",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "High-performance reverse proxy with TLS termination and L4/L7 routing",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/BlackLeafDigital/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 5951,
+                    "comment_lines": 397,
+                    "files": 19
+                }
+            },
+            "total_code_lines": 5951,
+            "total_comment_lines": 397
+        }
+    }
+}
