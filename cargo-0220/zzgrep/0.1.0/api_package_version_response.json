@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1698487,
+        "crate": "zzgrep",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zzgrep/0.1.0/download",
+        "readme_path": "/api/v1/crates/zzgrep/0.1.0/readme",
+        "updated_at": "2025-08-24T13:51:00.956946Z",
+        "created_at": "2025-08-24T13:51:00.956946Z",
+        "downloads": 385,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zzgrep/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zzgrep/0.1.0/downloads",
+            "authors": "/api/v1/crates/zzgrep/0.1.0/authors"
+        },
+        "crate_size": 1831,
+        "published_by": {
+            "id": 250273,
+            "login": "zFitness",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/41500499?v=4",
+            "url": "https://github.com/zFitness"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 250273,
+                    "login": "zFitness",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/41500499?v=4",
+                    "url": "https://github.com/zFitness"
+                },
+                "time": "2025-08-24T13:51:00.956946Z"
+            }
+        ],
+        "checksum": "6d50f011a5544e9b984e3f0ec3c28b23234ce6d725269b9e5030f2b7312d9065",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zzgrep"
+        ],
+        "edition": "2024",
+        "description": "simple grep by zfitness",
+        "homepage": "http://zfitness.me",
+        "documentation": "http://zfitness.me",
+        "repository": "https://github.com/zFitness/zzgrep",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 48,
+                    "comment_lines": 2,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 48,
+            "total_comment_lines": 2
+        }
+    }
+}
