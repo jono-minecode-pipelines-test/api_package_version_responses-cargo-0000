@@ -1,0 +1,73 @@
+{
+    "version": {
+        "id": 1857726,
+        "crate": "zub-store",
+        "num": "0.0.2",
+        "dl_path": "/api/v1/crates/zub-store/0.0.2/download",
+        "readme_path": "/api/v1/crates/zub-store/0.0.2/readme",
+        "updated_at": "2025-12-03T17:05:17.745064Z",
+        "created_at": "2025-12-03T17:05:17.745064Z",
+        "downloads": 30,
+        "features": {
+            "cli": [
+                "clap"
+            ],
+            "default": [
+                "cli"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zub-store/0.0.2/dependencies",
+            "version_downloads": "/api/v1/crates/zub-store/0.0.2/downloads",
+            "authors": "/api/v1/crates/zub-store/0.0.2/authors"
+        },
+        "crate_size": 75592,
+        "published_by": {
+            "id": 372557,
+            "login": "wegel",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/1017404?v=4",
+            "url": "https://github.com/wegel"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 372557,
+                    "login": "wegel",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/1017404?v=4",
+                    "url": "https://github.com/wegel"
+                },
+                "time": "2025-12-03T17:05:17.745064Z"
+            }
+        ],
+        "checksum": "4879ba0d2ffd76865e33ca06613143cf9833abe51cb79effb649b9025865a6bd",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zub"
+        ],
+        "edition": "2021",
+        "description": "Git-like content-addressed filesystem store with metadata preservation",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/wegel/zub",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7984,
+                    "comment_lines": 432,
+                    "files": 42
+                }
+            },
+            "total_code_lines": 7984,
+            "total_comment_lines": 432
+        }
+    }
+}

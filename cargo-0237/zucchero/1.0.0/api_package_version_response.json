@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1636263,
+        "crate": "zucchero",
+        "num": "1.0.0",
+        "dl_path": "/api/v1/crates/zucchero/1.0.0/download",
+        "readme_path": "/api/v1/crates/zucchero/1.0.0/readme",
+        "updated_at": "2025-07-10T17:31:32.640687Z",
+        "created_at": "2025-07-10T17:31:32.640687Z",
+        "downloads": 842,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zucchero/1.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zucchero/1.0.0/downloads",
+            "authors": "/api/v1/crates/zucchero/1.0.0/authors"
+        },
+        "crate_size": 2435,
+        "published_by": {
+            "id": 37372,
+            "login": "sergey-melnychuk",
+            "name": "Sergey Melnychuk",
+            "avatar": "https://avatars.githubusercontent.com/u/8093171?v=4",
+            "url": "https://github.com/sergey-melnychuk"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 37372,
+                    "login": "sergey-melnychuk",
+                    "name": "Sergey Melnychuk",
+                    "avatar": "https://avatars.githubusercontent.com/u/8093171?v=4",
+                    "url": "https://github.com/sergey-melnychuk"
+                },
+                "time": "2025-07-10T17:31:32.640687Z"
+            }
+        ],
+        "checksum": "b74a882602a4ac18739dc8a9c5c5b5dfafd0ab70fdff78f02fe9a2742138d26a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Minimal macro for globally shared, type-safe singleton",
+        "homepage": null,
+        "documentation": "https://docs.rs/zucchero",
+        "repository": "https://github.com/sergey-melnychuk/zucchero",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 34,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 34,
+            "total_comment_lines": 0
+        }
+    }
+}

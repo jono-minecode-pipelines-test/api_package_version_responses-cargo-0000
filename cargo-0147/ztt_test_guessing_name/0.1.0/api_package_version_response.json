@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 1375570,
+        "crate": "ztt_test_guessing_name",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/ztt_test_guessing_name/0.1.0/download",
+        "readme_path": "/api/v1/crates/ztt_test_guessing_name/0.1.0/readme",
+        "updated_at": "2024-12-15T12:45:29.551664Z",
+        "created_at": "2024-12-15T12:38:29.190539Z",
+        "downloads": 683,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/ztt_test_guessing_name/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/ztt_test_guessing_name/0.1.0/downloads",
+            "authors": "/api/v1/crates/ztt_test_guessing_name/0.1.0/authors"
+        },
+        "crate_size": 924,
+        "published_by": {
+            "id": 305283,
+            "login": "14789ztt",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/45168112?v=4",
+            "url": "https://github.com/14789ztt"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 305283,
+                    "login": "14789ztt",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/45168112?v=4",
+                    "url": "https://github.com/14789ztt"
+                },
+                "time": "2024-12-15T12:38:29.190539Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 305283,
+                    "login": "14789ztt",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/45168112?v=4",
+                    "url": "https://github.com/14789ztt"
+                },
+                "time": "2024-12-15T12:45:29.562371Z"
+            }
+        ],
+        "checksum": "cccb57b81124544c428cf93fada21c1afc7f5654264d915e6301e61783739af6",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "ztt_test_guessing_name"
+        ],
+        "edition": "2021",
+        "description": "A test ",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 4,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1367893,
+        "crate": "ZuckGate",
+        "num": "0.1.8",
+        "dl_path": "/api/v1/crates/ZuckGate/0.1.8/download",
+        "readme_path": "/api/v1/crates/ZuckGate/0.1.8/readme",
+        "updated_at": "2024-12-08T14:51:27.131452Z",
+        "created_at": "2024-12-08T14:51:27.131452Z",
+        "downloads": 1837,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/ZuckGate/0.1.8/dependencies",
+            "version_downloads": "/api/v1/crates/ZuckGate/0.1.8/downloads",
+            "authors": "/api/v1/crates/ZuckGate/0.1.8/authors"
+        },
+        "crate_size": 3572,
+        "published_by": {
+            "id": 293328,
+            "login": "HashiramaSenjuhari",
+            "name": "Hariprasath",
+            "avatar": "https://avatars.githubusercontent.com/u/144236580?v=4",
+            "url": "https://github.com/HashiramaSenjuhari"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 293328,
+                    "login": "HashiramaSenjuhari",
+                    "name": "Hariprasath",
+                    "avatar": "https://avatars.githubusercontent.com/u/144236580?v=4",
+                    "url": "https://github.com/HashiramaSenjuhari"
+                },
+                "time": "2024-12-08T14:51:27.131452Z"
+            }
+        ],
+        "checksum": "98a78a50dd88da7d26d1a3dff0ba6e635cb6fe56591a8c5bfd03208f96cd32d0",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Simple interface for making TCP-based HTTP requests in Rust. It supports both `GET` and `POST` requests with configurable headers and payloads.",
+        "homepage": null,
+        "documentation": "https://docs.rs/Ask",
+        "repository": "https://github.com/HashiramaSenjuhari/Ask",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 382,
+                    "comment_lines": 35,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 382,
+            "total_comment_lines": 35
+        }
+    }
+}
