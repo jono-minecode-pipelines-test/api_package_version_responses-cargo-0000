@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1740472,
+        "crate": "zmatrix",
+        "num": "0.2.15",
+        "dl_path": "/api/v1/crates/zmatrix/0.2.15/download",
+        "readme_path": "/api/v1/crates/zmatrix/0.2.15/readme",
+        "updated_at": "2025-09-22T08:33:24.271313Z",
+        "created_at": "2025-09-22T08:33:24.271313Z",
+        "downloads": 258,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zmatrix/0.2.15/dependencies",
+            "version_downloads": "/api/v1/crates/zmatrix/0.2.15/downloads",
+            "authors": "/api/v1/crates/zmatrix/0.2.15/authors"
+        },
+        "crate_size": 122211,
+        "published_by": {
+            "id": 301675,
+            "login": "Treagzhao",
+            "name": "Treagzhao",
+            "avatar": "https://avatars.githubusercontent.com/u/8255607?v=4",
+            "url": "https://github.com/Treagzhao"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 301675,
+                    "login": "Treagzhao",
+                    "name": "Treagzhao",
+                    "avatar": "https://avatars.githubusercontent.com/u/8255607?v=4",
+                    "url": "https://github.com/Treagzhao"
+                },
+                "time": "2025-09-22T08:33:24.271313Z"
+            }
+        ],
+        "checksum": "15cda683b94060d3d4eef5db1f99e3b650ddbb41463b1cd9a1234b4fea3c42b2",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "This is a matrix calculation lib",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 18861,
+                    "comment_lines": 942,
+                    "files": 50
+                }
+            },
+            "total_code_lines": 18861,
+            "total_comment_lines": 942
+        }
+    }
+}

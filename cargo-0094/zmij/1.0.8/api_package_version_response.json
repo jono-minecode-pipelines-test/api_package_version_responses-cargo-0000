@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1917620,
+        "crate": "zmij",
+        "num": "1.0.8",
+        "dl_path": "/api/v1/crates/zmij/1.0.8/download",
+        "readme_path": "/api/v1/crates/zmij/1.0.8/readme",
+        "updated_at": "2026-01-02T19:47:51.043599Z",
+        "created_at": "2026-01-02T19:47:51.043599Z",
+        "downloads": 522807,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zmij/1.0.8/dependencies",
+            "version_downloads": "/api/v1/crates/zmij/1.0.8/downloads",
+            "authors": "/api/v1/crates/zmij/1.0.8/authors"
+        },
+        "crate_size": 21918,
+        "published_by": {
+            "id": 3618,
+            "login": "dtolnay",
+            "name": "David Tolnay",
+            "avatar": "https://avatars.githubusercontent.com/u/1940490?v=4",
+            "url": "https://github.com/dtolnay"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 3618,
+                    "login": "dtolnay",
+                    "name": "David Tolnay",
+                    "avatar": "https://avatars.githubusercontent.com/u/1940490?v=4",
+                    "url": "https://github.com/dtolnay"
+                },
+                "time": "2026-01-02T19:47:51.043599Z"
+            }
+        ],
+        "checksum": "317f17ff091ac4515f17cc7a190d2769a8c9a96d227de5d64b500b01cda8f2cd",
+        "rust_version": "1.68",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A double-to-string conversion algorithm based on Schubfach and yy",
+        "homepage": null,
+        "documentation": "https://docs.rs/zmij",
+        "repository": "https://github.com/dtolnay/zmij",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 891,
+                    "comment_lines": 118,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 891,
+            "total_comment_lines": 118
+        }
+    }
+}
