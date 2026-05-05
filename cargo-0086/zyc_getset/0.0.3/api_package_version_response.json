@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1381180,
+        "crate": "zyc_getset",
+        "num": "0.0.3",
+        "dl_path": "/api/v1/crates/zyc_getset/0.0.3/download",
+        "readme_path": "/api/v1/crates/zyc_getset/0.0.3/readme",
+        "updated_at": "2024-12-20T03:11:39.081902Z",
+        "created_at": "2024-12-20T03:11:39.081902Z",
+        "downloads": 754,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zyc_getset/0.0.3/dependencies",
+            "version_downloads": "/api/v1/crates/zyc_getset/0.0.3/downloads",
+            "authors": "/api/v1/crates/zyc_getset/0.0.3/authors"
+        },
+        "crate_size": 10755,
+        "published_by": {
+            "id": 303683,
+            "login": "jerrybaxia",
+            "name": "\u5f20\u661f\u4e91",
+            "avatar": "https://private-avatars.githubusercontent.com/u/4843425?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NjQ5MjAsIm5iZiI6MTczNDY2MzcyMCwicGF0aCI6Ii91LzQ4NDM0MjUifQ.GH6oVd9FrIknfx9MU4j2YUEXcW3yNeoQ_25f9usczks&v=4",
+            "url": "https://github.com/jerrybaxia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 303683,
+                    "login": "jerrybaxia",
+                    "name": "\u5f20\u661f\u4e91",
+                    "avatar": "https://private-avatars.githubusercontent.com/u/4843425?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NjQ5MjAsIm5iZiI6MTczNDY2MzcyMCwicGF0aCI6Ii91LzQ4NDM0MjUifQ.GH6oVd9FrIknfx9MU4j2YUEXcW3yNeoQ_25f9usczks&v=4",
+                    "url": "https://github.com/jerrybaxia"
+                },
+                "time": "2024-12-20T03:11:39.081902Z"
+            }
+        ],
+        "checksum": "e0c6e48011fa74cc4f7acb7a294040a44dd31d3f2cea469927712e55dc4286af",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "The current 'crate' is an extension to 'getset'.\nMainly added 'get_clone' to return cloned objects of fields,\nReturn 'Option<&T>' for 'Option<T>', and the method defaults to the 'pub' level.\n",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/jerrybaxia/zyc_getset.git",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 350,
+                    "comment_lines": 191,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 350,
+            "total_comment_lines": 191
+        }
+    }
+}

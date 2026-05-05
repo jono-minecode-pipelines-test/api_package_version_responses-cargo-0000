@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1376522,
+        "crate": "zyc_getset",
+        "num": "0.0.2",
+        "dl_path": "/api/v1/crates/zyc_getset/0.0.2/download",
+        "readme_path": "/api/v1/crates/zyc_getset/0.0.2/readme",
+        "updated_at": "2024-12-16T14:41:29.893851Z",
+        "created_at": "2024-12-16T14:41:29.893851Z",
+        "downloads": 713,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zyc_getset/0.0.2/dependencies",
+            "version_downloads": "/api/v1/crates/zyc_getset/0.0.2/downloads",
+            "authors": "/api/v1/crates/zyc_getset/0.0.2/authors"
+        },
+        "crate_size": 9775,
+        "published_by": {
+            "id": 303683,
+            "login": "jerrybaxia",
+            "name": "\u5f20\u661f\u4e91",
+            "avatar": "https://private-avatars.githubusercontent.com/u/4843425?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NjQ5MjAsIm5iZiI6MTczNDY2MzcyMCwicGF0aCI6Ii91LzQ4NDM0MjUifQ.GH6oVd9FrIknfx9MU4j2YUEXcW3yNeoQ_25f9usczks&v=4",
+            "url": "https://github.com/jerrybaxia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 303683,
+                    "login": "jerrybaxia",
+                    "name": "\u5f20\u661f\u4e91",
+                    "avatar": "https://private-avatars.githubusercontent.com/u/4843425?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NjQ5MjAsIm5iZiI6MTczNDY2MzcyMCwicGF0aCI6Ii91LzQ4NDM0MjUifQ.GH6oVd9FrIknfx9MU4j2YUEXcW3yNeoQ_25f9usczks&v=4",
+                    "url": "https://github.com/jerrybaxia"
+                },
+                "time": "2024-12-16T14:41:29.893851Z"
+            }
+        ],
+        "checksum": "1bbf73a8c5e5a175e56f1438401c99a354fba8d93f3123751a69960fdce2bab2",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "For personal projects using this crate, it is recommended to stick with the original getset crate.\nAs an extension to the original crate, we've introduced a new method: get_clone.\nMethods without an explicit visibility specifier are automatically declared as pub. This is a conscious design choice, as internal methods typically don't necessitate getset mechanisms.\n",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/jerrybaxia/zyc_getset.git",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 323,
+                    "comment_lines": 190,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 323,
+            "total_comment_lines": 190
+        }
+    }
+}
