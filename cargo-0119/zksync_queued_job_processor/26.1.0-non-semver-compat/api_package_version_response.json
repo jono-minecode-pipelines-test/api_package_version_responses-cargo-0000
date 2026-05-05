@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1418089,
+        "crate": "zksync_queued_job_processor",
+        "num": "26.1.0-non-semver-compat",
+        "dl_path": "/api/v1/crates/zksync_queued_job_processor/26.1.0-non-semver-compat/download",
+        "readme_path": "/api/v1/crates/zksync_queued_job_processor/26.1.0-non-semver-compat/readme",
+        "updated_at": "2025-01-22T19:24:09.373311Z",
+        "created_at": "2025-01-22T19:24:09.373311Z",
+        "downloads": 673,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_queued_job_processor/26.1.0-non-semver-compat/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_queued_job_processor/26.1.0-non-semver-compat/downloads",
+            "authors": "/api/v1/crates/zksync_queued_job_processor/26.1.0-non-semver-compat/authors"
+        },
+        "crate_size": 3210,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2025-01-22T19:24:09.373311Z"
+            }
+        ],
+        "checksum": "4285d3f4bb6a8c2180f46e5d6bc8221b2c9ffb91989ea63f86906d8b57129be7",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Abstract queued job processor",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 154,
+                    "comment_lines": 3,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 154,
+            "total_comment_lines": 3
+        }
+    }
+}
