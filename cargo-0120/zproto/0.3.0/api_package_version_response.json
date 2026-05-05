@@ -1,0 +1,72 @@
+{
+    "version": {
+        "id": 805629,
+        "crate": "zproto",
+        "num": "0.3.0",
+        "dl_path": "/api/v1/crates/zproto/0.3.0/download",
+        "readme_path": "/api/v1/crates/zproto/0.3.0/readme",
+        "updated_at": "2023-05-22T22:08:54.919419Z",
+        "created_at": "2023-05-22T22:08:54.919419Z",
+        "downloads": 1274,
+        "features": {
+            "ascii": [],
+            "binary": [],
+            "default": [
+                "ascii",
+                "binary"
+            ],
+            "doc_cfg": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zproto/0.3.0/dependencies",
+            "version_downloads": "/api/v1/crates/zproto/0.3.0/downloads",
+            "authors": "/api/v1/crates/zproto/0.3.0/authors"
+        },
+        "crate_size": 84353,
+        "published_by": {
+            "id": 99415,
+            "login": "stphnt",
+            "name": "Stephen Hunt",
+            "avatar": "https://avatars.githubusercontent.com/u/56858839?v=4",
+            "url": "https://github.com/stphnt"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 99415,
+                    "login": "stphnt",
+                    "name": "Stephen Hunt",
+                    "avatar": "https://avatars.githubusercontent.com/u/56858839?v=4",
+                    "url": "https://github.com/stphnt"
+                },
+                "time": "2023-05-22T22:08:54.919419Z"
+            }
+        ],
+        "checksum": "d3c312dc0266487b0b02cab76ee52ad41c0222df4c42a1f931fa3e6c5ef0d735",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A library from communicating with Zaber products in Rust.",
+        "homepage": "https://github.com/stphnt/zproto",
+        "documentation": "https://docs.rs/zproto",
+        "repository": "https://github.com/stphnt/zproto",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7988,
+                    "comment_lines": 287,
+                    "files": 27
+                }
+            },
+            "total_code_lines": 7988,
+            "total_comment_lines": 287
+        }
+    }
+}

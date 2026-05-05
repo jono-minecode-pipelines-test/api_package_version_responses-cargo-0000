@@ -1,0 +1,48 @@
+{
+    "version": {
+        "id": 73783,
+        "crate": "zqueak",
+        "num": "0.0.0",
+        "dl_path": "/api/v1/crates/zqueak/0.0.0/download",
+        "readme_path": "/api/v1/crates/zqueak/0.0.0/readme",
+        "updated_at": "2018-02-17T06:00:38.205531Z",
+        "created_at": "2017-12-10T09:00:08.511278Z",
+        "downloads": 1657,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zqueak/0.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zqueak/0.0.0/downloads",
+            "authors": "/api/v1/crates/zqueak/0.0.0/authors"
+        },
+        "crate_size": 1660,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "5b6df1a682f43882d4ddca88ca220e7368cf3b73aec88648260b620c9e719cce",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zqueak"
+        ],
+        "edition": null,
+        "description": "The silliest plugin manager for the Z Shell (and maybe more!)",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/feddasch/zqueak",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3,
+            "total_comment_lines": 0
+        }
+    }
+}
