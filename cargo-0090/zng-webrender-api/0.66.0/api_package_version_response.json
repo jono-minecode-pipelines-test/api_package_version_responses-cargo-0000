@@ -1,0 +1,76 @@
+{
+    "version": {
+        "id": 1814546,
+        "crate": "zng-webrender-api",
+        "num": "0.66.0",
+        "dl_path": "/api/v1/crates/zng-webrender-api/0.66.0/download",
+        "readme_path": "/api/v1/crates/zng-webrender-api/0.66.0/readme",
+        "updated_at": "2025-11-08T01:40:11.787746Z",
+        "created_at": "2025-11-08T01:40:11.787746Z",
+        "downloads": 6503,
+        "features": {
+            "debugger": [
+                "serialize",
+                "deserialize"
+            ],
+            "deserialize": [],
+            "display_list_stats": [],
+            "nightly": [
+                "euclid/unstable",
+                "serde/unstable"
+            ],
+            "serialize": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MPL-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-webrender-api/0.66.0/dependencies",
+            "version_downloads": "/api/v1/crates/zng-webrender-api/0.66.0/downloads",
+            "authors": "/api/v1/crates/zng-webrender-api/0.66.0/authors"
+        },
+        "crate_size": 64649,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-11-08T01:40:11.787746Z"
+            }
+        ],
+        "checksum": "6d8a104a762cfed1feb5e052e74480a118fbe277a1c1f767cb0e1f6def4439f5",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Public API for WebRender",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/servo/webrender",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 5438,
+                    "comment_lines": 222,
+                    "files": 12
+                }
+            },
+            "total_code_lines": 5438,
+            "total_comment_lines": 222
+        }
+    }
+}

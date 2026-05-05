@@ -1,0 +1,120 @@
+{
+    "version": {
+        "id": 1169161,
+        "crate": "zng-webrender",
+        "num": "0.63.0",
+        "dl_path": "/api/v1/crates/zng-webrender/0.63.0/download",
+        "readme_path": "/api/v1/crates/zng-webrender/0.63.0/readme",
+        "updated_at": "2024-06-10T03:11:29.413769Z",
+        "created_at": "2024-06-09T17:49:16.885785Z",
+        "downloads": 1316,
+        "features": {
+            "capture": [
+                "api/serialize",
+                "dep:ron",
+                "dep:serde",
+                "smallvec/serde",
+                "etagere/serialization",
+                "glyph_rasterizer/capture"
+            ],
+            "default": [
+                "static_freetype"
+            ],
+            "display_list_stats": [
+                "api/display_list_stats"
+            ],
+            "dynamic_freetype": [
+                "glyph_rasterizer/dynamic_freetype"
+            ],
+            "leak_checks": [],
+            "profiler": [
+                "tracy-rs/enable_profiler"
+            ],
+            "replay": [
+                "api/deserialize",
+                "dep:ron",
+                "dep:serde",
+                "smallvec/serde",
+                "etagere/serialization",
+                "glyph_rasterizer/replay"
+            ],
+            "serialize_program": [
+                "dep:serde",
+                "webrender_build/serialize_program"
+            ],
+            "static_freetype": [
+                "glyph_rasterizer/static_freetype"
+            ],
+            "sw_compositor": [
+                "dep:swgl"
+            ]
+        },
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MPL-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-webrender/0.63.0/dependencies",
+            "version_downloads": "/api/v1/crates/zng-webrender/0.63.0/downloads",
+            "authors": "/api/v1/crates/zng-webrender/0.63.0/authors"
+        },
+        "crate_size": 785714,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-06-09T17:49:16.885785Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-06-10T03:11:29.415228Z"
+            }
+        ],
+        "checksum": "766cbfd9d28cd6e1d26fc68ab2cb3c3085769172d91f682ab788cc9085dc94b8",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "A GPU accelerated 2D renderer for web content",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zng-ui/zng-webrender",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "GLSL": {
+                    "code_lines": 5978,
+                    "comment_lines": 1437,
+                    "files": 50
+                },
+                "Rust": {
+                    "code_lines": 68296,
+                    "comment_lines": 6314,
+                    "files": 84
+                }
+            },
+            "total_code_lines": 74274,
+            "total_comment_lines": 7751
+        }
+    }
+}

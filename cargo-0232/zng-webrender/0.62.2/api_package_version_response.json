@@ -1,0 +1,109 @@
+{
+    "version": {
+        "id": 1110688,
+        "crate": "zng-webrender",
+        "num": "0.62.2",
+        "dl_path": "/api/v1/crates/zng-webrender/0.62.2/download",
+        "readme_path": "/api/v1/crates/zng-webrender/0.62.2/readme",
+        "updated_at": "2024-04-10T18:55:47.126127Z",
+        "created_at": "2024-04-10T18:55:47.126127Z",
+        "downloads": 1666,
+        "features": {
+            "capture": [
+                "api/serialize",
+                "dep:ron",
+                "dep:serde",
+                "smallvec/serde",
+                "etagere/serialization",
+                "glyph_rasterizer/capture"
+            ],
+            "default": [
+                "static_freetype"
+            ],
+            "display_list_stats": [
+                "api/display_list_stats"
+            ],
+            "dynamic_freetype": [
+                "glyph_rasterizer/dynamic_freetype"
+            ],
+            "leak_checks": [],
+            "profiler": [
+                "tracy-rs/enable_profiler"
+            ],
+            "replay": [
+                "api/deserialize",
+                "dep:ron",
+                "dep:serde",
+                "smallvec/serde",
+                "etagere/serialization",
+                "glyph_rasterizer/replay"
+            ],
+            "serialize_program": [
+                "dep:serde",
+                "webrender_build/serialize_program"
+            ],
+            "static_freetype": [
+                "glyph_rasterizer/static_freetype"
+            ],
+            "sw_compositor": [
+                "dep:swgl"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MPL-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-webrender/0.62.2/dependencies",
+            "version_downloads": "/api/v1/crates/zng-webrender/0.62.2/downloads",
+            "authors": "/api/v1/crates/zng-webrender/0.62.2/authors"
+        },
+        "crate_size": 741739,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-04-10T18:55:47.126127Z"
+            }
+        ],
+        "checksum": "00a50683c8c1a8a1a5a943522c654d006027a77f923aa5eef11b7be3cfa92e8f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "A GPU accelerated 2D renderer for web content",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zng-ui/zng-webrender",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "GLSL": {
+                    "code_lines": 5153,
+                    "comment_lines": 1281,
+                    "files": 46
+                },
+                "Rust": {
+                    "code_lines": 64751,
+                    "comment_lines": 5797,
+                    "files": 84
+                }
+            },
+            "total_code_lines": 69904,
+            "total_comment_lines": 7078
+        }
+    }
+}
