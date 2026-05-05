@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1110675,
+        "crate": "zng-peek-poke-derive",
+        "num": "0.3.1",
+        "dl_path": "/api/v1/crates/zng-peek-poke-derive/0.3.1/download",
+        "readme_path": "/api/v1/crates/zng-peek-poke-derive/0.3.1/readme",
+        "updated_at": "2024-04-10T18:45:17.493346Z",
+        "created_at": "2024-04-10T18:45:17.493346Z",
+        "downloads": 13970,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-peek-poke-derive/0.3.1/dependencies",
+            "version_downloads": "/api/v1/crates/zng-peek-poke-derive/0.3.1/downloads",
+            "authors": "/api/v1/crates/zng-peek-poke-derive/0.3.1/authors"
+        },
+        "crate_size": 8214,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-04-10T18:45:17.493346Z"
+            }
+        ],
+        "checksum": "b73b6395c87fdf822ddb80b4f78407ad65c4c9092d34cf2cbb3f04548035c22f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Derive macro for peek-poke.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zng-ui/zng-webrender",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 198,
+                    "comment_lines": 15,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 198,
+            "total_comment_lines": 15
+        }
+    }
+}
