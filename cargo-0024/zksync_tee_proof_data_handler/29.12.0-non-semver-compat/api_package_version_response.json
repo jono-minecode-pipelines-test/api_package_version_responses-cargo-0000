@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2087959,
+        "crate": "zksync_tee_proof_data_handler",
+        "num": "29.12.0-non-semver-compat",
+        "dl_path": "/api/v1/crates/zksync_tee_proof_data_handler/29.12.0-non-semver-compat/download",
+        "readme_path": "/api/v1/crates/zksync_tee_proof_data_handler/29.12.0-non-semver-compat/readme",
+        "updated_at": "2026-03-04T22:01:52.946477Z",
+        "created_at": "2026-03-04T22:01:52.946477Z",
+        "downloads": 17,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_tee_proof_data_handler/29.12.0-non-semver-compat/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_tee_proof_data_handler/29.12.0-non-semver-compat/downloads",
+            "authors": "/api/v1/crates/zksync_tee_proof_data_handler/29.12.0-non-semver-compat/authors"
+        },
+        "crate_size": 53186,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2026-03-04T22:01:52.946477Z"
+            }
+        ],
+        "checksum": "56fb2894b821ae00400adb1d83db4dd3f79018c10e3a083dc28e09d82b46f49c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync TEE proof data handler API",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 873,
+                    "comment_lines": 13,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 873,
+            "total_comment_lines": 13
+        }
+    }
+}
