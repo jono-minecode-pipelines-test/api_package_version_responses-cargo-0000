@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1621957,
+        "crate": "zksync_vm_executor",
+        "num": "28.7.0-non-semver-compat",
+        "dl_path": "/api/v1/crates/zksync_vm_executor/28.7.0-non-semver-compat/download",
+        "readme_path": "/api/v1/crates/zksync_vm_executor/28.7.0-non-semver-compat/readme",
+        "updated_at": "2025-06-30T22:03:55.108593Z",
+        "created_at": "2025-06-30T22:03:55.108593Z",
+        "downloads": 428,
+        "features": {
+            "default": [],
+            "node_framework": [
+                "dep:zksync_node_framework"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_vm_executor/28.7.0-non-semver-compat/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_vm_executor/28.7.0-non-semver-compat/downloads",
+            "authors": "/api/v1/crates/zksync_vm_executor/28.7.0-non-semver-compat/authors"
+        },
+        "crate_size": 70800,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2025-06-30T22:03:55.108593Z"
+            }
+        ],
+        "checksum": "366f4bd1a1b0ef7336bc09e12392a512a273d3422d7ab9df54b6c3896fa0a9c9",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Implementations of ZKsync VM executors",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2738,
+                    "comment_lines": 70,
+                    "files": 17
+                }
+            },
+            "total_code_lines": 2738,
+            "total_comment_lines": 70
+        }
+    }
+}
