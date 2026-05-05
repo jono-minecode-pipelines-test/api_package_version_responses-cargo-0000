@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2317099,
+        "crate": "zlayer-storage",
+        "num": "0.11.5",
+        "dl_path": "/api/v1/crates/zlayer-storage/0.11.5/download",
+        "readme_path": "/api/v1/crates/zlayer-storage/0.11.5/readme",
+        "updated_at": "2026-04-27T21:26:46.424418Z",
+        "created_at": "2026-04-27T21:26:46.424418Z",
+        "downloads": 10,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-storage/0.11.5/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-storage/0.11.5/downloads",
+            "authors": "/api/v1/crates/zlayer-storage/0.11.5/authors"
+        },
+        "crate_size": 50843,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-04-27T21:26:46.424418Z"
+            }
+        ],
+        "checksum": "ed7c817f23363e148fc467707f3d6b18d193eae923c77565ff721f568c1bd0c6",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "S3-backed container layer persistence with crash-tolerant uploads",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/BlackLeafDigital/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2342,
+                    "comment_lines": 183,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 2342,
+            "total_comment_lines": 183
+        }
+    }
+}
