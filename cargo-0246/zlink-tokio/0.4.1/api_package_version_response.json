@@ -1,0 +1,97 @@
+{
+    "version": {
+        "id": 2180205,
+        "crate": "zlink-tokio",
+        "num": "0.4.1",
+        "dl_path": "/api/v1/crates/zlink-tokio/0.4.1/download",
+        "readme_path": "/api/v1/crates/zlink-tokio/0.4.1/readme",
+        "updated_at": "2026-03-28T17:48:37.126299Z",
+        "created_at": "2026-03-28T17:48:37.126299Z",
+        "downloads": 1882,
+        "features": {
+            "default": [
+                "service",
+                "proxy",
+                "tracing"
+            ],
+            "defmt": [
+                "zlink-core/defmt"
+            ],
+            "idl": [
+                "zlink-core/idl"
+            ],
+            "idl-parse": [
+                "zlink-core/idl-parse"
+            ],
+            "introspection": [
+                "zlink-core/introspection"
+            ],
+            "proxy": [
+                "zlink-core/proxy"
+            ],
+            "server": [
+                "zlink-core/server"
+            ],
+            "service": [
+                "server",
+                "introspection",
+                "zlink-core/service"
+            ],
+            "tracing": [
+                "zlink-core/tracing",
+                "tokio/tracing"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlink-tokio/0.4.1/dependencies",
+            "version_downloads": "/api/v1/crates/zlink-tokio/0.4.1/downloads",
+            "authors": "/api/v1/crates/zlink-tokio/0.4.1/authors"
+        },
+        "crate_size": 16766,
+        "published_by": {
+            "id": 6423,
+            "login": "zeenix",
+            "name": "Zeeshan Ali Khan",
+            "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+            "url": "https://github.com/zeenix"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6423,
+                    "login": "zeenix",
+                    "name": "Zeeshan Ali Khan",
+                    "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+                    "url": "https://github.com/zeenix"
+                },
+                "time": "2026-03-28T17:48:37.126299Z"
+            }
+        ],
+        "checksum": "f24047416c14c957c0213f6f2f5bf74a4c437364e2a93c5bc7c120c521f15c21",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "zlink library for the Tokio runtime",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/z-galaxy/zlink/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 310,
+                    "comment_lines": 18,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 310,
+            "total_comment_lines": 18
+        }
+    }
+}

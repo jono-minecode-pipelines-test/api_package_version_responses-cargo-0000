@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 1851338,
+        "crate": "zlink-macros",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zlink-macros/0.2.0/download",
+        "readme_path": "/api/v1/crates/zlink-macros/0.2.0/readme",
+        "updated_at": "2025-11-30T16:28:24.758664Z",
+        "created_at": "2025-11-30T16:28:24.758664Z",
+        "downloads": 3068,
+        "features": {
+            "default": [
+                "proxy"
+            ],
+            "idl-parse": [],
+            "introspection": [],
+            "proxy": [
+                "syn/full",
+                "syn/clone-impls"
+            ],
+            "std": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlink-macros/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zlink-macros/0.2.0/downloads",
+            "authors": "/api/v1/crates/zlink-macros/0.2.0/authors"
+        },
+        "crate_size": 49370,
+        "published_by": {
+            "id": 6423,
+            "login": "zeenix",
+            "name": "Zeeshan Ali Khan",
+            "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+            "url": "https://github.com/zeenix"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6423,
+                    "login": "zeenix",
+                    "name": "Zeeshan Ali Khan",
+                    "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+                    "url": "https://github.com/zeenix"
+                },
+                "time": "2025-11-30T16:28:24.758664Z"
+            }
+        ],
+        "checksum": "e6a10a1ed09222634dde2db7055226eafae571389ce57dae3707bd2a76f6dc7b",
+        "rust_version": "1.83",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Macros providing the high-level zlink API",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/z-galaxy/zlink/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3028,
+                    "comment_lines": 154,
+                    "files": 14
+                }
+            },
+            "total_code_lines": 3028,
+            "total_comment_lines": 154
+        }
+    }
+}

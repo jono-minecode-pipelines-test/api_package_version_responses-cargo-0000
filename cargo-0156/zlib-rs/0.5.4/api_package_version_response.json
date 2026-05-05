@@ -1,0 +1,86 @@
+{
+    "version": {
+        "id": 1871917,
+        "crate": "zlib-rs",
+        "num": "0.5.4",
+        "dl_path": "/api/v1/crates/zlib-rs/0.5.4/download",
+        "readme_path": "/api/v1/crates/zlib-rs/0.5.4/readme",
+        "updated_at": "2025-12-10T11:44:17.398351Z",
+        "created_at": "2025-12-10T11:44:17.398351Z",
+        "downloads": 1204633,
+        "features": {
+            "ZLIB_DEBUG": [],
+            "__internal-fuzz": [
+                "arbitrary"
+            ],
+            "__internal-fuzz-disable-checksum": [],
+            "__internal-test": [
+                "quickcheck"
+            ],
+            "avx512": [
+                "vpclmulqdq"
+            ],
+            "c-allocator": [],
+            "default": [
+                "std",
+                "c-allocator"
+            ],
+            "rust-allocator": [],
+            "std": [
+                "rust-allocator"
+            ],
+            "vpclmulqdq": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Zlib",
+        "links": {
+            "dependencies": "/api/v1/crates/zlib-rs/0.5.4/dependencies",
+            "version_downloads": "/api/v1/crates/zlib-rs/0.5.4/downloads",
+            "authors": "/api/v1/crates/zlib-rs/0.5.4/authors"
+        },
+        "crate_size": 206980,
+        "published_by": {
+            "id": 256011,
+            "login": "folkertdev",
+            "name": "Folkert de Vries",
+            "avatar": "https://avatars.githubusercontent.com/u/7949978?v=4",
+            "url": "https://github.com/folkertdev"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 256011,
+                    "login": "folkertdev",
+                    "name": "Folkert de Vries",
+                    "avatar": "https://avatars.githubusercontent.com/u/7949978?v=4",
+                    "url": "https://github.com/folkertdev"
+                },
+                "time": "2025-12-10T11:44:17.398351Z"
+            }
+        ],
+        "checksum": "51f936044d677be1a1168fae1d03b583a285a5dd9d8cbf7b24c23aa1fc775235",
+        "rust_version": "1.75",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A memory-safe zlib implementation written in rust",
+        "homepage": "https://github.com/trifectatechfoundation/zlib-rs",
+        "documentation": null,
+        "repository": "https://github.com/trifectatechfoundation/zlib-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 11929,
+                    "comment_lines": 1192,
+                    "files": 42
+                }
+            },
+            "total_code_lines": 11929,
+            "total_comment_lines": 1192
+        }
+    }
+}

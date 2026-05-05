@@ -1,0 +1,85 @@
+{
+    "version": {
+        "id": 1551618,
+        "crate": "zlink-core",
+        "num": "0.0.1-alpha.1",
+        "dl_path": "/api/v1/crates/zlink-core/0.0.1-alpha.1/download",
+        "readme_path": "/api/v1/crates/zlink-core/0.0.1-alpha.1/readme",
+        "updated_at": "2025-05-05T21:46:32.864140Z",
+        "created_at": "2025-05-05T21:46:32.864140Z",
+        "downloads": 592,
+        "features": {
+            "default": [
+                "std",
+                "io-buffer-2kb"
+            ],
+            "embedded": [
+                "dep:serde-json-core",
+                "mayheap/heapless",
+                "defmt"
+            ],
+            "io-buffer-16kb": [],
+            "io-buffer-1mb": [],
+            "io-buffer-2kb": [],
+            "io-buffer-4kb": [],
+            "std": [
+                "dep:serde_json",
+                "memchr/std",
+                "mayheap/alloc",
+                "serde/std",
+                "tracing"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlink-core/0.0.1-alpha.1/dependencies",
+            "version_downloads": "/api/v1/crates/zlink-core/0.0.1-alpha.1/downloads",
+            "authors": "/api/v1/crates/zlink-core/0.0.1-alpha.1/authors"
+        },
+        "crate_size": 13421,
+        "published_by": {
+            "id": 6423,
+            "login": "zeenix",
+            "name": "Zeeshan Ali Khan",
+            "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+            "url": "https://github.com/zeenix"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6423,
+                    "login": "zeenix",
+                    "name": "Zeeshan Ali Khan",
+                    "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+                    "url": "https://github.com/zeenix"
+                },
+                "time": "2025-05-05T21:46:32.864140Z"
+            }
+        ],
+        "checksum": "78debeb94a31f6e89b10d94bdfe8534b3ac5a6f97f1d1af9d748efe98cfb15a7",
+        "rust_version": "1.82",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "The core crate of the zlink project",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zeenix/zlink/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 811,
+                    "comment_lines": 22,
+                    "files": 13
+                }
+            },
+            "total_code_lines": 811,
+            "total_comment_lines": 22
+        }
+    }
+}

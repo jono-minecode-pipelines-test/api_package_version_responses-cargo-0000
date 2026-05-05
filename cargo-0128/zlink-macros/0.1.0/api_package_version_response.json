@@ -1,0 +1,76 @@
+{
+    "version": {
+        "id": 1686598,
+        "crate": "zlink-macros",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zlink-macros/0.1.0/download",
+        "readme_path": "/api/v1/crates/zlink-macros/0.1.0/readme",
+        "updated_at": "2025-08-15T11:57:13.423650Z",
+        "created_at": "2025-08-15T11:57:13.423650Z",
+        "downloads": 575,
+        "features": {
+            "default": [
+                "proxy",
+                "std"
+            ],
+            "idl-parse": [],
+            "introspection": [],
+            "proxy": [
+                "syn/full",
+                "syn/clone-impls"
+            ],
+            "std": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlink-macros/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zlink-macros/0.1.0/downloads",
+            "authors": "/api/v1/crates/zlink-macros/0.1.0/authors"
+        },
+        "crate_size": 45773,
+        "published_by": {
+            "id": 6423,
+            "login": "zeenix",
+            "name": "Zeeshan Ali Khan",
+            "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+            "url": "https://github.com/zeenix"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6423,
+                    "login": "zeenix",
+                    "name": "Zeeshan Ali Khan",
+                    "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+                    "url": "https://github.com/zeenix"
+                },
+                "time": "2025-08-15T11:57:13.423650Z"
+            }
+        ],
+        "checksum": "931ea0b919da99c18e10569081b2352bb42f989b72f2219933f8225fc0b0ea72",
+        "rust_version": "1.83",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Macros providing the high-level zlink API",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zeenix/zlink/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2667,
+                    "comment_lines": 142,
+                    "files": 14
+                }
+            },
+            "total_code_lines": 2667,
+            "total_comment_lines": 142
+        }
+    }
+}

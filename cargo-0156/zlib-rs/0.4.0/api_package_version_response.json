@@ -1,0 +1,82 @@
+{
+    "version": {
+        "id": 1339540,
+        "crate": "zlib-rs",
+        "num": "0.4.0",
+        "dl_path": "/api/v1/crates/zlib-rs/0.4.0/download",
+        "readme_path": "/api/v1/crates/zlib-rs/0.4.0/readme",
+        "updated_at": "2024-11-14T11:21:13.529462Z",
+        "created_at": "2024-11-14T11:21:13.529462Z",
+        "downloads": 37086,
+        "features": {
+            "ZLIB_DEBUG": [],
+            "__internal-fuzz": [
+                "arbitrary"
+            ],
+            "__internal-fuzz-disable-checksum": [],
+            "__internal-test": [
+                "quickcheck"
+            ],
+            "c-allocator": [],
+            "default": [
+                "std",
+                "c-allocator"
+            ],
+            "rust-allocator": [],
+            "std": [
+                "rust-allocator"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Zlib",
+        "links": {
+            "dependencies": "/api/v1/crates/zlib-rs/0.4.0/dependencies",
+            "version_downloads": "/api/v1/crates/zlib-rs/0.4.0/downloads",
+            "authors": "/api/v1/crates/zlib-rs/0.4.0/authors"
+        },
+        "crate_size": 188912,
+        "published_by": {
+            "id": 1303,
+            "login": "rnijveld",
+            "name": "Ruben Nijveld",
+            "avatar": "https://avatars.githubusercontent.com/u/193783?v=4",
+            "url": "https://github.com/rnijveld"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 1303,
+                    "login": "rnijveld",
+                    "name": "Ruben Nijveld",
+                    "avatar": "https://avatars.githubusercontent.com/u/193783?v=4",
+                    "url": "https://github.com/rnijveld"
+                },
+                "time": "2024-11-14T11:21:13.529462Z"
+            }
+        ],
+        "checksum": "2ca4a9dc6566c9224cc161dedc5577bd81f4a9ee0f9fbe80592756d096b07ee5",
+        "rust_version": "1.75",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A memory-safe zlib implementation written in rust",
+        "homepage": "https://github.com/trifectatechfoundation/zlib-rs",
+        "documentation": null,
+        "repository": "https://github.com/trifectatechfoundation/zlib-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 10546,
+                    "comment_lines": 987,
+                    "files": 38
+                }
+            },
+            "total_code_lines": 10546,
+            "total_comment_lines": 987
+        }
+    }
+}
