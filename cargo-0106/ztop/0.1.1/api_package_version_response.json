@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 412797,
+        "crate": "ztop",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/ztop/0.1.1/download",
+        "readme_path": "/api/v1/crates/ztop/0.1.1/readme",
+        "updated_at": "2021-08-13T19:45:00.264941Z",
+        "created_at": "2021-08-13T19:45:00.264941Z",
+        "downloads": 1181,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-2-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/ztop/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/ztop/0.1.1/downloads",
+            "authors": "/api/v1/crates/ztop/0.1.1/authors"
+        },
+        "crate_size": 14091,
+        "published_by": {
+            "id": 6094,
+            "login": "asomers",
+            "name": "Alan Somers",
+            "avatar": "https://avatars.githubusercontent.com/u/129721?v=4",
+            "url": "https://github.com/asomers"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6094,
+                    "login": "asomers",
+                    "name": "Alan Somers",
+                    "avatar": "https://avatars.githubusercontent.com/u/129721?v=4",
+                    "url": "https://github.com/asomers"
+                },
+                "time": "2021-08-13T19:45:00.264941Z"
+            }
+        ],
+        "checksum": "9bee2e9778deee6e47d36f0a6eb7c5f6a6e6f062448c9fc3a8b233feaedf7e84",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "ztop"
+        ],
+        "edition": "2018",
+        "description": "Display ZFS datasets' I/O in real time",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/asomers/ztop",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1005,
+                    "comment_lines": 22,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 1005,
+            "total_comment_lines": 22
+        }
+    }
+}

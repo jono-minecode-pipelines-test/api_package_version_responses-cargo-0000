@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1525636,
+        "crate": "ztl-cli",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/ztl-cli/0.1.0/download",
+        "readme_path": "/api/v1/crates/ztl-cli/0.1.0/readme",
+        "updated_at": "2025-04-15T23:17:51.547762Z",
+        "created_at": "2025-04-15T23:17:51.547762Z",
+        "downloads": 682,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/ztl-cli/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/ztl-cli/0.1.0/downloads",
+            "authors": "/api/v1/crates/ztl-cli/0.1.0/authors"
+        },
+        "crate_size": 12489,
+        "published_by": {
+            "id": 327367,
+            "login": "paulocod",
+            "name": "Paulo Campos",
+            "avatar": "https://avatars.githubusercontent.com/u/53629713?v=4",
+            "url": "https://github.com/paulocod"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 327367,
+                    "login": "paulocod",
+                    "name": "Paulo Campos",
+                    "avatar": "https://avatars.githubusercontent.com/u/53629713?v=4",
+                    "url": "https://github.com/paulocod"
+                },
+                "time": "2025-04-15T23:17:51.547762Z"
+            }
+        ],
+        "checksum": "174b5e0b2b50ebf3e754df0574e8f2c58944f35a119ac14de878ea29571e75a7",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "ztl-cli"
+        ],
+        "edition": "2021",
+        "description": "Interactive cli for running scripts from Package.json",
+        "homepage": null,
+        "documentation": "https://docs.rs/ztl-cli",
+        "repository": "https://github.com/paulocod/ztl-cli",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 164,
+                    "comment_lines": 0,
+                    "files": 8
+                }
+            },
+            "total_code_lines": 164,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1170050,
+        "crate": "ztopic",
+        "num": "0.3.2",
+        "dl_path": "/api/v1/crates/ztopic/0.3.2/download",
+        "readme_path": "/api/v1/crates/ztopic/0.3.2/readme",
+        "updated_at": "2024-06-10T18:45:46.125260Z",
+        "created_at": "2024-06-10T18:45:46.125260Z",
+        "downloads": 1069,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/ztopic/0.3.2/dependencies",
+            "version_downloads": "/api/v1/crates/ztopic/0.3.2/downloads",
+            "authors": "/api/v1/crates/ztopic/0.3.2/authors"
+        },
+        "crate_size": 13372,
+        "published_by": {
+            "id": 117200,
+            "login": "zsl99a",
+            "name": "Ethereal",
+            "avatar": "https://avatars.githubusercontent.com/u/7685960?v=4",
+            "url": "https://github.com/zsl99a"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 117200,
+                    "login": "zsl99a",
+                    "name": "Ethereal",
+                    "avatar": "https://avatars.githubusercontent.com/u/7685960?v=4",
+                    "url": "https://github.com/zsl99a"
+                },
+                "time": "2024-06-10T18:45:46.125260Z"
+            }
+        ],
+        "checksum": "47c1a20d04c4b2024635f0eaf5d9dc3d67cae7274e72429fa2a2954826e20d16",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "hash",
+            "non_null",
+            "topic",
+            "vector"
+        ],
+        "edition": "2021",
+        "description": "A topic-based pub/sub library for Rust",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zsl99a/ztopic",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 849,
+                    "comment_lines": 0,
+                    "files": 22
+                }
+            },
+            "total_code_lines": 849,
+            "total_comment_lines": 0
+        }
+    }
+}

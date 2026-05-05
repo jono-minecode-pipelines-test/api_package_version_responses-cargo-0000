@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 992664,
+        "crate": "ztool",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/ztool/0.1.0/download",
+        "readme_path": "/api/v1/crates/ztool/0.1.0/readme",
+        "updated_at": "2023-12-21T06:26:47.175794Z",
+        "created_at": "2023-12-21T06:26:47.175794Z",
+        "downloads": 1433,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/ztool/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/ztool/0.1.0/downloads",
+            "authors": "/api/v1/crates/ztool/0.1.0/authors"
+        },
+        "crate_size": 2527,
+        "published_by": {
+            "id": 245374,
+            "login": "zhaotl17721010101",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/87882622?v=4",
+            "url": "https://github.com/zhaotl17721010101"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 245374,
+                    "login": "zhaotl17721010101",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/87882622?v=4",
+                    "url": "https://github.com/zhaotl17721010101"
+                },
+                "time": "2023-12-21T06:26:47.175794Z"
+            }
+        ],
+        "checksum": "bfb05a03852446caa712a12b5b1b30e4b3761538e5fa0d8c8b0953d23388d356",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "zhaot tool",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 11,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 11,
+            "total_comment_lines": 0
+        }
+    }
+}
