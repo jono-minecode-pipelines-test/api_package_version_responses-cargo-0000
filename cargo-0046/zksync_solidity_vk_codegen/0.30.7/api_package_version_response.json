@@ -1,0 +1,80 @@
+{
+    "version": {
+        "id": 1344126,
+        "crate": "zksync_solidity_vk_codegen",
+        "num": "0.30.7",
+        "dl_path": "/api/v1/crates/zksync_solidity_vk_codegen/0.30.7/download",
+        "readme_path": "/api/v1/crates/zksync_solidity_vk_codegen/0.30.7/readme",
+        "updated_at": "2024-11-21T13:13:01.374627Z",
+        "created_at": "2024-11-18T15:54:20.278268Z",
+        "downloads": 817,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_solidity_vk_codegen/0.30.7/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_solidity_vk_codegen/0.30.7/downloads",
+            "authors": "/api/v1/crates/zksync_solidity_vk_codegen/0.30.7/authors"
+        },
+        "crate_size": 15803,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-11-18T15:54:20.278268Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-11-21T13:13:01.376885Z"
+            }
+        ],
+        "checksum": "6b05658281ef40ff56e715c4209d0d51a4f31fdaea3df8cd9d1b57868d51250f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "ZKsync solidity codegen for vks",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-crypto/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 794,
+                    "comment_lines": 15,
+                    "files": 5
+                },
+                "Solidity": {
+                    "code_lines": 968,
+                    "comment_lines": 72,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 1762,
+            "total_comment_lines": 87
+        }
+    }
+}

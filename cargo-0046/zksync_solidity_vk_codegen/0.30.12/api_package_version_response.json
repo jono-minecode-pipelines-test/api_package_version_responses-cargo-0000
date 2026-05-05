@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1381501,
+        "crate": "zksync_solidity_vk_codegen",
+        "num": "0.30.12",
+        "dl_path": "/api/v1/crates/zksync_solidity_vk_codegen/0.30.12/download",
+        "readme_path": "/api/v1/crates/zksync_solidity_vk_codegen/0.30.12/readme",
+        "updated_at": "2024-12-20T12:03:49.614849Z",
+        "created_at": "2024-12-20T12:03:49.614849Z",
+        "downloads": 11451,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_solidity_vk_codegen/0.30.12/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_solidity_vk_codegen/0.30.12/downloads",
+            "authors": "/api/v1/crates/zksync_solidity_vk_codegen/0.30.12/authors"
+        },
+        "crate_size": 15806,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-12-20T12:03:49.614849Z"
+            }
+        ],
+        "checksum": "eb10f377dcc24fe2268cc5f530c16af1c879a791570d8fe64064b58ba143c7cc",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "ZKsync solidity codegen for vks",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-crypto/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 794,
+                    "comment_lines": 15,
+                    "files": 5
+                },
+                "Solidity": {
+                    "code_lines": 968,
+                    "comment_lines": 72,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 1762,
+            "total_comment_lines": 87
+        }
+    }
+}
