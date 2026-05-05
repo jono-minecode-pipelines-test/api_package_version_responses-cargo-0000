@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2010125,
+        "crate": "zo-cli",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zo-cli/0.1.0/download",
+        "readme_path": "/api/v1/crates/zo-cli/0.1.0/readme",
+        "updated_at": "2026-02-08T21:09:52.601697Z",
+        "created_at": "2026-02-08T21:09:52.601697Z",
+        "downloads": 18,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zo-cli/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zo-cli/0.1.0/downloads",
+            "authors": "/api/v1/crates/zo-cli/0.1.0/authors"
+        },
+        "crate_size": 64249,
+        "published_by": {
+            "id": 388084,
+            "login": "svent",
+            "name": "Sven Taute",
+            "avatar": "https://avatars.githubusercontent.com/u/202784?v=4",
+            "url": "https://github.com/svent"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 388084,
+                    "login": "svent",
+                    "name": "Sven Taute",
+                    "avatar": "https://avatars.githubusercontent.com/u/202784?v=4",
+                    "url": "https://github.com/svent"
+                },
+                "time": "2026-02-08T21:09:52.601697Z"
+            }
+        ],
+        "checksum": "44243bd99ac221947d1bb1121cb2c960daa19f7c633ed7333451261efa0624d9",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zo"
+        ],
+        "edition": "2024",
+        "description": "A fast, minimal CLI for interacting with LLMs via OpenRouter",
+        "homepage": "https://zo.svent.dev",
+        "documentation": "https://zo.svent.dev",
+        "repository": "https://github.com/svent/zo",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3810,
+                    "comment_lines": 365,
+                    "files": 12
+                }
+            },
+            "total_code_lines": 3810,
+            "total_comment_lines": 365
+        }
+    }
+}

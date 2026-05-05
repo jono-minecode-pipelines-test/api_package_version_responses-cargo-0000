@@ -1,0 +1,74 @@
+{
+    "version": {
+        "id": 1677471,
+        "crate": "zodiac",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zodiac/0.2.0/download",
+        "readme_path": "/api/v1/crates/zodiac/0.2.0/readme",
+        "updated_at": "2025-08-09T07:40:46.816463Z",
+        "created_at": "2025-08-09T07:40:46.816463Z",
+        "downloads": 364,
+        "features": {
+            "default": [],
+            "default_allocator": [
+                "dep:good_memory_allocator"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zodiac/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zodiac/0.2.0/downloads",
+            "authors": "/api/v1/crates/zodiac/0.2.0/authors"
+        },
+        "crate_size": 36097,
+        "published_by": {
+            "id": 281082,
+            "login": "zzjrabbit",
+            "name": "Zeng Zhenjia",
+            "avatar": "https://avatars.githubusercontent.com/u/138191444?v=4",
+            "url": "https://github.com/zzjrabbit"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 281082,
+                    "login": "zzjrabbit",
+                    "name": "Zeng Zhenjia",
+                    "avatar": "https://avatars.githubusercontent.com/u/138191444?v=4",
+                    "url": "https://github.com/zzjrabbit"
+                },
+                "time": "2025-08-09T07:40:46.816463Z"
+            }
+        ],
+        "checksum": "447090242d208c87deb0aae76a7150d09019fdd0b2dbe9bec0aeabd1480f4b6c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Rust OS framework that offers safe interfaces for kernel development",
+        "homepage": "https://github.com/zzjrabbit/racaOS/tree/edition19/zodiac",
+        "documentation": null,
+        "repository": "https://github.com/zzjrabbit/racaOS",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Assembly": {
+                    "code_lines": 307,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 4239,
+                    "comment_lines": 11,
+                    "files": 40
+                }
+            },
+            "total_code_lines": 4546,
+            "total_comment_lines": 11
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "version": {
+        "id": 740852,
+        "crate": "zod-core",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zod-core/0.1.0/download",
+        "readme_path": "/api/v1/crates/zod-core/0.1.0/readme",
+        "updated_at": "2023-03-04T06:01:09.297419Z",
+        "created_at": "2023-03-04T06:01:09.297419Z",
+        "downloads": 2285,
+        "features": {
+            "default": [
+                "inventory",
+                "rpc"
+            ],
+            "rpc": [
+                "async-trait",
+                "serde_json",
+                "futures",
+                "pin-project-lite",
+                "thiserror",
+                "tokio",
+                "serde"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zod-core/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zod-core/0.1.0/downloads",
+            "authors": "/api/v1/crates/zod-core/0.1.0/authors"
+        },
+        "crate_size": 6786,
+        "published_by": {
+            "id": 101832,
+            "login": "nicolaiunrein",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/30074233?v=4",
+            "url": "https://github.com/nicolaiunrein"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 101832,
+                    "login": "nicolaiunrein",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/30074233?v=4",
+                    "url": "https://github.com/nicolaiunrein"
+                },
+                "time": "2023-03-04T06:01:09.297419Z"
+            }
+        ],
+        "checksum": "05f3a31658e1cd67078e33636bb8a2e52cce9f46de65c31e73636fdd8c669aee",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Rust integraions with the `zod` typescript library.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zod",
+        "repository": "https://github.com/nicolaiunrein/zod",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 743,
+                    "comment_lines": 2,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 743,
+            "total_comment_lines": 2
+        }
+    }
+}

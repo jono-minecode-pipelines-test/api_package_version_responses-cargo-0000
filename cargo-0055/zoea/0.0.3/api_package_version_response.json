@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 240566,
+        "crate": "zoea",
+        "num": "0.0.3",
+        "dl_path": "/api/v1/crates/zoea/0.0.3/download",
+        "readme_path": "/api/v1/crates/zoea/0.0.3/readme",
+        "updated_at": "2020-05-12T09:39:30.339749Z",
+        "created_at": "2020-05-12T09:39:30.339749Z",
+        "downloads": 1258,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zoea/0.0.3/dependencies",
+            "version_downloads": "/api/v1/crates/zoea/0.0.3/downloads",
+            "authors": "/api/v1/crates/zoea/0.0.3/authors"
+        },
+        "crate_size": 3523,
+        "published_by": {
+            "id": 89156,
+            "login": "FabioMencoboni",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/65197212?v=4",
+            "url": "https://github.com/FabioMencoboni"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 89156,
+                    "login": "FabioMencoboni",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/65197212?v=4",
+                    "url": "https://github.com/FabioMencoboni"
+                },
+                "time": "2020-05-12T09:39:30.339749Z"
+            }
+        ],
+        "checksum": "3ae222613b720a73c531442c8dc8a534c710597c0723cfebebb9aaeda4f69f26",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "zoea is the worst rust package you will ever outgrow. It is intended for pythonistas and part-time programmers to have some useful 'shortcuts' to get up and running quickly.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/FabioMencoboni/zoea",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 77,
+                    "comment_lines": 18,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 77,
+            "total_comment_lines": 18
+        }
+    }
+}

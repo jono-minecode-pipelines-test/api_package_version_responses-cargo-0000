@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1766463,
+        "crate": "zod-rs-macros",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zod-rs-macros/0.2.0/download",
+        "readme_path": "/api/v1/crates/zod-rs-macros/0.2.0/readme",
+        "updated_at": "2025-10-09T06:57:27.462360Z",
+        "created_at": "2025-10-09T06:57:27.462360Z",
+        "downloads": 1303,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zod-rs-macros/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zod-rs-macros/0.2.0/downloads",
+            "authors": "/api/v1/crates/zod-rs-macros/0.2.0/authors"
+        },
+        "crate_size": 10462,
+        "published_by": {
+            "id": 332031,
+            "login": "maulanasdqn",
+            "name": "Maulana Sodiqin",
+            "avatar": "https://avatars.githubusercontent.com/u/53475078?v=4",
+            "url": "https://github.com/maulanasdqn"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 332031,
+                    "login": "maulanasdqn",
+                    "name": "Maulana Sodiqin",
+                    "avatar": "https://avatars.githubusercontent.com/u/53475078?v=4",
+                    "url": "https://github.com/maulanasdqn"
+                },
+                "time": "2025-10-09T06:57:27.462360Z"
+            }
+        ],
+        "checksum": "9b12669a90307b9c1306085d21767d462e960c5e3d2c25ad17d978a53f35755d",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Procedural macros for zod-rs schema to struct inference and validation",
+        "homepage": "https://github.com/maulanasdqn/zod-rs",
+        "documentation": "https://docs.rs/zod-rs-macros",
+        "repository": "https://github.com/maulanasdqn/zod-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 455,
+                    "comment_lines": 4,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 455,
+            "total_comment_lines": 4
+        }
+    }
+}
