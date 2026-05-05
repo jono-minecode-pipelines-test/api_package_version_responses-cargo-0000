@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 1638095,
+        "crate": "zng-wgt-scroll",
+        "num": "0.7.7",
+        "dl_path": "/api/v1/crates/zng-wgt-scroll/0.7.7/download",
+        "readme_path": "/api/v1/crates/zng-wgt-scroll/0.7.7/readme",
+        "updated_at": "2025-07-11T23:12:10.589579Z",
+        "created_at": "2025-07-11T23:12:10.589579Z",
+        "downloads": 383,
+        "features": {
+            "debug_default": [],
+            "default": [
+                "debug_default"
+            ],
+            "dyn_closure": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wgt-scroll/0.7.7/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wgt-scroll/0.7.7/downloads",
+            "authors": "/api/v1/crates/zng-wgt-scroll/0.7.7/authors"
+        },
+        "crate_size": 57116,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-07-11T23:12:10.589579Z"
+            }
+        ],
+        "checksum": "f9c8dbfceca6a1a4e3370fba5e05dbc7ed2f2529f901c523ebcda0a7d5c74546",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_wgt_scroll",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "FreeMarker": {
+                    "code_lines": 132,
+                    "comment_lines": 0,
+                    "files": 3
+                },
+                "Rust": {
+                    "code_lines": 3630,
+                    "comment_lines": 112,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 3762,
+            "total_comment_lines": 112
+        }
+    }
+}

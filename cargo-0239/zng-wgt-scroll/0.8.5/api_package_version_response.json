@@ -1,0 +1,84 @@
+{
+    "version": {
+        "id": 1727785,
+        "crate": "zng-wgt-scroll",
+        "num": "0.8.5",
+        "dl_path": "/api/v1/crates/zng-wgt-scroll/0.8.5/download",
+        "readme_path": "/api/v1/crates/zng-wgt-scroll/0.8.5/readme",
+        "updated_at": "2025-09-13T16:18:08.103672Z",
+        "created_at": "2025-09-13T06:09:53.622512Z",
+        "downloads": 356,
+        "features": {
+            "debug_default": [],
+            "default": [],
+            "dyn_closure": []
+        },
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wgt-scroll/0.8.5/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wgt-scroll/0.8.5/downloads",
+            "authors": "/api/v1/crates/zng-wgt-scroll/0.8.5/authors"
+        },
+        "crate_size": 55321,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-09-13T06:09:53.622512Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-09-13T16:18:08.106178Z"
+            }
+        ],
+        "checksum": "142b79ea883fb56feb5ac2c5af31d497e644d9af20946ee355a1803be58acf55",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_wgt_scroll",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "FreeMarker": {
+                    "code_lines": 132,
+                    "comment_lines": 0,
+                    "files": 3
+                },
+                "Rust": {
+                    "code_lines": 3649,
+                    "comment_lines": 115,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 3781,
+            "total_comment_lines": 115
+        }
+    }
+}
