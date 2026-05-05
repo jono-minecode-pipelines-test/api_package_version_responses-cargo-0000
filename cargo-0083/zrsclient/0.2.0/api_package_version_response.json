@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1376822,
+        "crate": "zrsclient",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zrsclient/0.2.0/download",
+        "readme_path": "/api/v1/crates/zrsclient/0.2.0/readme",
+        "updated_at": "2024-12-16T18:53:56.927027Z",
+        "created_at": "2024-12-16T18:53:56.927027Z",
+        "downloads": 936,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zrsclient/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zrsclient/0.2.0/downloads",
+            "authors": "/api/v1/crates/zrsclient/0.2.0/authors"
+        },
+        "crate_size": 25347,
+        "published_by": {
+            "id": 237136,
+            "login": "vaibhavranjith",
+            "name": "Vaibhav Ranjith",
+            "avatar": "https://avatars.githubusercontent.com/u/30415345?v=4",
+            "url": "https://github.com/vaibhavranjith"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 237136,
+                    "login": "vaibhavranjith",
+                    "name": "Vaibhav Ranjith",
+                    "avatar": "https://avatars.githubusercontent.com/u/30415345?v=4",
+                    "url": "https://github.com/vaibhavranjith"
+                },
+                "time": "2024-12-16T18:53:56.927027Z"
+            }
+        ],
+        "checksum": "135372dbde97605af91b6397e85dfddfd5347c0b76d18427866e84f9ab5a973c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A Rust client for the Zerodha API",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1836,
+                    "comment_lines": 26,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 1836,
+            "total_comment_lines": 26
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 954240,
+        "crate": "zrsclient",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zrsclient/0.1.2/download",
+        "readme_path": "/api/v1/crates/zrsclient/0.1.2/readme",
+        "updated_at": "2023-11-14T09:30:04.859612Z",
+        "created_at": "2023-11-14T09:30:04.859612Z",
+        "downloads": 1123,
+        "features": {
+            "testing": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zrsclient/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zrsclient/0.1.2/downloads",
+            "authors": "/api/v1/crates/zrsclient/0.1.2/authors"
+        },
+        "crate_size": 14633,
+        "published_by": {
+            "id": 237136,
+            "login": "vaibhavranjith",
+            "name": "Vaibhav Ranjith",
+            "avatar": "https://avatars.githubusercontent.com/u/30415345?v=4",
+            "url": "https://github.com/vaibhavranjith"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 237136,
+                    "login": "vaibhavranjith",
+                    "name": "Vaibhav Ranjith",
+                    "avatar": "https://avatars.githubusercontent.com/u/30415345?v=4",
+                    "url": "https://github.com/vaibhavranjith"
+                },
+                "time": "2023-11-14T09:30:04.859612Z"
+            }
+        ],
+        "checksum": "3d0ed6535d3b40e7be3ce3763ecbdf4fcd802717fdd95fdc215ab86a90acdd37",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A Rust client for the Zerodha API",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 852,
+                    "comment_lines": 19,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 852,
+            "total_comment_lines": 19
+        }
+    }
+}

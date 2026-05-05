@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2076515,
+        "crate": "zrx-executor",
+        "num": "0.0.2",
+        "dl_path": "/api/v1/crates/zrx-executor/0.0.2/download",
+        "readme_path": "/api/v1/crates/zrx-executor/0.0.2/readme",
+        "updated_at": "2026-03-01T19:07:56.532745Z",
+        "created_at": "2026-03-01T19:07:56.532745Z",
+        "downloads": 47,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zrx-executor/0.0.2/dependencies",
+            "version_downloads": "/api/v1/crates/zrx-executor/0.0.2/downloads",
+            "authors": "/api/v1/crates/zrx-executor/0.0.2/authors"
+        },
+        "crate_size": 15343,
+        "published_by": {
+            "id": 319220,
+            "login": "zensical-bot",
+            "name": "Zensical",
+            "avatar": "https://avatars.githubusercontent.com/u/201893989?v=4",
+            "url": "https://github.com/zensical-bot"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 319220,
+                    "login": "zensical-bot",
+                    "name": "Zensical",
+                    "avatar": "https://avatars.githubusercontent.com/u/201893989?v=4",
+                    "url": "https://github.com/zensical-bot"
+                },
+                "time": "2026-03-01T19:07:56.532745Z"
+            }
+        ],
+        "checksum": "6a33a0bc564969db5790fadcac58a6bd9d829d404069b66f458cc57e500d63e4",
+        "rust_version": "1.86",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Executor for parallelization of tasks",
+        "homepage": "https://github.com/zensical/zrx",
+        "documentation": null,
+        "repository": "https://github.com/zensical/zrx",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 591,
+                    "comment_lines": 368,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 591,
+            "total_comment_lines": 368
+        }
+    }
+}

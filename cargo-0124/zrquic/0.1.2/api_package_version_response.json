@@ -1,0 +1,78 @@
+{
+    "version": {
+        "id": 1728860,
+        "crate": "zrquic",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zrquic/0.1.2/download",
+        "readme_path": "/api/v1/crates/zrquic/0.1.2/readme",
+        "updated_at": "2025-09-14T03:15:26.607965Z",
+        "created_at": "2025-09-14T03:15:26.607965Z",
+        "downloads": 379,
+        "features": {
+            "client": [
+                "rand"
+            ],
+            "default": [
+                "server",
+                "client"
+            ],
+            "server": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zrquic/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zrquic/0.1.2/downloads",
+            "authors": "/api/v1/crates/zrquic/0.1.2/authors"
+        },
+        "crate_size": 27948,
+        "published_by": {
+            "id": 192889,
+            "login": "yayanyang",
+            "name": "yayanyang",
+            "avatar": "https://avatars.githubusercontent.com/u/3124182?v=4",
+            "url": "https://github.com/yayanyang"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 192889,
+                    "login": "yayanyang",
+                    "name": "yayanyang",
+                    "avatar": "https://avatars.githubusercontent.com/u/3124182?v=4",
+                    "url": "https://github.com/yayanyang"
+                },
+                "time": "2025-09-14T03:15:26.607965Z"
+            }
+        ],
+        "checksum": "4062e0bbbff619533150838750d4e7c82d99d1c1f3c8cd736ca647d5d71ed260",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "zrquic: A poll system with `quiche` for massive quiche connections.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zrquic",
+        "repository": "https://github.com/ZeroRtt/ZeroRtt/zrquic",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1608,
+                    "comment_lines": 50,
+                    "files": 10
+                },
+                "Shell": {
+                    "code_lines": 11,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 1619,
+            "total_comment_lines": 50
+        }
+    }
+}
