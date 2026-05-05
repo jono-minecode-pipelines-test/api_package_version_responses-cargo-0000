@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 7929,
+        "crate": "zmq-sys",
+        "num": "0.6.5",
+        "dl_path": "/api/v1/crates/zmq-sys/0.6.5/download",
+        "readme_path": "/api/v1/crates/zmq-sys/0.6.5/readme",
+        "updated_at": "2017-11-30T02:25:47.144611Z",
+        "created_at": "2015-04-03T11:52:36.923924Z",
+        "downloads": 1708,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT/Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zmq-sys/0.6.5/dependencies",
+            "version_downloads": "/api/v1/crates/zmq-sys/0.6.5/downloads",
+            "authors": "/api/v1/crates/zmq-sys/0.6.5/authors"
+        },
+        "crate_size": 1667,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "ddb77421964e6fdc167aa8dd46b1feeabc1f9f172a68853945cd6f87696fb2b2",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Low-level bindings to the zeromq library",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/erickt/rust-zmq",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 180,
+                    "comment_lines": 1,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 180,
+            "total_comment_lines": 1
+        }
+    }
+}

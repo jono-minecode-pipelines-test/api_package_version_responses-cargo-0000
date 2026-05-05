@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 507199,
+        "crate": "zmq-sys2",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zmq-sys2/0.1.0/download",
+        "readme_path": "/api/v1/crates/zmq-sys2/0.1.0/readme",
+        "updated_at": "2022-02-26T23:36:24.090737Z",
+        "created_at": "2022-02-26T23:36:24.090737Z",
+        "downloads": 1162,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": "zmq",
+        "license": "MIT/Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zmq-sys2/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zmq-sys2/0.1.0/downloads",
+            "authors": "/api/v1/crates/zmq-sys2/0.1.0/authors"
+        },
+        "crate_size": 7472,
+        "published_by": {
+            "id": 35281,
+            "login": "Jasper-Bekkers",
+            "name": "Jasper Bekkers",
+            "avatar": "https://avatars.githubusercontent.com/u/49594?v=4",
+            "url": "https://github.com/Jasper-Bekkers"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 35281,
+                    "login": "Jasper-Bekkers",
+                    "name": "Jasper Bekkers",
+                    "avatar": "https://avatars.githubusercontent.com/u/49594?v=4",
+                    "url": "https://github.com/Jasper-Bekkers"
+                },
+                "time": "2022-02-26T23:36:24.090737Z"
+            }
+        ],
+        "checksum": "a6d6f506530221fdb240180b3f57083607b1897495b3e223bacd148c0f97866b",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Low-level bindings to the zeromq library",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/erickt/rust-zmq",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 963,
+                    "comment_lines": 24,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 963,
+            "total_comment_lines": 24
+        }
+    }
+}

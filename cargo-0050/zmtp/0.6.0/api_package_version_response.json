@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 28833,
+        "crate": "zmtp",
+        "num": "0.6.0",
+        "dl_path": "/api/v1/crates/zmtp/0.6.0/download",
+        "readme_path": "/api/v1/crates/zmtp/0.6.0/readme",
+        "updated_at": "2017-11-30T04:03:17.148881Z",
+        "created_at": "2016-06-19T03:50:27.278839Z",
+        "downloads": 3965,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": null,
+        "links": {
+            "dependencies": "/api/v1/crates/zmtp/0.6.0/dependencies",
+            "version_downloads": "/api/v1/crates/zmtp/0.6.0/downloads",
+            "authors": "/api/v1/crates/zmtp/0.6.0/authors"
+        },
+        "crate_size": 12768,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "e1876e90e7c86f06a939a25b68e0a68a9e104514745f7e4e5d8f2c8643833123",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": null,
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1464,
+                    "comment_lines": 46,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 1464,
+            "total_comment_lines": 46
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 22406,
+        "crate": "zmq-ffi",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zmq-ffi/0.1.2/download",
+        "readme_path": "/api/v1/crates/zmq-ffi/0.1.2/readme",
+        "updated_at": "2017-11-30T02:50:45.472690Z",
+        "created_at": "2016-02-15T13:03:59.634252Z",
+        "downloads": 3076,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zmq-ffi/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zmq-ffi/0.1.2/downloads",
+            "authors": "/api/v1/crates/zmq-ffi/0.1.2/authors"
+        },
+        "crate_size": 2175,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "743513ba967771b549121da27160a3bc57205197553ebff140f5677489221b58",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "zmq-rs internal library (low-level binding to zeromq)",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Ginurx/zmq-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 250,
+                    "comment_lines": 3,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 250,
+            "total_comment_lines": 3
+        }
+    }
+}

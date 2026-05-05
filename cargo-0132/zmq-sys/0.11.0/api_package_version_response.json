@@ -1,0 +1,56 @@
+{
+    "version": {
+        "id": 177543,
+        "crate": "zmq-sys",
+        "num": "0.11.0",
+        "dl_path": "/api/v1/crates/zmq-sys/0.11.0/download",
+        "readme_path": "/api/v1/crates/zmq-sys/0.11.0/readme",
+        "updated_at": "2019-09-21T11:59:18.488561Z",
+        "created_at": "2019-09-21T11:59:18.488561Z",
+        "downloads": 1688527,
+        "features": {
+            "vendored": [
+                "zeromq-src"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": "zmq",
+        "license": "MIT/Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zmq-sys/0.11.0/dependencies",
+            "version_downloads": "/api/v1/crates/zmq-sys/0.11.0/downloads",
+            "authors": "/api/v1/crates/zmq-sys/0.11.0/authors"
+        },
+        "crate_size": 12220,
+        "published_by": {
+            "id": 5304,
+            "login": "rotty",
+            "name": "Andreas Rottmann",
+            "avatar": "https://avatars2.githubusercontent.com/u/3920?v=4",
+            "url": "https://github.com/rotty"
+        },
+        "audit_actions": [],
+        "checksum": "d33a2c51dde24d5b451a2ed4b488266df221a5eaee2ee519933dc46b9a9b3648",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Low-level bindings to the zeromq library",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/erickt/rust-zmq",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 989,
+                    "comment_lines": 20,
+                    "files": 8
+                }
+            },
+            "total_code_lines": 989,
+            "total_comment_lines": 20
+        }
+    }
+}
