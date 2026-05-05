@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2258124,
+        "crate": "zlayer-core",
+        "num": "0.10.80",
+        "dl_path": "/api/v1/crates/zlayer-core/0.10.80/download",
+        "readme_path": "/api/v1/crates/zlayer-core/0.10.80/readme",
+        "updated_at": "2026-04-14T23:17:07.716175Z",
+        "created_at": "2026-04-14T23:17:07.716175Z",
+        "downloads": 23,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-core/0.10.80/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-core/0.10.80/downloads",
+            "authors": "/api/v1/crates/zlayer-core/0.10.80/authors"
+        },
+        "crate_size": 24464,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-04-14T23:17:07.716175Z"
+            }
+        ],
+        "checksum": "10b531b4dc5289391408b4731f53891839032f0580b9b076e54c74376fd3ffdb",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Shared types and configuration for ZLayer container orchestration",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zachhandley/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 732,
+                    "comment_lines": 21,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 732,
+            "total_comment_lines": 21
+        }
+    }
+}
