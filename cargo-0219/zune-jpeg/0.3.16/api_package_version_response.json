@@ -1,0 +1,73 @@
+{
+    "version": {
+        "id": 768256,
+        "crate": "zune-jpeg",
+        "num": "0.3.16",
+        "dl_path": "/api/v1/crates/zune-jpeg/0.3.16/download",
+        "readme_path": "/api/v1/crates/zune-jpeg/0.3.16/readme",
+        "updated_at": "2023-04-04T18:15:27.656177Z",
+        "created_at": "2023-04-04T18:15:27.656177Z",
+        "downloads": 1959,
+        "features": {
+            "default": [
+                "x86",
+                "std"
+            ],
+            "std": [
+                "zune-core/std"
+            ],
+            "x86": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0 OR Zlib",
+        "links": {
+            "dependencies": "/api/v1/crates/zune-jpeg/0.3.16/dependencies",
+            "version_downloads": "/api/v1/crates/zune-jpeg/0.3.16/downloads",
+            "authors": "/api/v1/crates/zune-jpeg/0.3.16/authors"
+        },
+        "crate_size": 55652,
+        "published_by": {
+            "id": 159371,
+            "login": "etemesi254",
+            "name": "Caleb Etemesi",
+            "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+            "url": "https://github.com/etemesi254"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 159371,
+                    "login": "etemesi254",
+                    "name": "Caleb Etemesi",
+                    "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+                    "url": "https://github.com/etemesi254"
+                },
+                "time": "2023-04-04T18:15:27.656177Z"
+            }
+        ],
+        "checksum": "ffc6a3a2c691e20600b86bd8a3381534623340de5b6e72793379a103006c5861",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A fast, correct and safe jpeg decoder",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/etemesi254/zune-image/tree/dev/zune-jpeg",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4340,
+                    "comment_lines": 678,
+                    "files": 21
+                }
+            },
+            "total_code_lines": 4340,
+            "total_comment_lines": 678
+        }
+    }
+}

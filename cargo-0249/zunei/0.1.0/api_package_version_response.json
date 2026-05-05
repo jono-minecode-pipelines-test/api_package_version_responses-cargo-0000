@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2005950,
+        "crate": "zunei",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zunei/0.1.0/download",
+        "readme_path": "/api/v1/crates/zunei/0.1.0/readme",
+        "updated_at": "2026-02-07T01:26:40.373199Z",
+        "created_at": "2026-02-07T01:26:40.373199Z",
+        "downloads": 20,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zunei/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zunei/0.1.0/downloads",
+            "authors": "/api/v1/crates/zunei/0.1.0/authors"
+        },
+        "crate_size": 22880,
+        "published_by": {
+            "id": 378825,
+            "login": "morphym",
+            "name": "Amon",
+            "avatar": "https://avatars.githubusercontent.com/u/233967695?v=4",
+            "url": "https://github.com/morphym"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 378825,
+                    "login": "morphym",
+                    "name": "Amon",
+                    "avatar": "https://avatars.githubusercontent.com/u/233967695?v=4",
+                    "url": "https://github.com/morphym"
+                },
+                "time": "2026-02-07T01:26:40.373199Z"
+            }
+        ],
+        "checksum": "e6a9d8a7861e5e4b0baf444da2b78eeafe3bec78f525e7f65c66b9c3366a831c",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zunei"
+        ],
+        "edition": "2024",
+        "description": "A mathematical high performant- screen capture. written in rust",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/morphym/zunei",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 147,
+                    "comment_lines": 20,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 147,
+            "total_comment_lines": 20
+        }
+    }
+}

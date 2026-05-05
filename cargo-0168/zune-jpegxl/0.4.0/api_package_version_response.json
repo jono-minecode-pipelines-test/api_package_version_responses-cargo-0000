@@ -1,0 +1,74 @@
+{
+    "version": {
+        "id": 957074,
+        "crate": "zune-jpegxl",
+        "num": "0.4.0",
+        "dl_path": "/api/v1/crates/zune-jpegxl/0.4.0/download",
+        "readme_path": "/api/v1/crates/zune-jpegxl/0.4.0/readme",
+        "updated_at": "2023-11-16T16:12:02.585757Z",
+        "created_at": "2023-11-16T16:12:02.585757Z",
+        "downloads": 47393,
+        "features": {
+            "default": [
+                "threads",
+                "std"
+            ],
+            "log": [
+                "zune-core/log"
+            ],
+            "std": [],
+            "threads": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0 OR Zlib",
+        "links": {
+            "dependencies": "/api/v1/crates/zune-jpegxl/0.4.0/dependencies",
+            "version_downloads": "/api/v1/crates/zune-jpegxl/0.4.0/downloads",
+            "authors": "/api/v1/crates/zune-jpegxl/0.4.0/authors"
+        },
+        "crate_size": 19822,
+        "published_by": {
+            "id": 159371,
+            "login": "etemesi254",
+            "name": "Caleb Etemesi",
+            "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+            "url": "https://github.com/etemesi254"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 159371,
+                    "login": "etemesi254",
+                    "name": "Caleb Etemesi",
+                    "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+                    "url": "https://github.com/etemesi254"
+                },
+                "time": "2023-11-16T16:12:02.585757Z"
+            }
+        ],
+        "checksum": "71ffee484384b15f99ed4768bfdb3fa186d63e1f8c3aafba1d6d141a7b9e3674",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A simple, fast and fully safe modular jxl encoder",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/etemesi254/zune-image/tree/dev/crates/zune-jpegxl",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1713,
+                    "comment_lines": 166,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 1713,
+            "total_comment_lines": 166
+        }
+    }
+}

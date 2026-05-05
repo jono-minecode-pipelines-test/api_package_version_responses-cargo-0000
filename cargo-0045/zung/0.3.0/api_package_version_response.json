@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1287906,
+        "crate": "zung",
+        "num": "0.3.0",
+        "dl_path": "/api/v1/crates/zung/0.3.0/download",
+        "readme_path": "/api/v1/crates/zung/0.3.0/readme",
+        "updated_at": "2024-10-02T10:57:37.387784Z",
+        "created_at": "2024-10-02T10:57:37.387784Z",
+        "downloads": 896,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zung/0.3.0/dependencies",
+            "version_downloads": "/api/v1/crates/zung/0.3.0/downloads",
+            "authors": "/api/v1/crates/zung/0.3.0/authors"
+        },
+        "crate_size": 8178,
+        "published_by": {
+            "id": 292267,
+            "login": "ishaan26",
+            "name": "Ishaan Goel",
+            "avatar": "https://avatars.githubusercontent.com/u/46309254?v=4",
+            "url": "https://github.com/ishaan26"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 292267,
+                    "login": "ishaan26",
+                    "name": "Ishaan Goel",
+                    "avatar": "https://avatars.githubusercontent.com/u/46309254?v=4",
+                    "url": "https://github.com/ishaan26"
+                },
+                "time": "2024-10-02T10:57:37.387784Z"
+            }
+        ],
+        "checksum": "a224840a4ef5e10b693d40113ecdf0413b60a356f666b0e77f5087374ef48a84",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zung"
+        ],
+        "edition": "2021",
+        "description": "A monolith of rust projects",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/ishaan26/zung",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 59,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 59,
+            "total_comment_lines": 0
+        }
+    }
+}

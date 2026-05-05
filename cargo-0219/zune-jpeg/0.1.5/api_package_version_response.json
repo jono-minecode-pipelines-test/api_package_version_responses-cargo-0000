@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 597711,
+        "crate": "zune-jpeg",
+        "num": "0.1.5",
+        "dl_path": "/api/v1/crates/zune-jpeg/0.1.5/download",
+        "readme_path": "/api/v1/crates/zune-jpeg/0.1.5/readme",
+        "updated_at": "2022-08-07T15:44:07.087313Z",
+        "created_at": "2022-08-07T15:44:07.087313Z",
+        "downloads": 1777,
+        "features": {
+            "default": [
+                "x86"
+            ],
+            "x86": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zune-jpeg/0.1.5/dependencies",
+            "version_downloads": "/api/v1/crates/zune-jpeg/0.1.5/downloads",
+            "authors": "/api/v1/crates/zune-jpeg/0.1.5/authors"
+        },
+        "crate_size": 227587,
+        "published_by": {
+            "id": 159371,
+            "login": "etemesi254",
+            "name": "Caleb Etemesi",
+            "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+            "url": "https://github.com/etemesi254"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 159371,
+                    "login": "etemesi254",
+                    "name": "Caleb Etemesi",
+                    "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+                    "url": "https://github.com/etemesi254"
+                },
+                "time": "2022-08-07T15:44:07.087313Z"
+            }
+        ],
+        "checksum": "9e59cbc55501cb6a7f60d79e255f013dff3cdffd924841743ce17166d4c68ffc",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "The fastest jpeg decoder in the west",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/etemesi254/zune-jpeg",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4242,
+                    "comment_lines": 905,
+                    "files": 24
+                }
+            },
+            "total_code_lines": 4242,
+            "total_comment_lines": 905
+        }
+    }
+}
