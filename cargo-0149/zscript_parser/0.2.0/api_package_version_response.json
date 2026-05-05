@@ -1,0 +1,76 @@
+{
+    "version": {
+        "id": 534406,
+        "crate": "zscript_parser",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zscript_parser/0.2.0/download",
+        "readme_path": "/api/v1/crates/zscript_parser/0.2.0/readme",
+        "updated_at": "2022-04-18T16:29:24.489Z",
+        "created_at": "2022-04-18T16:29:24.489Z",
+        "downloads": 1774,
+        "features": {
+            "default": [],
+            "gzd_folder_filesystem": [
+                "walkdir"
+            ],
+            "multithreaded": [
+                "rayon"
+            ],
+            "serialize": [
+                "serde",
+                "vec1/serde"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zscript_parser/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zscript_parser/0.2.0/downloads",
+            "authors": "/api/v1/crates/zscript_parser/0.2.0/authors"
+        },
+        "crate_size": 38694,
+        "published_by": {
+            "id": 156488,
+            "login": "Gutawer",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/9727338?v=4",
+            "url": "https://github.com/Gutawer"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 156488,
+                    "login": "Gutawer",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/9727338?v=4",
+                    "url": "https://github.com/Gutawer"
+                },
+                "time": "2022-04-18T16:29:24.489Z"
+            }
+        ],
+        "checksum": "84aee1612bf2438a93a6eab3d98bae142daaed02467d75772a1ff73ca1b58ea9",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A parser for GZDoom ZScript",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7373,
+                    "comment_lines": 52,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 7373,
+            "total_comment_lines": 52
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "version": {
+        "id": 288857,
+        "crate": "zs-filecrawler",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zs-filecrawler/0.1.1/download",
+        "readme_path": "/api/v1/crates/zs-filecrawler/0.1.1/readme",
+        "updated_at": "2020-09-30T01:15:07.373232Z",
+        "created_at": "2020-09-30T01:15:07.373232Z",
+        "downloads": 1656,
+        "features": {
+            "io_uring": [
+                "sled/io_uring"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zs-filecrawler/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zs-filecrawler/0.1.1/downloads",
+            "authors": "/api/v1/crates/zs-filecrawler/0.1.1/authors"
+        },
+        "crate_size": 15623,
+        "published_by": {
+            "id": 2340,
+            "login": "fogti",
+            "name": "Ellen Emilia Anna Zscheile",
+            "avatar": "https://avatars.githubusercontent.com/u/1618343?v=4",
+            "url": "https://github.com/fogti"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 2340,
+                    "login": "fogti",
+                    "name": "Ellen Emilia Anna Zscheile",
+                    "avatar": "https://avatars.githubusercontent.com/u/1618343?v=4",
+                    "url": "https://github.com/fogti"
+                },
+                "time": "2020-09-30T01:15:07.373232Z"
+            }
+        ],
+        "checksum": "e82fc5046a41e0793db0012c4e252d745a3ddc4b5c5099cda2e9f5a76cfae98a",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zs-filecrawler"
+        ],
+        "edition": "2018",
+        "description": "crawles files, resumable",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zserik/zs-filecrawler",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1042,
+                    "comment_lines": 5,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 1042,
+            "total_comment_lines": 5
+        }
+    }
+}

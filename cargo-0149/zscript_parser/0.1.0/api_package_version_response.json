@@ -1,0 +1,87 @@
+{
+    "version": {
+        "id": 534405,
+        "crate": "zscript_parser",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zscript_parser/0.1.0/download",
+        "readme_path": "/api/v1/crates/zscript_parser/0.1.0/readme",
+        "updated_at": "2022-04-18T16:30:02.674267Z",
+        "created_at": "2022-04-18T16:09:28.023783Z",
+        "downloads": 1038,
+        "features": {
+            "default": [],
+            "gzd_folder_filesystem": [
+                "walkdir"
+            ],
+            "multithreaded": [
+                "rayon"
+            ],
+            "serialize": [
+                "serde",
+                "vec1/serde"
+            ]
+        },
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zscript_parser/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zscript_parser/0.1.0/downloads",
+            "authors": "/api/v1/crates/zscript_parser/0.1.0/authors"
+        },
+        "crate_size": 39124,
+        "published_by": {
+            "id": 156488,
+            "login": "Gutawer",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/9727338?v=4",
+            "url": "https://github.com/Gutawer"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 156488,
+                    "login": "Gutawer",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/9727338?v=4",
+                    "url": "https://github.com/Gutawer"
+                },
+                "time": "2022-04-18T16:09:28.023783Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 156488,
+                    "login": "Gutawer",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/9727338?v=4",
+                    "url": "https://github.com/Gutawer"
+                },
+                "time": "2022-04-18T16:30:02.678233Z"
+            }
+        ],
+        "checksum": "bfdd9d54ff4fa10cf5682425b1d52e08b0e152ceb48745f8d69f4f46fcf21cf6",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A parser for GZDoom ZScript",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7455,
+                    "comment_lines": 52,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 7455,
+            "total_comment_lines": 52
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 258187,
+        "crate": "zs-filecrawler",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zs-filecrawler/0.1.0/download",
+        "readme_path": "/api/v1/crates/zs-filecrawler/0.1.0/readme",
+        "updated_at": "2020-07-01T23:35:46.202391Z",
+        "created_at": "2020-07-01T23:35:46.202391Z",
+        "downloads": 1351,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zs-filecrawler/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zs-filecrawler/0.1.0/downloads",
+            "authors": "/api/v1/crates/zs-filecrawler/0.1.0/authors"
+        },
+        "crate_size": 12511,
+        "published_by": {
+            "id": 2340,
+            "login": "fogti",
+            "name": "Ellen Emilia Anna Zscheile",
+            "avatar": "https://avatars.githubusercontent.com/u/1618343?v=4",
+            "url": "https://github.com/fogti"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 2340,
+                    "login": "fogti",
+                    "name": "Ellen Emilia Anna Zscheile",
+                    "avatar": "https://avatars.githubusercontent.com/u/1618343?v=4",
+                    "url": "https://github.com/fogti"
+                },
+                "time": "2020-07-01T23:35:46.202391Z"
+            }
+        ],
+        "checksum": "967f5c2b8f968c4d1b2d4d0b16ed3bc11b56dcb41560eaad724611a55928ab29",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zs-filecrawler"
+        ],
+        "edition": "2018",
+        "description": "crawles files, resumable",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zserik/zs-filecrawler",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 595,
+                    "comment_lines": 1,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 595,
+            "total_comment_lines": 1
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "version": {
+        "id": 167042,
+        "crate": "zs-filecrawler",
+        "num": "0.0.0",
+        "dl_path": "/api/v1/crates/zs-filecrawler/0.0.0/download",
+        "readme_path": "/api/v1/crates/zs-filecrawler/0.0.0/readme",
+        "updated_at": "2019-08-02T15:20:17.486359Z",
+        "created_at": "2019-08-02T15:20:17.486359Z",
+        "downloads": 1415,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zs-filecrawler/0.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zs-filecrawler/0.0.0/downloads",
+            "authors": "/api/v1/crates/zs-filecrawler/0.0.0/authors"
+        },
+        "crate_size": 11204,
+        "published_by": {
+            "id": 2340,
+            "login": "fogti",
+            "name": "Ellen Emilia Anna Zscheile",
+            "avatar": "https://avatars.githubusercontent.com/u/1618343?v=4",
+            "url": "https://github.com/fogti"
+        },
+        "audit_actions": [],
+        "checksum": "d8e42a4a014b91e5078e3940c291739997f0c859f36c7b7cf53fbc2a3ebf01ea",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zs-filecrawler"
+        ],
+        "edition": "2018",
+        "description": "crawles files, resumable",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zserik/zs-filecrawler",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 337,
+                    "comment_lines": 2,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 337,
+            "total_comment_lines": 2
+        }
+    }
+}
