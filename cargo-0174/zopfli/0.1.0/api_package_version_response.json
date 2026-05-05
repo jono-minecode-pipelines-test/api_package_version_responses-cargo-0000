@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 23700,
+        "crate": "zopfli",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zopfli/0.1.0/download",
+        "readme_path": "/api/v1/crates/zopfli/0.1.0/readme",
+        "updated_at": "2017-11-30T02:51:12.645331Z",
+        "created_at": "2016-03-09T17:30:12.561057Z",
+        "downloads": 2386,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": null,
+        "links": {
+            "dependencies": "/api/v1/crates/zopfli/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zopfli/0.1.0/downloads",
+            "authors": "/api/v1/crates/zopfli/0.1.0/authors"
+        },
+        "crate_size": 283,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "ce1a980303559b17060817643f773934deb0b39c7524b9a79e467776e73f7996",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": null,
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "version": {
+        "id": 83067,
+        "crate": "zopfli",
+        "num": "0.3.7",
+        "dl_path": "/api/v1/crates/zopfli/0.3.7/download",
+        "readme_path": "/api/v1/crates/zopfli/0.3.7/readme",
+        "updated_at": "2018-03-03T00:59:49.752261Z",
+        "created_at": "2018-03-03T00:59:49.752261Z",
+        "downloads": 23832,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zopfli/0.3.7/dependencies",
+            "version_downloads": "/api/v1/crates/zopfli/0.3.7/downloads",
+            "authors": "/api/v1/crates/zopfli/0.3.7/authors"
+        },
+        "crate_size": 37250,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "9fd2fb70c78a87410032abe2a9eb2bec4984a2d9bc26adb1f8f768e02673e84e",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zopfli"
+        ],
+        "edition": null,
+        "description": "A Rust implementation of the Zopfli compression algorithm.",
+        "homepage": "https://github.com/carols10cents/zopfli",
+        "documentation": null,
+        "repository": "https://github.com/carols10cents/zopfli",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2574,
+                    "comment_lines": 262,
+                    "files": 15
+                }
+            },
+            "total_code_lines": 2574,
+            "total_comment_lines": 262
+        }
+    }
+}

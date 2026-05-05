@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 709743,
+        "crate": "zopfli",
+        "num": "0.7.2",
+        "dl_path": "/api/v1/crates/zopfli/0.7.2/download",
+        "readme_path": "/api/v1/crates/zopfli/0.7.2/readme",
+        "updated_at": "2023-01-23T16:51:15.548011Z",
+        "created_at": "2023-01-23T16:51:15.548011Z",
+        "downloads": 29821,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zopfli/0.7.2/dependencies",
+            "version_downloads": "/api/v1/crates/zopfli/0.7.2/downloads",
+            "authors": "/api/v1/crates/zopfli/0.7.2/authors"
+        },
+        "crate_size": 44043,
+        "published_by": {
+            "id": 111932,
+            "login": "AlexTMjugador",
+            "name": "Alejandro Gonz\u00e1lez",
+            "avatar": "https://avatars.githubusercontent.com/u/7822554?v=4",
+            "url": "https://github.com/AlexTMjugador"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 111932,
+                    "login": "AlexTMjugador",
+                    "name": "Alejandro Gonz\u00e1lez",
+                    "avatar": "https://avatars.githubusercontent.com/u/7822554?v=4",
+                    "url": "https://github.com/AlexTMjugador"
+                },
+                "time": "2023-01-23T16:51:15.548011Z"
+            }
+        ],
+        "checksum": "a5b2bed49d3f0af28729a2338ee8c3a48eba2133a78ebc560779be161ebaaad8",
+        "rust_version": "1.56",
+        "has_lib": true,
+        "bin_names": [
+            "zopfli"
+        ],
+        "edition": "2021",
+        "description": "A Rust implementation of the Zopfli compression algorithm.",
+        "homepage": "https://github.com/zopfli-rs/zopfli",
+        "documentation": null,
+        "repository": "https://github.com/zopfli-rs/zopfli",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3121,
+                    "comment_lines": 285,
+                    "files": 15
+                }
+            },
+            "total_code_lines": 3121,
+            "total_comment_lines": 285
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1907264,
+        "crate": "zoon-format",
+        "num": "1.0.0",
+        "dl_path": "/api/v1/crates/zoon-format/1.0.0/download",
+        "readme_path": "/api/v1/crates/zoon-format/1.0.0/readme",
+        "updated_at": "2025-12-28T21:07:57.308251Z",
+        "created_at": "2025-12-28T21:07:57.308251Z",
+        "downloads": 19,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoon-format/1.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoon-format/1.0.0/downloads",
+            "authors": "/api/v1/crates/zoon-format/1.0.0/authors"
+        },
+        "crate_size": 10107,
+        "published_by": {
+            "id": 377727,
+            "login": "metaspartan",
+            "name": "Carsen Klock",
+            "avatar": "https://avatars.githubusercontent.com/u/10162347?v=4",
+            "url": "https://github.com/metaspartan"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 377727,
+                    "login": "metaspartan",
+                    "name": "Carsen Klock",
+                    "avatar": "https://avatars.githubusercontent.com/u/10162347?v=4",
+                    "url": "https://github.com/metaspartan"
+                },
+                "time": "2025-12-28T21:07:57.308251Z"
+            }
+        ],
+        "checksum": "ca3e73bbc12595ca9b76060ad88a18ab917aae438fa67d26ff1db72a688be1a1",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZOON - Zero Overhead Object Notation encoder/decoder",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zoon-format/zoon-rust",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 861,
+                    "comment_lines": 52,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 861,
+            "total_comment_lines": 52
+        }
+    }
+}

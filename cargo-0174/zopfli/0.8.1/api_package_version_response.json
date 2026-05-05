@@ -1,0 +1,88 @@
+{
+    "version": {
+        "id": 1148487,
+        "crate": "zopfli",
+        "num": "0.8.1",
+        "dl_path": "/api/v1/crates/zopfli/0.8.1/download",
+        "readme_path": "/api/v1/crates/zopfli/0.8.1/readme",
+        "updated_at": "2024-05-18T17:27:36.340781Z",
+        "created_at": "2024-05-18T17:27:36.340781Z",
+        "downloads": 24768235,
+        "features": {
+            "default": [
+                "std",
+                "gzip",
+                "zlib"
+            ],
+            "gzip": [
+                "dep:crc32fast"
+            ],
+            "nightly": [
+                "crc32fast?/nightly"
+            ],
+            "std": [
+                "dep:log",
+                "dep:lockfree-object-pool",
+                "dep:once_cell",
+                "crc32fast?/std",
+                "simd-adler32?/std"
+            ],
+            "zlib": [
+                "dep:simd-adler32"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zopfli/0.8.1/dependencies",
+            "version_downloads": "/api/v1/crates/zopfli/0.8.1/downloads",
+            "authors": "/api/v1/crates/zopfli/0.8.1/authors"
+        },
+        "crate_size": 50972,
+        "published_by": {
+            "id": 111932,
+            "login": "AlexTMjugador",
+            "name": "Alejandro Gonz\u00e1lez",
+            "avatar": "https://avatars.githubusercontent.com/u/7822554?v=4",
+            "url": "https://github.com/AlexTMjugador"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 111932,
+                    "login": "AlexTMjugador",
+                    "name": "Alejandro Gonz\u00e1lez",
+                    "avatar": "https://avatars.githubusercontent.com/u/7822554?v=4",
+                    "url": "https://github.com/AlexTMjugador"
+                },
+                "time": "2024-05-18T17:27:36.340781Z"
+            }
+        ],
+        "checksum": "e5019f391bac5cf252e93bbcc53d039ffd62c7bfb7c150414d61369afe57e946",
+        "rust_version": "1.73.0",
+        "has_lib": true,
+        "bin_names": [
+            "zopfli"
+        ],
+        "edition": "2021",
+        "description": "A Rust implementation of the Zopfli compression algorithm.",
+        "homepage": "https://github.com/zopfli-rs/zopfli",
+        "documentation": null,
+        "repository": "https://github.com/zopfli-rs/zopfli",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3374,
+                    "comment_lines": 297,
+                    "files": 17
+                }
+            },
+            "total_code_lines": 3374,
+            "total_comment_lines": 297
+        }
+    }
+}

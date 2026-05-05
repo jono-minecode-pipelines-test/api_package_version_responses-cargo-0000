@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 510484,
+        "crate": "zopfli",
+        "num": "0.6.0",
+        "dl_path": "/api/v1/crates/zopfli/0.6.0/download",
+        "readme_path": "/api/v1/crates/zopfli/0.6.0/readme",
+        "updated_at": "2022-03-05T03:12:14.338812Z",
+        "created_at": "2022-03-05T03:12:14.338812Z",
+        "downloads": 80065,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zopfli/0.6.0/dependencies",
+            "version_downloads": "/api/v1/crates/zopfli/0.6.0/downloads",
+            "authors": "/api/v1/crates/zopfli/0.6.0/authors"
+        },
+        "crate_size": 39535,
+        "published_by": {
+            "id": 396,
+            "login": "carols10cents",
+            "name": "Carol (Nichols || Goulding)",
+            "avatar": "https://avatars.githubusercontent.com/u/193874?v=4",
+            "url": "https://github.com/carols10cents"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 396,
+                    "login": "carols10cents",
+                    "name": "Carol (Nichols || Goulding)",
+                    "avatar": "https://avatars.githubusercontent.com/u/193874?v=4",
+                    "url": "https://github.com/carols10cents"
+                },
+                "time": "2022-03-05T03:12:14.338812Z"
+            }
+        ],
+        "checksum": "164c79dd3a87cbbb7f15a7a4aaadf81f26a4cc0353d9145bf773de703803c453",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zopfli"
+        ],
+        "edition": "2021",
+        "description": "A Rust implementation of the Zopfli compression algorithm.",
+        "homepage": "https://github.com/zopfli-rs/zopfli",
+        "documentation": null,
+        "repository": "https://github.com/zopfli-rs/zopfli",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3128,
+                    "comment_lines": 277,
+                    "files": 15
+                }
+            },
+            "total_code_lines": 3128,
+            "total_comment_lines": 277
+        }
+    }
+}

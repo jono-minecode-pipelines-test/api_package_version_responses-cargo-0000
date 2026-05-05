@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 664982,
+        "crate": "zoon",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zoon/0.1.1/download",
+        "readme_path": "/api/v1/crates/zoon/0.1.1/readme",
+        "updated_at": "2022-11-16T19:20:25.855010Z",
+        "created_at": "2022-11-16T19:20:25.855010Z",
+        "downloads": 1125,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoon/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zoon/0.1.1/downloads",
+            "authors": "/api/v1/crates/zoon/0.1.1/authors"
+        },
+        "crate_size": 1392,
+        "published_by": {
+            "id": 178043,
+            "login": "zinso",
+            "name": "zinso",
+            "avatar": "https://avatars.githubusercontent.com/u/114153224?v=4",
+            "url": "https://github.com/zinso"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 178043,
+                    "login": "zinso",
+                    "name": "zinso",
+                    "avatar": "https://avatars.githubusercontent.com/u/114153224?v=4",
+                    "url": "https://github.com/zinso"
+                },
+                "time": "2022-11-16T19:20:25.855010Z"
+            }
+        ],
+        "checksum": "30a6921817a89b379e6e2ebec99e2305b24370132b15fbdc8a640d368c28aa68",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "State management tool",
+        "homepage": null,
+        "documentation": "https://docs.rs/zoon",
+        "repository": "https://gitlab.com/andrew_ryan/zoon",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 38,
+                    "comment_lines": 0,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 38,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1923329,
+        "crate": "zopp-events",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zopp-events/0.1.0/download",
+        "readme_path": "/api/v1/crates/zopp-events/0.1.0/readme",
+        "updated_at": "2026-01-05T18:22:15.510813Z",
+        "created_at": "2026-01-05T18:22:15.510813Z",
+        "downloads": 20,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "AGPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zopp-events/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zopp-events/0.1.0/downloads",
+            "authors": "/api/v1/crates/zopp-events/0.1.0/authors"
+        },
+        "crate_size": 5681,
+        "published_by": {
+            "id": 126700,
+            "login": "vieiralucas",
+            "name": "Lucas Vieira",
+            "avatar": "https://avatars.githubusercontent.com/u/7764293?v=4",
+            "url": "https://github.com/vieiralucas"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 126700,
+                    "login": "vieiralucas",
+                    "name": "Lucas Vieira",
+                    "avatar": "https://avatars.githubusercontent.com/u/7764293?v=4",
+                    "url": "https://github.com/vieiralucas"
+                },
+                "time": "2026-01-05T18:22:15.510813Z"
+            }
+        ],
+        "checksum": "3f8885317a1a886b232d11d77fdc56600baa80021f4abb1d1809b7945c1713c1",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Event bus abstraction for zopp",
+        "homepage": "https://github.com/faiscadev/zopp",
+        "documentation": null,
+        "repository": "https://github.com/faiscadev/zopp",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 33,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 33,
+            "total_comment_lines": 0
+        }
+    }
+}
