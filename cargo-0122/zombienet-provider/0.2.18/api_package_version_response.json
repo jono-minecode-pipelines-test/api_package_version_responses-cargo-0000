@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1371429,
+        "crate": "zombienet-provider",
+        "num": "0.2.18",
+        "dl_path": "/api/v1/crates/zombienet-provider/0.2.18/download",
+        "readme_path": "/api/v1/crates/zombienet-provider/0.2.18/readme",
+        "updated_at": "2024-12-11T10:16:55.093850Z",
+        "created_at": "2024-12-11T10:16:55.093850Z",
+        "downloads": 1447,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR GPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zombienet-provider/0.2.18/dependencies",
+            "version_downloads": "/api/v1/crates/zombienet-provider/0.2.18/downloads",
+            "authors": "/api/v1/crates/zombienet-provider/0.2.18/authors"
+        },
+        "crate_size": 34003,
+        "published_by": {
+            "id": 96881,
+            "login": "pepoviola",
+            "name": "Javier Viola",
+            "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+            "url": "https://github.com/pepoviola"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 96881,
+                    "login": "pepoviola",
+                    "name": "Javier Viola",
+                    "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+                    "url": "https://github.com/pepoviola"
+                },
+                "time": "2024-12-11T10:16:55.093850Z"
+            }
+        ],
+        "checksum": "c99cc7c143f1145bda2b2f5a945b8040a898a85fc029dba51f220395a7188d9d",
+        "rust_version": "1.70.0",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Zombienet provider, implement the logic to run the nodes in the native provider",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/paritytech/zombienet-sdk",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4585,
+                    "comment_lines": 110,
+                    "files": 20
+                },
+                "Shell": {
+                    "code_lines": 112,
+                    "comment_lines": 24,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 4697,
+            "total_comment_lines": 134
+        }
+    }
+}

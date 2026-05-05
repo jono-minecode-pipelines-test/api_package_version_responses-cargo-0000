@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1556545,
+        "crate": "zombienet-provider",
+        "num": "0.3.0",
+        "dl_path": "/api/v1/crates/zombienet-provider/0.3.0/download",
+        "readme_path": "/api/v1/crates/zombienet-provider/0.3.0/readme",
+        "updated_at": "2025-05-09T08:06:44.820391Z",
+        "created_at": "2025-05-09T08:06:44.820391Z",
+        "downloads": 121268,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR GPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zombienet-provider/0.3.0/dependencies",
+            "version_downloads": "/api/v1/crates/zombienet-provider/0.3.0/downloads",
+            "authors": "/api/v1/crates/zombienet-provider/0.3.0/authors"
+        },
+        "crate_size": 52393,
+        "published_by": {
+            "id": 96881,
+            "login": "pepoviola",
+            "name": "Javier Viola",
+            "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+            "url": "https://github.com/pepoviola"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 96881,
+                    "login": "pepoviola",
+                    "name": "Javier Viola",
+                    "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+                    "url": "https://github.com/pepoviola"
+                },
+                "time": "2025-05-09T08:06:44.820391Z"
+            }
+        ],
+        "checksum": "3feea6d1ac0e3e4f2724e386c3034ee10af2afc7168dde9f091337ad2218ace5",
+        "rust_version": "1.70.0",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Zombienet provider, implement the logic to run the nodes in the native provider",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/paritytech/zombienet-sdk",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4604,
+                    "comment_lines": 113,
+                    "files": 20
+                },
+                "Shell": {
+                    "code_lines": 127,
+                    "comment_lines": 26,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 4731,
+            "total_comment_lines": 139
+        }
+    }
+}
