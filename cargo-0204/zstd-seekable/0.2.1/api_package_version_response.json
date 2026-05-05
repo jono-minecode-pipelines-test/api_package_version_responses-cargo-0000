@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 425887,
+        "crate": "zstd-seekable",
+        "num": "0.2.1",
+        "dl_path": "/api/v1/crates/zstd-seekable/0.2.1/download",
+        "readme_path": "/api/v1/crates/zstd-seekable/0.2.1/readme",
+        "updated_at": "2021-09-22T09:06:16.273048Z",
+        "created_at": "2021-09-15T11:00:40.667290Z",
+        "downloads": 1060,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-3-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd-seekable/0.2.1/dependencies",
+            "version_downloads": "/api/v1/crates/zstd-seekable/0.2.1/downloads",
+            "authors": "/api/v1/crates/zstd-seekable/0.2.1/authors"
+        },
+        "crate_size": 9286,
+        "published_by": {
+            "id": 3471,
+            "login": "P-E-Meunier",
+            "name": "Pierre-Etienne Meunier",
+            "avatar": "https://avatars.githubusercontent.com/u/17021304?v=4",
+            "url": "https://github.com/P-E-Meunier"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 3471,
+                    "login": "P-E-Meunier",
+                    "name": "Pierre-Etienne Meunier",
+                    "avatar": "https://avatars.githubusercontent.com/u/17021304?v=4",
+                    "url": "https://github.com/P-E-Meunier"
+                },
+                "time": "2021-09-15T11:00:40.667290Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 3471,
+                    "login": "P-E-Meunier",
+                    "name": "Pierre-Etienne Meunier",
+                    "avatar": "https://avatars.githubusercontent.com/u/17021304?v=4",
+                    "url": "https://github.com/P-E-Meunier"
+                },
+                "time": "2021-09-22T09:06:13.051525Z"
+            }
+        ],
+        "checksum": "ac61cc05e3ecc29b17c85b9654271a29babcf1219f3a10ef35494c729e114f99",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Bindings to the seekable version of ZStandard.",
+        "homepage": "https://nest.pijul.com/pijul/zstd-seekable",
+        "documentation": "https://docs.rs/zstd-seekable",
+        "repository": "https://nest.pijul.com/pijul/zstd-seekable",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1024,
+                    "comment_lines": 12,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 1024,
+            "total_comment_lines": 12
+        }
+    }
+}

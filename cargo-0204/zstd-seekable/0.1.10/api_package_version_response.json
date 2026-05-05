@@ -1,0 +1,74 @@
+{
+    "version": {
+        "id": 734788,
+        "crate": "zstd-seekable",
+        "num": "0.1.10",
+        "dl_path": "/api/v1/crates/zstd-seekable/0.1.10/download",
+        "readme_path": "/api/v1/crates/zstd-seekable/0.1.10/readme",
+        "updated_at": "2023-02-24T14:40:50.099370Z",
+        "created_at": "2023-02-24T14:40:50.099370Z",
+        "downloads": 1319,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-3-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd-seekable/0.1.10/dependencies",
+            "version_downloads": "/api/v1/crates/zstd-seekable/0.1.10/downloads",
+            "authors": "/api/v1/crates/zstd-seekable/0.1.10/authors"
+        },
+        "crate_size": 1351970,
+        "published_by": {
+            "id": 3471,
+            "login": "P-E-Meunier",
+            "name": "Pierre-Etienne Meunier",
+            "avatar": "https://avatars.githubusercontent.com/u/17021304?v=4",
+            "url": "https://github.com/P-E-Meunier"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 3471,
+                    "login": "P-E-Meunier",
+                    "name": "Pierre-Etienne Meunier",
+                    "avatar": "https://avatars.githubusercontent.com/u/17021304?v=4",
+                    "url": "https://github.com/P-E-Meunier"
+                },
+                "time": "2023-02-24T14:40:50.099370Z"
+            }
+        ],
+        "checksum": "c6ceeae11ac0849819827183796436178ec9a41be229d1e9aac49972932229fc",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Bindings to the seekable version of ZStandard.",
+        "homepage": "https://nest.pijul.com/pijul/zstd-seekable",
+        "documentation": "https://docs.rs/zstd-seekable",
+        "repository": "https://nest.pijul.com/pijul/zstd-seekable",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C": {
+                    "code_lines": 33183,
+                    "comment_lines": 8650,
+                    "files": 36
+                },
+                "C Header": {
+                    "code_lines": 4876,
+                    "comment_lines": 4492,
+                    "files": 41
+                },
+                "Rust": {
+                    "code_lines": 910,
+                    "comment_lines": 33,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 38969,
+            "total_comment_lines": 13175
+        }
+    }
+}
