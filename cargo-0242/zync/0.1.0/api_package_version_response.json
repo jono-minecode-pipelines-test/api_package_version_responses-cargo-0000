@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1231306,
+        "crate": "zync",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zync/0.1.0/download",
+        "readme_path": "/api/v1/crates/zync/0.1.0/readme",
+        "updated_at": "2024-08-11T14:29:09.357289Z",
+        "created_at": "2024-08-11T14:29:09.357289Z",
+        "downloads": 1160,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zync/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zync/0.1.0/downloads",
+            "authors": "/api/v1/crates/zync/0.1.0/authors"
+        },
+        "crate_size": 2063,
+        "published_by": {
+            "id": 147735,
+            "login": "robclu",
+            "name": "Rob Clucas",
+            "avatar": "https://avatars.githubusercontent.com/u/6486001?v=4",
+            "url": "https://github.com/robclu"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 147735,
+                    "login": "robclu",
+                    "name": "Rob Clucas",
+                    "avatar": "https://avatars.githubusercontent.com/u/6486001?v=4",
+                    "url": "https://github.com/robclu"
+                },
+                "time": "2024-08-11T14:29:09.357289Z"
+            }
+        ],
+        "checksum": "28448a6cedf50a2814f047147471e3f842dc573bf135d84875d3ee0376948c9e",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zync"
+        ],
+        "edition": "2021",
+        "description": "A Rust library for fault-tolerance distributed machine learning.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/robclu/zync",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2094932,
+        "crate": "zyn-core",
+        "num": "0.3.0",
+        "dl_path": "/api/v1/crates/zyn-core/0.3.0/download",
+        "readme_path": "/api/v1/crates/zyn-core/0.3.0/readme",
+        "updated_at": "2026-03-06T20:40:42.940390Z",
+        "created_at": "2026-03-06T20:40:42.940390Z",
+        "downloads": 17,
+        "features": {
+            "ext": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zyn-core/0.3.0/dependencies",
+            "version_downloads": "/api/v1/crates/zyn-core/0.3.0/downloads",
+            "authors": "/api/v1/crates/zyn-core/0.3.0/authors"
+        },
+        "crate_size": 22270,
+        "published_by": {
+            "id": 346169,
+            "login": "aacebo",
+            "name": "Alex Acebo",
+            "avatar": "https://avatars.githubusercontent.com/u/44811138?v=4",
+            "url": "https://github.com/aacebo"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 346169,
+                    "login": "aacebo",
+                    "name": "Alex Acebo",
+                    "avatar": "https://avatars.githubusercontent.com/u/44811138?v=4",
+                    "url": "https://github.com/aacebo"
+                },
+                "time": "2026-03-06T20:40:42.940390Z"
+            }
+        ],
+        "checksum": "98f79b38cd3054c57f0cbb9b8426a5bac6240396684c242dfe8edfa88c7b9916",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "core ast and other type/helper implementations for zyn",
+        "homepage": "https://aacebo.github.io/zyn",
+        "documentation": "https://aacebo.github.io/zyn",
+        "repository": "https://www.github.com/aacebo/zyn",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3146,
+                    "comment_lines": 0,
+                    "files": 30
+                }
+            },
+            "total_code_lines": 3146,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1332999,
+        "crate": "zymrhit",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zymrhit/0.1.1/download",
+        "readme_path": "/api/v1/crates/zymrhit/0.1.1/readme",
+        "updated_at": "2024-11-08T11:12:40.884608Z",
+        "created_at": "2024-11-08T11:12:40.884608Z",
+        "downloads": 1056,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zymrhit/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zymrhit/0.1.1/downloads",
+            "authors": "/api/v1/crates/zymrhit/0.1.1/authors"
+        },
+        "crate_size": 3425244,
+        "published_by": {
+            "id": 155649,
+            "login": "zhangyemengren",
+            "name": "zhangyemengren",
+            "avatar": "https://avatars.githubusercontent.com/u/21048772?v=4",
+            "url": "https://github.com/zhangyemengren"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 155649,
+                    "login": "zhangyemengren",
+                    "name": "zhangyemengren",
+                    "avatar": "https://avatars.githubusercontent.com/u/21048772?v=4",
+                    "url": "https://github.com/zhangyemengren"
+                },
+                "time": "2024-11-08T11:12:40.884608Z"
+            }
+        ],
+        "checksum": "c5297b1366fc95f758206022e732b64767895526f8bcf0eaa4717f6989da5dc5",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zymrhit"
+        ],
+        "edition": "2021",
+        "description": "http load generator",
+        "homepage": "https://github.com/zhangyemengren/hit#readme",
+        "documentation": null,
+        "repository": "https://github.com/zhangyemengren/hit",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 140,
+                    "comment_lines": 3,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 140,
+            "total_comment_lines": 3
+        }
+    }
+}
