@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2181673,
+        "crate": "zng-l10n-translator-gemini",
+        "num": "0.11.8",
+        "dl_path": "/api/v1/crates/zng-l10n-translator-gemini/0.11.8/download",
+        "readme_path": "/api/v1/crates/zng-l10n-translator-gemini/0.11.8/readme",
+        "updated_at": "2026-03-29T01:37:50.643795Z",
+        "created_at": "2026-03-29T01:37:50.643795Z",
+        "downloads": 16,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-l10n-translator-gemini/0.11.8/dependencies",
+            "version_downloads": "/api/v1/crates/zng-l10n-translator-gemini/0.11.8/downloads",
+            "authors": "/api/v1/crates/zng-l10n-translator-gemini/0.11.8/authors"
+        },
+        "crate_size": 19503,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2026-03-29T01:37:50.643795Z"
+            }
+        ],
+        "checksum": "8f47d93b2f3cd7d1c2f7843ed4cc8de80df6f83974e0d2a9c48eb9eb8ba8f1b9",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zng-l10n-translator-gemini"
+        ],
+        "edition": "2024",
+        "description": "Gemini plugin for `cargo zng l10n --translate`.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/cargo_zng",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 206,
+                    "comment_lines": 2,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 206,
+            "total_comment_lines": 2
+        }
+    }
+}
