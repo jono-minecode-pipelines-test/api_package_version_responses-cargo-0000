@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 859719,
+        "crate": "zoml",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zoml/0.1.0/download",
+        "readme_path": "/api/v1/crates/zoml/0.1.0/readme",
+        "updated_at": "2023-08-07T02:09:34.319902Z",
+        "created_at": "2023-08-01T02:36:23.795780Z",
+        "downloads": 1113,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoml/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoml/0.1.0/downloads",
+            "authors": "/api/v1/crates/zoml/0.1.0/authors"
+        },
+        "crate_size": 1961,
+        "published_by": {
+            "id": 178043,
+            "login": "zinso",
+            "name": "zinso",
+            "avatar": "https://avatars.githubusercontent.com/u/114153224?v=4",
+            "url": "https://github.com/zinso"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 178043,
+                    "login": "zinso",
+                    "name": "zinso",
+                    "avatar": "https://avatars.githubusercontent.com/u/114153224?v=4",
+                    "url": "https://github.com/zinso"
+                },
+                "time": "2023-08-01T02:36:23.795780Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 178043,
+                    "login": "zinso",
+                    "name": "zinso",
+                    "avatar": "https://avatars.githubusercontent.com/u/114153224?v=4",
+                    "url": "https://github.com/zinso"
+                },
+                "time": "2023-08-07T02:09:34.324032Z"
+            }
+        ],
+        "checksum": "e86d154415a01aa97803f2c2b8401d6577a54915c6ad8e39f204961733db76a7",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zoml"
+        ],
+        "edition": "2021",
+        "description": "crate description",
+        "homepage": "https://dnrops.gitee.io",
+        "documentation": "https://docs.rs/zoml",
+        "repository": "https://gitlab.com/andrew_ryan/zoml",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 6,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 6,
+            "total_comment_lines": 0
+        }
+    }
+}

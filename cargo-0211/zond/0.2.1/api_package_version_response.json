@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1181858,
+        "crate": "zond",
+        "num": "0.2.1",
+        "dl_path": "/api/v1/crates/zond/0.2.1/download",
+        "readme_path": "/api/v1/crates/zond/0.2.1/readme",
+        "updated_at": "2024-06-21T23:45:14.769905Z",
+        "created_at": "2024-06-21T23:45:14.769905Z",
+        "downloads": 1393,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zond/0.2.1/dependencies",
+            "version_downloads": "/api/v1/crates/zond/0.2.1/downloads",
+            "authors": "/api/v1/crates/zond/0.2.1/authors"
+        },
+        "crate_size": 6808,
+        "published_by": {
+            "id": 276323,
+            "login": "nutsalhan87",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/36156056?v=4",
+            "url": "https://github.com/nutsalhan87"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 276323,
+                    "login": "nutsalhan87",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/36156056?v=4",
+                    "url": "https://github.com/nutsalhan87"
+                },
+                "time": "2024-06-21T23:45:14.769905Z"
+            }
+        ],
+        "checksum": "d406a5417f177493664804a95541dc404dfad962866b0d2c47cf77e211545f69",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Zond is crate with standard rust collections but with collecting statistics",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/nutsalhan87/zond",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 565,
+                    "comment_lines": 8,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 565,
+            "total_comment_lines": 8
+        }
+    }
+}
