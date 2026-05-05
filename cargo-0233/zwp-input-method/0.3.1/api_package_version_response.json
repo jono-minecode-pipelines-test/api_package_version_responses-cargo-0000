@@ -1,0 +1,97 @@
+{
+    "version": {
+        "id": 564830,
+        "crate": "zwp-input-method",
+        "num": "0.3.1",
+        "dl_path": "/api/v1/crates/zwp-input-method/0.3.1/download",
+        "readme_path": "/api/v1/crates/zwp-input-method/0.3.1/readme",
+        "updated_at": "2026-02-07T18:21:43.867252Z",
+        "created_at": "2022-06-11T00:35:31.474699Z",
+        "downloads": 1606,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zwp-input-method/0.3.1/dependencies",
+            "version_downloads": "/api/v1/crates/zwp-input-method/0.3.1/downloads",
+            "authors": "/api/v1/crates/zwp-input-method/0.3.1/authors"
+        },
+        "crate_size": 9114,
+        "published_by": {
+            "id": 156020,
+            "login": "pentamassiv",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/91755244?v=4",
+            "url": "https://github.com/pentamassiv"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 156020,
+                    "login": "pentamassiv",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/91755244?v=4",
+                    "url": "https://github.com/pentamassiv"
+                },
+                "time": "2022-06-11T00:35:31.474699Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 156020,
+                    "login": "pentamassiv",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/91755244?v=4",
+                    "url": "https://github.com/pentamassiv"
+                },
+                "time": "2022-06-11T00:39:07.010156Z"
+            },
+            {
+                "action": "unyank",
+                "user": {
+                    "id": 156020,
+                    "login": "pentamassiv",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/91755244?v=4",
+                    "url": "https://github.com/pentamassiv"
+                },
+                "time": "2022-11-21T00:37:36.163010Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 156020,
+                    "login": "pentamassiv",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/91755244?v=4",
+                    "url": "https://github.com/pentamassiv"
+                },
+                "time": "2026-02-07T18:21:43.869356Z"
+            }
+        ],
+        "checksum": "6d2d2dd8c3132a68b5a5cff465f27d3f5c5d2beee341a1b3ab784362ac7c1983",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "(Unsafe) Rust code generated with wayland-scanner crate for input-method-unstable-v2 protocol",
+        "homepage": null,
+        "documentation": "https://docs.rs/zwp-input-method",
+        "repository": "https://github.com/pentamassiv/zwp-input-method",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 32,
+                    "comment_lines": 9,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 32,
+            "total_comment_lines": 9
+        }
+    }
+}

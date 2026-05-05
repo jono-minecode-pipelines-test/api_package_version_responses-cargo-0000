@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 407385,
+        "crate": "zwp-virtual-keyboard",
+        "num": "0.2.3",
+        "dl_path": "/api/v1/crates/zwp-virtual-keyboard/0.2.3/download",
+        "readme_path": "/api/v1/crates/zwp-virtual-keyboard/0.2.3/readme",
+        "updated_at": "2022-10-08T22:26:32.906957Z",
+        "created_at": "2021-07-31T20:33:20.818008Z",
+        "downloads": 2106,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zwp-virtual-keyboard/0.2.3/dependencies",
+            "version_downloads": "/api/v1/crates/zwp-virtual-keyboard/0.2.3/downloads",
+            "authors": "/api/v1/crates/zwp-virtual-keyboard/0.2.3/authors"
+        },
+        "crate_size": 17187,
+        "published_by": {
+            "id": 98353,
+            "login": "grelltrier",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/67273701?v=4",
+            "url": "https://github.com/grelltrier"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 98353,
+                    "login": "grelltrier",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/67273701?v=4",
+                    "url": "https://github.com/grelltrier"
+                },
+                "time": "2021-07-31T20:33:20.818008Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 156020,
+                    "login": "pentamassiv",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/91755244?v=4",
+                    "url": "https://github.com/pentamassiv"
+                },
+                "time": "2022-10-08T22:26:32.909932Z"
+            }
+        ],
+        "checksum": "af193ee7d15133ecc69bc9f8497ad8e425e5da4457a86a3e9c68bd38381d10f1",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "(Unsafe) Rust code generated with wayland-scanner crate for virtual_keyboard_unstable_v1 protocol",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/grelltrier/zwp-virtual-keyboard",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 31,
+                    "comment_lines": 11,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 31,
+            "total_comment_lines": 11
+        }
+    }
+}

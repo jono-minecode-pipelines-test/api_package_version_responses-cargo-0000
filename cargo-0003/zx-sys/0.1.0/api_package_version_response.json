@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 65680,
+        "crate": "zx-sys",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zx-sys/0.1.0/download",
+        "readme_path": "/api/v1/crates/zx-sys/0.1.0/readme",
+        "updated_at": "2017-11-30T03:09:44.584922Z",
+        "created_at": "2017-09-18T20:18:30.235318Z",
+        "downloads": 2138,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-3-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zx-sys/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zx-sys/0.1.0/downloads",
+            "authors": "/api/v1/crates/zx-sys/0.1.0/authors"
+        },
+        "crate_size": 705,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "c2a5c81950f5355ffec657ea57483ce97748279344036ecd35685dbf61d5e829",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Bindings to the Zircon kernel.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 6,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 6,
+            "total_comment_lines": 0
+        }
+    }
+}

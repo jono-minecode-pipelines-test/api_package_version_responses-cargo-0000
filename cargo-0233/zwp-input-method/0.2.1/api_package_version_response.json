@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 407381,
+        "crate": "zwp-input-method",
+        "num": "0.2.1",
+        "dl_path": "/api/v1/crates/zwp-input-method/0.2.1/download",
+        "readme_path": "/api/v1/crates/zwp-input-method/0.2.1/readme",
+        "updated_at": "2022-06-11T00:39:04.521175Z",
+        "created_at": "2021-07-31T20:26:58.711688Z",
+        "downloads": 1194,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zwp-input-method/0.2.1/dependencies",
+            "version_downloads": "/api/v1/crates/zwp-input-method/0.2.1/downloads",
+            "authors": "/api/v1/crates/zwp-input-method/0.2.1/authors"
+        },
+        "crate_size": 7516,
+        "published_by": {
+            "id": 98353,
+            "login": "grelltrier",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/67273701?v=4",
+            "url": "https://github.com/grelltrier"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 98353,
+                    "login": "grelltrier",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/67273701?v=4",
+                    "url": "https://github.com/grelltrier"
+                },
+                "time": "2021-07-31T20:26:58.711688Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 156020,
+                    "login": "pentamassiv",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/91755244?v=4",
+                    "url": "https://github.com/pentamassiv"
+                },
+                "time": "2022-06-11T00:39:04.524219Z"
+            }
+        ],
+        "checksum": "714c21d19bd0f080b82abaecf9f2aadbcaf27d63bc4cc97403a988368ca8bc21",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "(Unsafe) Rust code generated with wayland-scanner crate for input-method-unstable-v2 protocol",
+        "homepage": null,
+        "documentation": "https://docs.rs/zwp-input-method",
+        "repository": "https://github.com/grelltrier/zwp-input-method",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 32,
+                    "comment_lines": 9,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 32,
+            "total_comment_lines": 9
+        }
+    }
+}

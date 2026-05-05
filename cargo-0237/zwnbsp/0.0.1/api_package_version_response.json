@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 284092,
+        "crate": "zwnbsp",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zwnbsp/0.0.1/download",
+        "readme_path": "/api/v1/crates/zwnbsp/0.0.1/readme",
+        "updated_at": "2020-09-15T20:37:31.477151Z",
+        "created_at": "2020-09-15T20:37:31.477151Z",
+        "downloads": 1728,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zwnbsp/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zwnbsp/0.0.1/downloads",
+            "authors": "/api/v1/crates/zwnbsp/0.0.1/authors"
+        },
+        "crate_size": 3450,
+        "published_by": {
+            "id": 82791,
+            "login": "LeoBorai",
+            "name": "Leo Borai",
+            "avatar": "https://avatars.githubusercontent.com/u/34756077?v=4",
+            "url": "https://github.com/LeoBorai"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 82791,
+                    "login": "LeoBorai",
+                    "name": "Leo Borai",
+                    "avatar": "https://avatars.githubusercontent.com/u/34756077?v=4",
+                    "url": "https://github.com/LeoBorai"
+                },
+                "time": "2020-09-15T20:37:31.477151Z"
+            }
+        ],
+        "checksum": "85938ab54b32df85169918dc143ff576933862befe31997f97535ce08aaab0e2",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Zero width no-breaking space character utilities for Unicode and HTML",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/EstebanBorai/zwnbsp",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 145,
+                    "comment_lines": 5,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 145,
+            "total_comment_lines": 5
+        }
+    }
+}

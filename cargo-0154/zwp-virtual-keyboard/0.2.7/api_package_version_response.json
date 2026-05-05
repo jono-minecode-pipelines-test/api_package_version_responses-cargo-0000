@@ -1,0 +1,97 @@
+{
+    "version": {
+        "id": 637961,
+        "crate": "zwp-virtual-keyboard",
+        "num": "0.2.7",
+        "dl_path": "/api/v1/crates/zwp-virtual-keyboard/0.2.7/download",
+        "readme_path": "/api/v1/crates/zwp-virtual-keyboard/0.2.7/readme",
+        "updated_at": "2026-02-07T18:17:37.978401Z",
+        "created_at": "2022-10-08T22:23:35.231450Z",
+        "downloads": 8194,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zwp-virtual-keyboard/0.2.7/dependencies",
+            "version_downloads": "/api/v1/crates/zwp-virtual-keyboard/0.2.7/downloads",
+            "authors": "/api/v1/crates/zwp-virtual-keyboard/0.2.7/authors"
+        },
+        "crate_size": 17475,
+        "published_by": {
+            "id": 156020,
+            "login": "pentamassiv",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/91755244?v=4",
+            "url": "https://github.com/pentamassiv"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 156020,
+                    "login": "pentamassiv",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/91755244?v=4",
+                    "url": "https://github.com/pentamassiv"
+                },
+                "time": "2022-10-08T22:23:35.231450Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 156020,
+                    "login": "pentamassiv",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/91755244?v=4",
+                    "url": "https://github.com/pentamassiv"
+                },
+                "time": "2022-10-08T22:26:39.361058Z"
+            },
+            {
+                "action": "unyank",
+                "user": {
+                    "id": 156020,
+                    "login": "pentamassiv",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/91755244?v=4",
+                    "url": "https://github.com/pentamassiv"
+                },
+                "time": "2022-10-08T22:26:44.653856Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 156020,
+                    "login": "pentamassiv",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/91755244?v=4",
+                    "url": "https://github.com/pentamassiv"
+                },
+                "time": "2026-02-07T18:17:37.985056Z"
+            }
+        ],
+        "checksum": "07b449405e5c49d10ab71187d3338366625340263d3fb061944ae3c94a639a9a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "DEPRECATED: (Unsafe) Rust code generated with wayland-scanner crate for virtual_keyboard_unstable_v1 protocol",
+        "homepage": null,
+        "documentation": "https://docs.rs/zwp-virtual-keyboard/",
+        "repository": "https://github.com/pentamassiv/zwp-virtual-keyboard",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 29,
+                    "comment_lines": 10,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 29,
+            "total_comment_lines": 10
+        }
+    }
+}
