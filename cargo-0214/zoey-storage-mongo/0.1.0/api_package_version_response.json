@@ -1,0 +1,67 @@
+{
+    "version": {
+        "id": 1932754,
+        "crate": "zoey-storage-mongo",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zoey-storage-mongo/0.1.0/download",
+        "readme_path": "/api/v1/crates/zoey-storage-mongo/0.1.0/readme",
+        "updated_at": "2026-01-09T23:40:02.344120Z",
+        "created_at": "2026-01-09T23:40:02.344120Z",
+        "downloads": 17,
+        "features": {
+            "default": [],
+            "hipaa": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoey-storage-mongo/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoey-storage-mongo/0.1.0/downloads",
+            "authors": "/api/v1/crates/zoey-storage-mongo/0.1.0/authors"
+        },
+        "crate_size": 48466,
+        "published_by": {
+            "id": 379967,
+            "login": "Freytes",
+            "name": "Christopher Freytes",
+            "avatar": "https://avatars.githubusercontent.com/u/4147278?v=4",
+            "url": "https://github.com/Freytes"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 379967,
+                    "login": "Freytes",
+                    "name": "Christopher Freytes",
+                    "avatar": "https://avatars.githubusercontent.com/u/4147278?v=4",
+                    "url": "https://github.com/Freytes"
+                },
+                "time": "2026-01-09T23:40:02.344120Z"
+            }
+        ],
+        "checksum": "dfffa3e2837dd03e7b0feda50a972e4aa0a5297810077acb2be5f01fb4e0db9b",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "MongoDB database adapter for ZoeyAI",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Agent-Zoey/Zoey.git",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1995,
+                    "comment_lines": 47,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 1995,
+            "total_comment_lines": 47
+        }
+    }
+}

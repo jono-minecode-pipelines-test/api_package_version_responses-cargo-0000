@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2011307,
+        "crate": "zoecss",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zoecss/0.1.0/download",
+        "readme_path": "/api/v1/crates/zoecss/0.1.0/readme",
+        "updated_at": "2026-02-09T08:53:04.572903Z",
+        "created_at": "2026-02-09T08:53:04.572903Z",
+        "downloads": 20,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoecss/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoecss/0.1.0/downloads",
+            "authors": "/api/v1/crates/zoecss/0.1.0/authors"
+        },
+        "crate_size": 11686,
+        "published_by": {
+            "id": 353626,
+            "login": "goulvenclech",
+            "name": "Goulven CLEC'H",
+            "avatar": "https://avatars.githubusercontent.com/u/35667800?v=4",
+            "url": "https://github.com/goulvenclech"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 353626,
+                    "login": "goulvenclech",
+                    "name": "Goulven CLEC'H",
+                    "avatar": "https://avatars.githubusercontent.com/u/35667800?v=4",
+                    "url": "https://github.com/goulvenclech"
+                },
+                "time": "2026-02-09T08:53:04.572903Z"
+            }
+        ],
+        "checksum": "40d38fc9a6e395e941b3513ca4feb63ef3a1378db1c835a4805e460465d9cc9c",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zoecss"
+        ],
+        "edition": "2024",
+        "description": "CLI for ZoeCSS \u2014 scan, extract, cache, and output CSS",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/bruits/zoecss",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 71,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 71,
+            "total_comment_lines": 0
+        }
+    }
+}

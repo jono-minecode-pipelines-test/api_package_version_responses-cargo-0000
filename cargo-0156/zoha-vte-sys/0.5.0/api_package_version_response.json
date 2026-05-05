@@ -1,0 +1,121 @@
+{
+    "version": {
+        "id": 931672,
+        "crate": "zoha-vte-sys",
+        "num": "0.5.0",
+        "dl_path": "/api/v1/crates/zoha-vte-sys/0.5.0/download",
+        "readme_path": "/api/v1/crates/zoha-vte-sys/0.5.0/readme",
+        "updated_at": "2023-10-21T17:37:27.224778Z",
+        "created_at": "2023-10-21T17:37:27.224778Z",
+        "downloads": 1509,
+        "features": {
+            "dox": [],
+            "v0_40": [],
+            "v0_42": [
+                "v0_40"
+            ],
+            "v0_44": [
+                "v0_42"
+            ],
+            "v0_46": [
+                "v0_44"
+            ],
+            "v0_48": [
+                "v0_46"
+            ],
+            "v0_50": [
+                "v0_48"
+            ],
+            "v0_52": [
+                "v0_50"
+            ],
+            "v0_54": [
+                "v0_52"
+            ],
+            "v0_56": [
+                "v0_54"
+            ],
+            "v0_58": [
+                "v0_56"
+            ],
+            "v0_60": [
+                "v0_58"
+            ],
+            "v0_62": [
+                "v0_60"
+            ],
+            "v0_64": [
+                "v0_62"
+            ],
+            "v0_66": [
+                "v0_64"
+            ],
+            "v0_68": [
+                "v0_66"
+            ],
+            "v0_70": [
+                "v0_68"
+            ],
+            "v0_72": [
+                "v0_70"
+            ],
+            "v0_74": [
+                "v0_72"
+            ],
+            "v0_76": [
+                "v0_74"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": "\"vte-2.91\"",
+        "license": "GPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zoha-vte-sys/0.5.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoha-vte-sys/0.5.0/downloads",
+            "authors": "/api/v1/crates/zoha-vte-sys/0.5.0/authors"
+        },
+        "crate_size": 10278,
+        "published_by": {
+            "id": 151877,
+            "login": "hkoosha",
+            "name": "Koosha",
+            "avatar": "https://avatars.githubusercontent.com/u/63921250?v=4",
+            "url": "https://github.com/hkoosha"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 151877,
+                    "login": "hkoosha",
+                    "name": "Koosha",
+                    "avatar": "https://avatars.githubusercontent.com/u/63921250?v=4",
+                    "url": "https://github.com/hkoosha"
+                },
+                "time": "2023-10-21T17:37:27.224778Z"
+            }
+        ],
+        "checksum": "4a403daabf610d1a318c47ac6510b75ce54c36523605925c8784e98ea9618c71",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Temporary crate: updated version of https://github.com/antoyo/vte-rs, until that crate is updated.",
+        "homepage": "https://github.com/hkoosha/zoha-vte-rs",
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 535,
+                    "comment_lines": 57,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 535,
+            "total_comment_lines": 57
+        }
+    }
+}
