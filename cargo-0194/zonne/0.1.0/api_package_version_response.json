@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1019137,
+        "crate": "zonne",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zonne/0.1.0/download",
+        "readme_path": "/api/v1/crates/zonne/0.1.0/readme",
+        "updated_at": "2024-01-19T12:29:48.867684Z",
+        "created_at": "2024-01-19T12:29:48.867684Z",
+        "downloads": 1121,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "WTFPL",
+        "links": {
+            "dependencies": "/api/v1/crates/zonne/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zonne/0.1.0/downloads",
+            "authors": "/api/v1/crates/zonne/0.1.0/authors"
+        },
+        "crate_size": 1472,
+        "published_by": {
+            "id": 249917,
+            "login": "z-o-n-n-e",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/139063539?v=4",
+            "url": "https://github.com/z-o-n-n-e"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 249917,
+                    "login": "z-o-n-n-e",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/139063539?v=4",
+                    "url": "https://github.com/z-o-n-n-e"
+                },
+                "time": "2024-01-19T12:29:48.867684Z"
+            }
+        ],
+        "checksum": "3dd04f4e93d0c94a91bdbebe978814fe47a7818d43805ed1d9a1979a93e46de9",
+        "rust_version": null,
+        "has_lib": null,
+        "bin_names": null,
+        "edition": "2021",
+        "description": "Mr.Z's Rust Open Source Library",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1701967,
+        "crate": "zoneinfo_rs",
+        "num": "0.0.13",
+        "dl_path": "/api/v1/crates/zoneinfo_rs/0.0.13/download",
+        "readme_path": "/api/v1/crates/zoneinfo_rs/0.0.13/readme",
+        "updated_at": "2025-08-26T19:46:36.740513Z",
+        "created_at": "2025-08-26T19:46:36.740513Z",
+        "downloads": 310,
+        "features": {
+            "std": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zoneinfo_rs/0.0.13/dependencies",
+            "version_downloads": "/api/v1/crates/zoneinfo_rs/0.0.13/downloads",
+            "authors": "/api/v1/crates/zoneinfo_rs/0.0.13/authors"
+        },
+        "crate_size": 25617,
+        "published_by": {
+            "id": 26963,
+            "login": "jasonwilliams",
+            "name": "Jason Williams",
+            "avatar": "https://avatars.githubusercontent.com/u/936006?v=4",
+            "url": "https://github.com/jasonwilliams"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 26963,
+                    "login": "jasonwilliams",
+                    "name": "Jason Williams",
+                    "avatar": "https://avatars.githubusercontent.com/u/936006?v=4",
+                    "url": "https://github.com/jasonwilliams"
+                },
+                "time": "2025-08-26T19:46:36.740513Z"
+            }
+        ],
+        "checksum": "220402fe482c1d15f34f6c2c3cffc304a5544688f545be590ba5be869528eb92",
+        "rust_version": "1.82.0",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Zoneinfo parser and compiler",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/boa-dev/temporal",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2168,
+                    "comment_lines": 174,
+                    "files": 9
+                }
+            },
+            "total_code_lines": 2168,
+            "total_comment_lines": 174
+        }
+    }
+}

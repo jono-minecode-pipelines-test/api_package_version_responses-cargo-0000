@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 638614,
+        "crate": "zoog",
+        "num": "0.3.0",
+        "dl_path": "/api/v1/crates/zoog/0.3.0/download",
+        "readme_path": "/api/v1/crates/zoog/0.3.0/readme",
+        "updated_at": "2022-10-10T08:57:16.306837Z",
+        "created_at": "2022-10-10T08:57:16.306837Z",
+        "downloads": 1133,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-3-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zoog/0.3.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoog/0.3.0/downloads",
+            "authors": "/api/v1/crates/zoog/0.3.0/authors"
+        },
+        "crate_size": 29683,
+        "published_by": {
+            "id": 178982,
+            "login": "FrancisRussell",
+            "name": "Francis Russell",
+            "avatar": "https://avatars.githubusercontent.com/u/2285771?v=4",
+            "url": "https://github.com/FrancisRussell"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 178982,
+                    "login": "FrancisRussell",
+                    "name": "Francis Russell",
+                    "avatar": "https://avatars.githubusercontent.com/u/2285771?v=4",
+                    "url": "https://github.com/FrancisRussell"
+                },
+                "time": "2022-10-10T08:57:16.306837Z"
+            }
+        ],
+        "checksum": "947434ecc1da7682d5ea5e440cee18ea121ad86dc24372e5d39f53ed5b72c83d",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "opusgain"
+        ],
+        "edition": "2018",
+        "description": "Modifies Opus output gain values and R128 tags",
+        "homepage": "https://github.com/FrancisRussell/zoog",
+        "documentation": null,
+        "repository": "https://github.com/FrancisRussell/zoog.git",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1375,
+                    "comment_lines": 42,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 1375,
+            "total_comment_lines": 42
+        }
+    }
+}

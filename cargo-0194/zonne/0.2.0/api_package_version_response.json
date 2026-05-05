@@ -1,0 +1,88 @@
+{
+    "version": {
+        "id": 1019149,
+        "crate": "zonne",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zonne/0.2.0/download",
+        "readme_path": "/api/v1/crates/zonne/0.2.0/readme",
+        "updated_at": "2024-01-19T13:09:58.138705Z",
+        "created_at": "2024-01-19T12:54:43.754118Z",
+        "downloads": 1150,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "WTFPL",
+        "links": {
+            "dependencies": "/api/v1/crates/zonne/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zonne/0.2.0/downloads",
+            "authors": "/api/v1/crates/zonne/0.2.0/authors"
+        },
+        "crate_size": 1501,
+        "published_by": {
+            "id": 249917,
+            "login": "z-o-n-n-e",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/139063539?v=4",
+            "url": "https://github.com/z-o-n-n-e"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 249917,
+                    "login": "z-o-n-n-e",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/139063539?v=4",
+                    "url": "https://github.com/z-o-n-n-e"
+                },
+                "time": "2024-01-19T12:54:43.754118Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 249917,
+                    "login": "z-o-n-n-e",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/139063539?v=4",
+                    "url": "https://github.com/z-o-n-n-e"
+                },
+                "time": "2024-01-19T13:09:55.171238Z"
+            },
+            {
+                "action": "unyank",
+                "user": {
+                    "id": 249917,
+                    "login": "z-o-n-n-e",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/139063539?v=4",
+                    "url": "https://github.com/z-o-n-n-e"
+                },
+                "time": "2024-01-19T13:09:58.149330Z"
+            }
+        ],
+        "checksum": "eaccb2c77f7232c05a4ced33fe52b9953edc3d79a05a2e000aa5e2e061e342c5",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zonne"
+        ],
+        "edition": "2021",
+        "description": "Mr.Z's Rust Open Source Library",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 6,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 6,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "version": {
+        "id": 673246,
+        "crate": "zoog",
+        "num": "0.7.1",
+        "dl_path": "/api/v1/crates/zoog/0.7.1/download",
+        "readme_path": "/api/v1/crates/zoog/0.7.1/readme",
+        "updated_at": "2022-11-29T21:45:18.205813Z",
+        "created_at": "2022-11-29T21:45:18.205813Z",
+        "downloads": 1184,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-3-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zoog/0.7.1/dependencies",
+            "version_downloads": "/api/v1/crates/zoog/0.7.1/downloads",
+            "authors": "/api/v1/crates/zoog/0.7.1/authors"
+        },
+        "crate_size": 43564,
+        "published_by": {
+            "id": 178982,
+            "login": "FrancisRussell",
+            "name": "Francis Russell",
+            "avatar": "https://avatars.githubusercontent.com/u/2285771?v=4",
+            "url": "https://github.com/FrancisRussell"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 178982,
+                    "login": "FrancisRussell",
+                    "name": "Francis Russell",
+                    "avatar": "https://avatars.githubusercontent.com/u/2285771?v=4",
+                    "url": "https://github.com/FrancisRussell"
+                },
+                "time": "2022-11-29T21:45:18.205813Z"
+            }
+        ],
+        "checksum": "0c342b2da559faa39686610a43d892878dadddec59be60fe22720a59aa029f47",
+        "rust_version": "1.65",
+        "has_lib": true,
+        "bin_names": [
+            "opusgain",
+            "zoogcomment"
+        ],
+        "edition": "2021",
+        "description": "Tools for modifying Ogg Opus output gain and R128 tags and Ogg Opus/Vorbis comment tags",
+        "homepage": "https://github.com/FrancisRussell/zoog",
+        "documentation": null,
+        "repository": "https://github.com/FrancisRussell/zoog.git",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2669,
+                    "comment_lines": 50,
+                    "files": 30
+                }
+            },
+            "total_code_lines": 2669,
+            "total_comment_lines": 50
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 837834,
+        "crate": "zookeeper-async",
+        "num": "4.2.0",
+        "dl_path": "/api/v1/crates/zookeeper-async/4.2.0/download",
+        "readme_path": "/api/v1/crates/zookeeper-async/4.2.0/readme",
+        "updated_at": "2023-07-03T16:19:46.071486Z",
+        "created_at": "2023-07-03T16:19:46.071486Z",
+        "downloads": 2773,
+        "features": {
+            "unstable": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zookeeper-async/4.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zookeeper-async/4.2.0/downloads",
+            "authors": "/api/v1/crates/zookeeper-async/4.2.0/authors"
+        },
+        "crate_size": 39984,
+        "published_by": {
+            "id": 97682,
+            "login": "krojew",
+            "name": "Kamil Rojewski",
+            "avatar": "https://avatars.githubusercontent.com/u/1268573?v=4",
+            "url": "https://github.com/krojew"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 97682,
+                    "login": "krojew",
+                    "name": "Kamil Rojewski",
+                    "avatar": "https://avatars.githubusercontent.com/u/1268573?v=4",
+                    "url": "https://github.com/krojew"
+                },
+                "time": "2023-07-03T16:19:46.071486Z"
+            }
+        ],
+        "checksum": "c0f932266f25859d1d02e500a85540927e83bc6bb749a803114e5118679940d4",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "An async ZooKeeper client",
+        "homepage": "https://github.com/krojew/rust-zookeeper",
+        "documentation": null,
+        "repository": "https://github.com/krojew/rust-zookeeper",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Kotlin": {
+                    "code_lines": 39,
+                    "comment_lines": 1,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 2638,
+                    "comment_lines": 28,
+                    "files": 16
+                }
+            },
+            "total_code_lines": 2677,
+            "total_comment_lines": 29
+        }
+    }
+}
