@@ -1,0 +1,97 @@
+{
+    "version": {
+        "id": 876901,
+        "crate": "zula-core",
+        "num": "0.0.8",
+        "dl_path": "/api/v1/crates/zula-core/0.0.8/download",
+        "readme_path": "/api/v1/crates/zula-core/0.0.8/readme",
+        "updated_at": "2023-11-13T11:37:50.989971Z",
+        "created_at": "2023-08-21T12:59:54.233061Z",
+        "downloads": 1034,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zula-core/0.0.8/dependencies",
+            "version_downloads": "/api/v1/crates/zula-core/0.0.8/downloads",
+            "authors": "/api/v1/crates/zula-core/0.0.8/authors"
+        },
+        "crate_size": 2281,
+        "published_by": {
+            "id": 202835,
+            "login": "JamieH01",
+            "name": "Jamie",
+            "avatar": "https://avatars.githubusercontent.com/u/115036920?v=4",
+            "url": "https://github.com/JamieH01"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 202835,
+                    "login": "JamieH01",
+                    "name": "Jamie",
+                    "avatar": "https://avatars.githubusercontent.com/u/115036920?v=4",
+                    "url": "https://github.com/JamieH01"
+                },
+                "time": "2023-08-21T12:59:54.233061Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 202835,
+                    "login": "JamieH01",
+                    "name": "Jamie",
+                    "avatar": "https://avatars.githubusercontent.com/u/115036920?v=4",
+                    "url": "https://github.com/JamieH01"
+                },
+                "time": "2023-11-13T11:37:39.426282Z"
+            },
+            {
+                "action": "unyank",
+                "user": {
+                    "id": 202835,
+                    "login": "JamieH01",
+                    "name": "Jamie",
+                    "avatar": "https://avatars.githubusercontent.com/u/115036920?v=4",
+                    "url": "https://github.com/JamieH01"
+                },
+                "time": "2023-11-13T11:37:39.964652Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 202835,
+                    "login": "JamieH01",
+                    "name": "Jamie",
+                    "avatar": "https://avatars.githubusercontent.com/u/115036920?v=4",
+                    "url": "https://github.com/JamieH01"
+                },
+                "time": "2023-11-13T11:37:50.994544Z"
+            }
+        ],
+        "checksum": "3bd7b499e5ccd06a2a3c8a1bf999a08b8ac7884435486bcb91cbe84fcb5d52a7",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "core shell object of zula",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/JamieH01/zula-core",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 131,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 131,
+            "total_comment_lines": 0
+        }
+    }
+}

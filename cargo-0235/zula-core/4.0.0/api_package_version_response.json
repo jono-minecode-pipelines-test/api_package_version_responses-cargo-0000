@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 953368,
+        "crate": "zula-core",
+        "num": "4.0.0",
+        "dl_path": "/api/v1/crates/zula-core/4.0.0/download",
+        "readme_path": "/api/v1/crates/zula-core/4.0.0/readme",
+        "updated_at": "2023-11-13T11:57:56.470182Z",
+        "created_at": "2023-11-13T11:57:56.470182Z",
+        "downloads": 1552,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zula-core/4.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zula-core/4.0.0/downloads",
+            "authors": "/api/v1/crates/zula-core/4.0.0/authors"
+        },
+        "crate_size": 4148,
+        "published_by": {
+            "id": 202835,
+            "login": "JamieH01",
+            "name": "Jamie",
+            "avatar": "https://avatars.githubusercontent.com/u/115036920?v=4",
+            "url": "https://github.com/JamieH01"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 202835,
+                    "login": "JamieH01",
+                    "name": "Jamie",
+                    "avatar": "https://avatars.githubusercontent.com/u/115036920?v=4",
+                    "url": "https://github.com/JamieH01"
+                },
+                "time": "2023-11-13T11:57:56.470182Z"
+            }
+        ],
+        "checksum": "3bef764b022228bc5a6fbab4e001c791dcd6a983fcc575ef82cb1ed378229269",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "core shell object of zula",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/JamieH01/zula-core",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 261,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 261,
+            "total_comment_lines": 0
+        }
+    }
+}

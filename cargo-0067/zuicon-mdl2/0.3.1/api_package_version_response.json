@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1325881,
+        "crate": "zuicon-mdl2",
+        "num": "0.3.1",
+        "dl_path": "/api/v1/crates/zuicon-mdl2/0.3.1/download",
+        "readme_path": "/api/v1/crates/zuicon-mdl2/0.3.1/readme",
+        "updated_at": "2024-11-03T16:14:52.913681Z",
+        "created_at": "2024-11-03T16:14:52.913681Z",
+        "downloads": 1092,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "LGPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zuicon-mdl2/0.3.1/dependencies",
+            "version_downloads": "/api/v1/crates/zuicon-mdl2/0.3.1/downloads",
+            "authors": "/api/v1/crates/zuicon-mdl2/0.3.1/authors"
+        },
+        "crate_size": 409511,
+        "published_by": {
+            "id": 49033,
+            "login": "XuShaohua",
+            "name": "Xu Shaohua",
+            "avatar": "https://avatars.githubusercontent.com/u/11879915?v=4",
+            "url": "https://github.com/XuShaohua"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 49033,
+                    "login": "XuShaohua",
+                    "name": "Xu Shaohua",
+                    "avatar": "https://avatars.githubusercontent.com/u/11879915?v=4",
+                    "url": "https://github.com/XuShaohua"
+                },
+                "time": "2024-11-03T16:14:52.913681Z"
+            }
+        ],
+        "checksum": "37075e1fae3443bf46ad9820111c0dad6ef3bb6fa292a4249d4ad3c4717c8a05",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Wrapper of fluentui icons for yew framework",
+        "homepage": "https://github.com/RustVis/zu",
+        "documentation": "https://docs.rs/zuicon-mdl2",
+        "repository": "https://github.com/RustVis/zu",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 86986,
+                    "comment_lines": 8686,
+                    "files": 1738
+                },
+                "TypeScript": {
+                    "code_lines": 562,
+                    "comment_lines": 61,
+                    "files": 16
+                }
+            },
+            "total_code_lines": 87548,
+            "total_comment_lines": 8747
+        }
+    }
+}

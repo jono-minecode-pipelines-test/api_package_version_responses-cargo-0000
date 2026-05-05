@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 454584,
+        "crate": "zui-core",
+        "num": "0.0.2",
+        "dl_path": "/api/v1/crates/zui-core/0.0.2/download",
+        "readme_path": "/api/v1/crates/zui-core/0.0.2/readme",
+        "updated_at": "2021-11-17T01:50:19.413099Z",
+        "created_at": "2021-11-17T01:50:19.413099Z",
+        "downloads": 1182,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zui-core/0.0.2/dependencies",
+            "version_downloads": "/api/v1/crates/zui-core/0.0.2/downloads",
+            "authors": "/api/v1/crates/zui-core/0.0.2/authors"
+        },
+        "crate_size": 20866,
+        "published_by": {
+            "id": 124103,
+            "login": "dumrich",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/40397381?v=4",
+            "url": "https://github.com/dumrich"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 124103,
+                    "login": "dumrich",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/40397381?v=4",
+                    "url": "https://github.com/dumrich"
+                },
+                "time": "2021-11-17T01:50:19.413099Z"
+            }
+        ],
+        "checksum": "daf527aa6b5e8e385f428046ed5f24849af2ac31582f3804ab7c468acbf84a59",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "A Terminal UI Library, Written in Rust",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://git.dumrich.com/zui/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "HTML": {
+                    "code_lines": 48,
+                    "comment_lines": 3,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 577,
+                    "comment_lines": 66,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 625,
+            "total_comment_lines": 69
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 207243,
+        "crate": "zulip",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zulip/0.1.0/download",
+        "readme_path": "/api/v1/crates/zulip/0.1.0/readme",
+        "updated_at": "2024-07-17T10:43:47.873329Z",
+        "created_at": "2020-01-27T15:54:24.385330Z",
+        "downloads": 1561,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zulip/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zulip/0.1.0/downloads",
+            "authors": "/api/v1/crates/zulip/0.1.0/authors"
+        },
+        "crate_size": 10746,
+        "published_by": {
+            "id": 1471,
+            "login": "oli-obk",
+            "name": "Oli Scherer",
+            "avatar": "https://avatars.githubusercontent.com/u/332036?v=4",
+            "url": "https://github.com/oli-obk"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 1471,
+                    "login": "oli-obk",
+                    "name": "Oli Scherer",
+                    "avatar": "https://avatars.githubusercontent.com/u/332036?v=4",
+                    "url": "https://github.com/oli-obk"
+                },
+                "time": "2020-01-27T15:54:24.385330Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 1471,
+                    "login": "oli-obk",
+                    "name": "Oli Scherer",
+                    "avatar": "https://avatars.githubusercontent.com/u/332036?v=4",
+                    "url": "https://github.com/oli-obk"
+                },
+                "time": "2024-07-17T10:43:47.874832Z"
+            }
+        ],
+        "checksum": "831f4c0013f9ec95ac2b6482256186f417fab98efacfeea2adc2ae60f3269875",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zulip"
+        ],
+        "edition": "2018",
+        "description": "a command line utility for accessing zulip information",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 242,
+                    "comment_lines": 0,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 242,
+            "total_comment_lines": 0
+        }
+    }
+}

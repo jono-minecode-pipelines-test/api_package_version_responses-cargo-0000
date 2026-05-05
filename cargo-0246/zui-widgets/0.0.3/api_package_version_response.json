@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 456735,
+        "crate": "zui-widgets",
+        "num": "0.0.3",
+        "dl_path": "/api/v1/crates/zui-widgets/0.0.3/download",
+        "readme_path": "/api/v1/crates/zui-widgets/0.0.3/readme",
+        "updated_at": "2021-11-21T21:30:25.302071Z",
+        "created_at": "2021-11-21T21:30:25.302071Z",
+        "downloads": 1619,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zui-widgets/0.0.3/dependencies",
+            "version_downloads": "/api/v1/crates/zui-widgets/0.0.3/downloads",
+            "authors": "/api/v1/crates/zui-widgets/0.0.3/authors"
+        },
+        "crate_size": 119904,
+        "published_by": {
+            "id": 124103,
+            "login": "dumrich",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/40397381?v=4",
+            "url": "https://github.com/dumrich"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 124103,
+                    "login": "dumrich",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/40397381?v=4",
+                    "url": "https://github.com/dumrich"
+                },
+                "time": "2021-11-21T21:30:25.302071Z"
+            }
+        ],
+        "checksum": "2a813a3d2cc3000c66f5a37ec0c81e1b80b7e05cbaab448e39634cbe02c4deba",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "An addition to `zui` to add widgets to your UI",
+        "homepage": null,
+        "documentation": "https://docs.rs/tui/0.16.0/tui/",
+        "repository": "https://github.com/dumrich/zui-widgets",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 11651,
+                    "comment_lines": 97,
+                    "files": 27
+                }
+            },
+            "total_code_lines": 11651,
+            "total_comment_lines": 97
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 953343,
+        "crate": "zula-core",
+        "num": "3.0.5",
+        "dl_path": "/api/v1/crates/zula-core/3.0.5/download",
+        "readme_path": "/api/v1/crates/zula-core/3.0.5/readme",
+        "updated_at": "2023-11-13T11:58:48.254750Z",
+        "created_at": "2023-11-13T11:40:36.331878Z",
+        "downloads": 1118,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zula-core/3.0.5/dependencies",
+            "version_downloads": "/api/v1/crates/zula-core/3.0.5/downloads",
+            "authors": "/api/v1/crates/zula-core/3.0.5/authors"
+        },
+        "crate_size": 4134,
+        "published_by": {
+            "id": 202835,
+            "login": "JamieH01",
+            "name": "Jamie",
+            "avatar": "https://avatars.githubusercontent.com/u/115036920?v=4",
+            "url": "https://github.com/JamieH01"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 202835,
+                    "login": "JamieH01",
+                    "name": "Jamie",
+                    "avatar": "https://avatars.githubusercontent.com/u/115036920?v=4",
+                    "url": "https://github.com/JamieH01"
+                },
+                "time": "2023-11-13T11:40:36.331878Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 202835,
+                    "login": "JamieH01",
+                    "name": "Jamie",
+                    "avatar": "https://avatars.githubusercontent.com/u/115036920?v=4",
+                    "url": "https://github.com/JamieH01"
+                },
+                "time": "2023-11-13T11:58:48.257657Z"
+            }
+        ],
+        "checksum": "2f5b76ee1009a6f63bb466199288437c6bbcf0f146f9035d5a302b7b0be4768a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "core shell object of zula",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/JamieH01/zula-core",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 261,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 261,
+            "total_comment_lines": 0
+        }
+    }
+}
