@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 365052,
+        "crate": "zstr",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zstr/0.1.0/download",
+        "readme_path": "/api/v1/crates/zstr/0.1.0/readme",
+        "updated_at": "2021-04-13T10:08:02.053569Z",
+        "created_at": "2021-04-13T10:08:02.053569Z",
+        "downloads": 1286,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zstr/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zstr/0.1.0/downloads",
+            "authors": "/api/v1/crates/zstr/0.1.0/authors"
+        },
+        "crate_size": 2948,
+        "published_by": {
+            "id": 7356,
+            "login": "H2CO3",
+            "name": "\u00c1rp\u00e1d Goretity \uf8ff",
+            "avatar": "https://avatars.githubusercontent.com/u/742370?v=4",
+            "url": "https://github.com/H2CO3"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 7356,
+                    "login": "H2CO3",
+                    "name": "\u00c1rp\u00e1d Goretity \uf8ff",
+                    "avatar": "https://avatars.githubusercontent.com/u/742370?v=4",
+                    "url": "https://github.com/H2CO3"
+                },
+                "time": "2021-04-13T10:08:02.053569Z"
+            }
+        ],
+        "checksum": "8d3c52c583c61e343b078f68c8bad263baa4b077803d88e841934fd75b1dcde6",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Zero-terminated C string literals",
+        "homepage": null,
+        "documentation": "https://docs.rs/zstr",
+        "repository": "https://github.com/H2CO3/zstr/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 26,
+                    "comment_lines": 7,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 26,
+            "total_comment_lines": 7
+        }
+    }
+}

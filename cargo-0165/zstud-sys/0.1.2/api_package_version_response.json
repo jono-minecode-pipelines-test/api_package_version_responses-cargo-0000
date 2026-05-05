@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 824535,
+        "crate": "zstud-sys",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zstud-sys/0.1.2/download",
+        "readme_path": "/api/v1/crates/zstud-sys/0.1.2/readme",
+        "updated_at": "2023-06-16T16:02:58.352455Z",
+        "created_at": "2023-06-16T16:02:58.352455Z",
+        "downloads": 1154,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zstud-sys/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zstud-sys/0.1.2/downloads",
+            "authors": "/api/v1/crates/zstud-sys/0.1.2/authors"
+        },
+        "crate_size": 202762,
+        "published_by": {
+            "id": 4856,
+            "login": "19h",
+            "name": "Kenan Sulayman",
+            "avatar": "https://avatars.githubusercontent.com/u/280212?v=4",
+            "url": "https://github.com/19h"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 4856,
+                    "login": "19h",
+                    "name": "Kenan Sulayman",
+                    "avatar": "https://avatars.githubusercontent.com/u/280212?v=4",
+                    "url": "https://github.com/19h"
+                },
+                "time": "2023-06-16T16:02:58.352455Z"
+            }
+        ],
+        "checksum": "160644c351a9c975d6674c7355996353ae45b82333f86255ba0d217588b29336",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A basic wrapper around zstd",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/19h/zstud-sys-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C": {
+                    "code_lines": 11910,
+                    "comment_lines": 7635,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 22,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 11932,
+            "total_comment_lines": 7635
+        }
+    }
+}
