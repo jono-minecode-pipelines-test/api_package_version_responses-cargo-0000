@@ -1,0 +1,86 @@
+{
+    "version": {
+        "id": 258887,
+        "crate": "zoxide",
+        "num": "0.4.3",
+        "dl_path": "/api/v1/crates/zoxide/0.4.3/download",
+        "readme_path": "/api/v1/crates/zoxide/0.4.3/readme",
+        "updated_at": "2020-07-04T08:15:57.140668Z",
+        "created_at": "2020-07-04T08:15:57.140668Z",
+        "downloads": 2847,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoxide/0.4.3/dependencies",
+            "version_downloads": "/api/v1/crates/zoxide/0.4.3/downloads",
+            "authors": "/api/v1/crates/zoxide/0.4.3/authors"
+        },
+        "crate_size": 121027,
+        "published_by": {
+            "id": 59331,
+            "login": "ajeetdsouza",
+            "name": "Ajeet D'Souza",
+            "avatar": "https://avatars.githubusercontent.com/u/1777663?v=4",
+            "url": "https://github.com/ajeetdsouza"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 59331,
+                    "login": "ajeetdsouza",
+                    "name": "Ajeet D'Souza",
+                    "avatar": "https://avatars.githubusercontent.com/u/1777663?v=4",
+                    "url": "https://github.com/ajeetdsouza"
+                },
+                "time": "2020-07-04T08:15:57.140668Z"
+            }
+        ],
+        "checksum": "28be705116215b151300282ce111161ef3a48049f4ea7c693aae6c62f77e1fd6",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zoxide"
+        ],
+        "edition": "2018",
+        "description": "A faster way to navigate your filesystem",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/ajeetdsouza/zoxide/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Fish": {
+                    "code_lines": 1,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Python": {
+                    "code_lines": 36,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 1281,
+                    "comment_lines": 13,
+                    "files": 19
+                },
+                "Shell": {
+                    "code_lines": 109,
+                    "comment_lines": 4,
+                    "files": 1
+                },
+                "Zsh": {
+                    "code_lines": 1,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 1428,
+            "total_comment_lines": 17
+        }
+    }
+}

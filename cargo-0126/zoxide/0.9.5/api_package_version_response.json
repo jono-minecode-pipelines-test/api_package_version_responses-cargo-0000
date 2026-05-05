@@ -1,0 +1,99 @@
+{
+    "version": {
+        "id": 1268595,
+        "crate": "zoxide",
+        "num": "0.9.5",
+        "dl_path": "/api/v1/crates/zoxide/0.9.5/download",
+        "readme_path": "/api/v1/crates/zoxide/0.9.5/readme",
+        "updated_at": "2024-09-13T00:52:31.826563Z",
+        "created_at": "2024-09-13T00:52:31.826563Z",
+        "downloads": 3042,
+        "features": {
+            "default": [],
+            "nix-dev": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoxide/0.9.5/dependencies",
+            "version_downloads": "/api/v1/crates/zoxide/0.9.5/downloads",
+            "authors": "/api/v1/crates/zoxide/0.9.5/authors"
+        },
+        "crate_size": 973254,
+        "published_by": {
+            "id": 59331,
+            "login": "ajeetdsouza",
+            "name": "Ajeet D'Souza",
+            "avatar": "https://avatars.githubusercontent.com/u/1777663?v=4",
+            "url": "https://github.com/ajeetdsouza"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 59331,
+                    "login": "ajeetdsouza",
+                    "name": "Ajeet D'Souza",
+                    "avatar": "https://avatars.githubusercontent.com/u/1777663?v=4",
+                    "url": "https://github.com/ajeetdsouza"
+                },
+                "time": "2024-09-13T00:52:31.826563Z"
+            }
+        ],
+        "checksum": "cbed96667e952ba11972873ce57459297a5df517968b06e0a5540b8d8df75115",
+        "rust_version": "1.74.1",
+        "has_lib": false,
+        "bin_names": [
+            "zoxide"
+        ],
+        "edition": "2021",
+        "description": "A smarter cd command for your terminal",
+        "homepage": "https://github.com/ajeetdsouza/zoxide",
+        "documentation": null,
+        "repository": "https://github.com/ajeetdsouza/zoxide",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "BASH": {
+                    "code_lines": 228,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Elvish": {
+                    "code_lines": 110,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Fish": {
+                    "code_lines": 47,
+                    "comment_lines": 0,
+                    "files": 2
+                },
+                "Rust": {
+                    "code_lines": 1718,
+                    "comment_lines": 73,
+                    "files": 17
+                },
+                "Shell": {
+                    "code_lines": 414,
+                    "comment_lines": 24,
+                    "files": 1
+                },
+                "TypeScript": {
+                    "code_lines": 279,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Zsh": {
+                    "code_lines": 5,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 2801,
+            "total_comment_lines": 97
+        }
+    }
+}

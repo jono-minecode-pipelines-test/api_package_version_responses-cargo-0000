@@ -1,0 +1,81 @@
+{
+    "version": {
+        "id": 219924,
+        "crate": "zoxide",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zoxide/0.2.0/download",
+        "readme_path": "/api/v1/crates/zoxide/0.2.0/readme",
+        "updated_at": "2020-03-10T23:26:33.906725Z",
+        "created_at": "2020-03-10T23:26:33.906725Z",
+        "downloads": 1655,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoxide/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoxide/0.2.0/downloads",
+            "authors": "/api/v1/crates/zoxide/0.2.0/authors"
+        },
+        "crate_size": 12841,
+        "published_by": {
+            "id": 59331,
+            "login": "ajeetdsouza",
+            "name": "Ajeet D'Souza",
+            "avatar": "https://avatars.githubusercontent.com/u/1777663?v=4",
+            "url": "https://github.com/ajeetdsouza"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 59331,
+                    "login": "ajeetdsouza",
+                    "name": "Ajeet D'Souza",
+                    "avatar": "https://avatars.githubusercontent.com/u/1777663?v=4",
+                    "url": "https://github.com/ajeetdsouza"
+                },
+                "time": "2020-03-10T23:26:33.906725Z"
+            }
+        ],
+        "checksum": "d56d92e7618d05403a773537da50416405d0bbdb36a4ce46ce1ee022ae244c68",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zoxide"
+        ],
+        "edition": "2018",
+        "description": "A cd command that learns your habits",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/ajeetdsouza/zoxide/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Fish": {
+                    "code_lines": 1,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 495,
+                    "comment_lines": 4,
+                    "files": 5
+                },
+                "Shell": {
+                    "code_lines": 109,
+                    "comment_lines": 4,
+                    "files": 1
+                },
+                "Zsh": {
+                    "code_lines": 1,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 606,
+            "total_comment_lines": 8
+        }
+    }
+}

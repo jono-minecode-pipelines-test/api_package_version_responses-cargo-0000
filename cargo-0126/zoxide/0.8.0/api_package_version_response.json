@@ -1,0 +1,94 @@
+{
+    "version": {
+        "id": 472591,
+        "crate": "zoxide",
+        "num": "0.8.0",
+        "dl_path": "/api/v1/crates/zoxide/0.8.0/download",
+        "readme_path": "/api/v1/crates/zoxide/0.8.0/readme",
+        "updated_at": "2021-12-24T22:49:54.388505Z",
+        "created_at": "2021-12-24T22:49:54.388505Z",
+        "downloads": 7872,
+        "features": {
+            "default": [],
+            "nix": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoxide/0.8.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoxide/0.8.0/downloads",
+            "authors": "/api/v1/crates/zoxide/0.8.0/authors"
+        },
+        "crate_size": 457797,
+        "published_by": {
+            "id": 59331,
+            "login": "ajeetdsouza",
+            "name": "Ajeet D'Souza",
+            "avatar": "https://avatars.githubusercontent.com/u/1777663?v=4",
+            "url": "https://github.com/ajeetdsouza"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 59331,
+                    "login": "ajeetdsouza",
+                    "name": "Ajeet D'Souza",
+                    "avatar": "https://avatars.githubusercontent.com/u/1777663?v=4",
+                    "url": "https://github.com/ajeetdsouza"
+                },
+                "time": "2021-12-24T22:49:54.388505Z"
+            }
+        ],
+        "checksum": "40ead9ee696671845dd1e735986241e7b855b033ffa1c02738e37c835d57a459",
+        "rust_version": "1.56",
+        "has_lib": false,
+        "bin_names": [
+            "zoxide"
+        ],
+        "edition": "2021",
+        "description": "A smarter cd command for your terminal",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/ajeetdsouza/zoxide",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "BASH": {
+                    "code_lines": 136,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Elvish": {
+                    "code_lines": 76,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Fish": {
+                    "code_lines": 33,
+                    "comment_lines": 0,
+                    "files": 2
+                },
+                "Rust": {
+                    "code_lines": 1572,
+                    "comment_lines": 41,
+                    "files": 17
+                },
+                "TypeScript": {
+                    "code_lines": 213,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Zsh": {
+                    "code_lines": 5,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 2035,
+            "total_comment_lines": 41
+        }
+    }
+}
