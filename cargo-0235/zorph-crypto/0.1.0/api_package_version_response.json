@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2177431,
+        "crate": "zorph-crypto",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zorph-crypto/0.1.0/download",
+        "readme_path": "/api/v1/crates/zorph-crypto/0.1.0/readme",
+        "updated_at": "2026-03-27T23:20:47.330301Z",
+        "created_at": "2026-03-27T23:20:47.330301Z",
+        "downloads": 18,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorph-crypto/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zorph-crypto/0.1.0/downloads",
+            "authors": "/api/v1/crates/zorph-crypto/0.1.0/authors"
+        },
+        "crate_size": 58751,
+        "published_by": {
+            "id": 143593,
+            "login": "d3v3us",
+            "name": "Raf Barseghian",
+            "avatar": "https://avatars.githubusercontent.com/u/42238266?v=4",
+            "url": "https://github.com/d3v3us"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 143593,
+                    "login": "d3v3us",
+                    "name": "Raf Barseghian",
+                    "avatar": "https://avatars.githubusercontent.com/u/42238266?v=4",
+                    "url": "https://github.com/d3v3us"
+                },
+                "time": "2026-03-27T23:20:47.330301Z"
+            }
+        ],
+        "checksum": "d0c61d748c54bb41be630bdc3c3230c38e920339523ef8194e160ee8f42ac921",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Cryptographic primitives for the Zorph platform",
+        "homepage": "https://zorph.io",
+        "documentation": "https://docs.zorph.io",
+        "repository": "https://github.com/zorph-io/zorph-crypto",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1687,
+                    "comment_lines": 58,
+                    "files": 13
+                }
+            },
+            "total_code_lines": 1687,
+            "total_comment_lines": 58
+        }
+    }
+}

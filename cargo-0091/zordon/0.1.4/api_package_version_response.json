@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 385969,
+        "crate": "zordon",
+        "num": "0.1.4",
+        "dl_path": "/api/v1/crates/zordon/0.1.4/download",
+        "readme_path": "/api/v1/crates/zordon/0.1.4/readme",
+        "updated_at": "2021-06-04T08:48:50.182472Z",
+        "created_at": "2021-06-04T08:48:50.182472Z",
+        "downloads": 1126,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zordon/0.1.4/dependencies",
+            "version_downloads": "/api/v1/crates/zordon/0.1.4/downloads",
+            "authors": "/api/v1/crates/zordon/0.1.4/authors"
+        },
+        "crate_size": 6493,
+        "published_by": {
+            "id": 123423,
+            "login": "Aetiology",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/38694138?v=4",
+            "url": "https://github.com/Aetiology"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 123423,
+                    "login": "Aetiology",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/38694138?v=4",
+                    "url": "https://github.com/Aetiology"
+                },
+                "time": "2021-06-04T08:48:50.182472Z"
+            }
+        ],
+        "checksum": "046fc9dfd436b2078a90b73960bff19a9f52d8d263b9b704bb7d1088dbffcf0f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Simple low-level abstractions for zero-copy parsing and mutation",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Aetiology/zordon",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 344,
+                    "comment_lines": 1,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 344,
+            "total_comment_lines": 1
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 423421,
+        "crate": "zordon",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zordon/0.2.0/download",
+        "readme_path": "/api/v1/crates/zordon/0.2.0/readme",
+        "updated_at": "2021-09-09T10:29:20.579868Z",
+        "created_at": "2021-09-09T10:29:20.579868Z",
+        "downloads": 1622,
+        "features": {
+            "std_unit_tests": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zordon/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zordon/0.2.0/downloads",
+            "authors": "/api/v1/crates/zordon/0.2.0/authors"
+        },
+        "crate_size": 6970,
+        "published_by": {
+            "id": 123423,
+            "login": "Aetiology",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/38694138?v=4",
+            "url": "https://github.com/Aetiology"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 123423,
+                    "login": "Aetiology",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/38694138?v=4",
+                    "url": "https://github.com/Aetiology"
+                },
+                "time": "2021-09-09T10:29:20.579868Z"
+            }
+        ],
+        "checksum": "187c775281347568d57dcc6c84e010b7ab511e3a9fcbb01458b3eb8bc94333b8",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Simple low-level abstractions for zero-copy parsing and mutation",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Aetiology/zordon",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 414,
+                    "comment_lines": 1,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 414,
+            "total_comment_lines": 1
+        }
+    }
+}

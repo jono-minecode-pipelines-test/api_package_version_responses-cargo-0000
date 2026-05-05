@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1620958,
+        "crate": "zoro",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zoro/0.1.0/download",
+        "readme_path": "/api/v1/crates/zoro/0.1.0/readme",
+        "updated_at": "2025-06-30T06:07:05.798491Z",
+        "created_at": "2025-06-30T06:07:05.798491Z",
+        "downloads": 369,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoro/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoro/0.1.0/downloads",
+            "authors": "/api/v1/crates/zoro/0.1.0/authors"
+        },
+        "crate_size": 2561,
+        "published_by": {
+            "id": 250851,
+            "login": "simplysabir",
+            "name": "Sabir Khan",
+            "avatar": "https://avatars.githubusercontent.com/u/76485932?v=4",
+            "url": "https://github.com/simplysabir"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 250851,
+                    "login": "simplysabir",
+                    "name": "Sabir Khan",
+                    "avatar": "https://avatars.githubusercontent.com/u/76485932?v=4",
+                    "url": "https://github.com/simplysabir"
+                },
+                "time": "2025-06-30T06:07:05.798491Z"
+            }
+        ],
+        "checksum": "7134fce114536c68118f6b514e3f8611258e7ce1f8eb17ab9cfa467f8683d901",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zoro"
+        ],
+        "edition": "2024",
+        "description": "blazingly fast and sharp shell built in rust",
+        "homepage": "https://github.com/simplysabir/zoro",
+        "documentation": null,
+        "repository": "https://github.com/simplysabir/zoro",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 14,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 14,
+            "total_comment_lines": 0
+        }
+    }
+}
