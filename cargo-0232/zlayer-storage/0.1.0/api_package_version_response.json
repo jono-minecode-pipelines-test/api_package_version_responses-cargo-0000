@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1993019,
+        "crate": "zlayer-storage",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zlayer-storage/0.1.0/download",
+        "readme_path": "/api/v1/crates/zlayer-storage/0.1.0/readme",
+        "updated_at": "2026-02-02T20:43:45.522873Z",
+        "created_at": "2026-02-02T20:43:45.522873Z",
+        "downloads": 18,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-storage/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-storage/0.1.0/downloads",
+            "authors": "/api/v1/crates/zlayer-storage/0.1.0/authors"
+        },
+        "crate_size": 27851,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-02-02T20:43:45.522873Z"
+            }
+        ],
+        "checksum": "b2e8091cda7c6058026f7b9488b90c0151c1dda30ed9c5afb49616696af3f537",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "S3-backed container layer persistence with crash-tolerant uploads",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zachhandley/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 884,
+                    "comment_lines": 61,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 884,
+            "total_comment_lines": 61
+        }
+    }
+}
