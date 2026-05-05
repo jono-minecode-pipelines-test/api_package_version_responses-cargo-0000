@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1149102,
+        "crate": "zng-wgt-size-offset",
+        "num": "0.2.12",
+        "dl_path": "/api/v1/crates/zng-wgt-size-offset/0.2.12/download",
+        "readme_path": "/api/v1/crates/zng-wgt-size-offset/0.2.12/readme",
+        "updated_at": "2024-05-19T16:25:08.948502Z",
+        "created_at": "2024-05-19T16:25:08.948502Z",
+        "downloads": 1198,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wgt-size-offset/0.2.12/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wgt-size-offset/0.2.12/downloads",
+            "authors": "/api/v1/crates/zng-wgt-size-offset/0.2.12/authors"
+        },
+        "crate_size": 6214,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-05-19T16:25:08.948502Z"
+            }
+        ],
+        "checksum": "78e2beb692cf7d1b158f1d9431c81d22b5844a65de7437d022d29c8ccc9b036b",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_wgt_size_offset",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 715,
+                    "comment_lines": 1,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 715,
+            "total_comment_lines": 1
+        }
+    }
+}
