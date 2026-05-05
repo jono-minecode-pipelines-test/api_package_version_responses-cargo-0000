@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 383090,
+        "crate": "zoom-sdk-windows",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zoom-sdk-windows/0.2.0/download",
+        "readme_path": "/api/v1/crates/zoom-sdk-windows/0.2.0/readme",
+        "updated_at": "2021-05-27T20:45:42.801435Z",
+        "created_at": "2021-05-27T20:45:42.801435Z",
+        "downloads": 1593,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoom-sdk-windows/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoom-sdk-windows/0.2.0/downloads",
+            "authors": "/api/v1/crates/zoom-sdk-windows/0.2.0/authors"
+        },
+        "crate_size": 13435,
+        "published_by": {
+            "id": 107642,
+            "login": "TjeuKayim",
+            "name": "Tjeu Kayim",
+            "avatar": "https://avatars.githubusercontent.com/u/15987676?v=4",
+            "url": "https://github.com/TjeuKayim"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 107642,
+                    "login": "TjeuKayim",
+                    "name": "Tjeu Kayim",
+                    "avatar": "https://avatars.githubusercontent.com/u/15987676?v=4",
+                    "url": "https://github.com/TjeuKayim"
+                },
+                "time": "2021-05-27T20:45:42.801435Z"
+            }
+        ],
+        "checksum": "b7a2656d69820e788ff238c836aa62f7e1505584365a7cc0b469e937e291a386",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Rust bindings to Zoom Windows SDK",
+        "homepage": null,
+        "documentation": "http://docs.rs/zoom-sdk/",
+        "repository": "https://github.com/TjeuKayim/zoom-sdk-rust",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 989,
+                    "comment_lines": 32,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 989,
+            "total_comment_lines": 32
+        }
+    }
+}

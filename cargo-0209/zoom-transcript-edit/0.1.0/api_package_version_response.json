@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 401372,
+        "crate": "zoom-transcript-edit",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zoom-transcript-edit/0.1.0/download",
+        "readme_path": "/api/v1/crates/zoom-transcript-edit/0.1.0/readme",
+        "updated_at": "2021-07-15T12:08:14.031201Z",
+        "created_at": "2021-07-15T12:08:14.031201Z",
+        "downloads": 1564,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "AGPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zoom-transcript-edit/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoom-transcript-edit/0.1.0/downloads",
+            "authors": "/api/v1/crates/zoom-transcript-edit/0.1.0/authors"
+        },
+        "crate_size": 6290,
+        "published_by": {
+            "id": 127099,
+            "login": "billwanjohi",
+            "name": "Bill Wanjohi",
+            "avatar": "https://avatars.githubusercontent.com/u/1226539?v=4",
+            "url": "https://github.com/billwanjohi"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 127099,
+                    "login": "billwanjohi",
+                    "name": "Bill Wanjohi",
+                    "avatar": "https://avatars.githubusercontent.com/u/1226539?v=4",
+                    "url": "https://github.com/billwanjohi"
+                },
+                "time": "2021-07-15T12:08:14.031201Z"
+            }
+        ],
+        "checksum": "ae9c3f7fd0613bbf03609d36861313649acfe73c9537e944e4cf28eba8fa27d9",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zoom-transcript-edit"
+        ],
+        "edition": "2018",
+        "description": "Changes timestamps to a usable format",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 103,
+                    "comment_lines": 3,
+                    "files": 1
+                },
+                "Shell": {
+                    "code_lines": 76,
+                    "comment_lines": 9,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 179,
+            "total_comment_lines": 12
+        }
+    }
+}

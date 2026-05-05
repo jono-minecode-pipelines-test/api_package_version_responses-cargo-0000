@@ -1,0 +1,81 @@
+{
+    "version": {
+        "id": 765014,
+        "crate": "zoom-api",
+        "num": "0.4.0",
+        "dl_path": "/api/v1/crates/zoom-api/0.4.0/download",
+        "readme_path": "/api/v1/crates/zoom-api/0.4.0/readme",
+        "updated_at": "2023-03-31T19:46:11.821934Z",
+        "created_at": "2023-03-31T19:46:11.821934Z",
+        "downloads": 1606,
+        "features": {
+            "default": [
+                "rustls-tls",
+                "reqwest-tracing/opentelemetry_0_17"
+            ],
+            "httpcache": [
+                "dirs"
+            ],
+            "native-tls": [
+                "reqwest/default-tls",
+                "openssl"
+            ],
+            "rustls-tls": [
+                "reqwest/rustls-tls",
+                "ring",
+                "pem"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoom-api/0.4.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoom-api/0.4.0/downloads",
+            "authors": "/api/v1/crates/zoom-api/0.4.0/authors"
+        },
+        "crate_size": 166007,
+        "published_by": {
+            "id": 6509,
+            "login": "augustuswm",
+            "name": "Augustus Mayo",
+            "avatar": "https://avatars.githubusercontent.com/u/1377730?v=4",
+            "url": "https://github.com/augustuswm"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6509,
+                    "login": "augustuswm",
+                    "name": "Augustus Mayo",
+                    "avatar": "https://avatars.githubusercontent.com/u/1377730?v=4",
+                    "url": "https://github.com/augustuswm"
+                },
+                "time": "2023-03-31T19:46:11.821934Z"
+            }
+        ],
+        "checksum": "0ee72f35e351118058060062b0984d0952ff0ef7fe89b277f377688949938fed",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A fully generated & opinionated API client for the Zoom API.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zoom-api/",
+        "repository": "https://github.com/oxidecomputer/third-party-api-clients/tree/main/zoom",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 38241,
+                    "comment_lines": 18777,
+                    "files": 41
+                }
+            },
+            "total_code_lines": 38241,
+            "total_comment_lines": 18777
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 213691,
+        "crate": "zoom-lomax",
+        "num": "0.4.0",
+        "dl_path": "/api/v1/crates/zoom-lomax/0.4.0/download",
+        "readme_path": "/api/v1/crates/zoom-lomax/0.4.0/readme",
+        "updated_at": "2020-02-18T18:13:21.030930Z",
+        "created_at": "2020-02-18T18:13:21.030930Z",
+        "downloads": 1832,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoom-lomax/0.4.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoom-lomax/0.4.0/downloads",
+            "authors": "/api/v1/crates/zoom-lomax/0.4.0/authors"
+        },
+        "crate_size": 25664,
+        "published_by": {
+            "id": 54186,
+            "login": "jlevon",
+            "name": "John Levon",
+            "avatar": "https://avatars0.githubusercontent.com/u/21101340?v=4",
+            "url": "https://github.com/jlevon"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 54186,
+                    "login": "jlevon",
+                    "name": "John Levon",
+                    "avatar": "https://avatars0.githubusercontent.com/u/21101340?v=4",
+                    "url": "https://github.com/jlevon"
+                },
+                "time": "2020-02-18T18:13:21.030930Z"
+            }
+        ],
+        "checksum": "41b8d41e04a25b09f781963fe6a962e53e2bd1f6cf2a3b001f67ce59c158d25e",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zoom-lomax"
+        ],
+        "edition": "2018",
+        "description": "Download Zoom recordings",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/jlevon/zoom-lomax",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 412,
+                    "comment_lines": 37,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 412,
+            "total_comment_lines": 37
+        }
+    }
+}

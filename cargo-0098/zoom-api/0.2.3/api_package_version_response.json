@@ -1,0 +1,68 @@
+{
+    "version": {
+        "id": 413217,
+        "crate": "zoom-api",
+        "num": "0.2.3",
+        "dl_path": "/api/v1/crates/zoom-api/0.2.3/download",
+        "readme_path": "/api/v1/crates/zoom-api/0.2.3/readme",
+        "updated_at": "2021-08-15T03:24:46.029689Z",
+        "created_at": "2021-08-15T03:24:46.029689Z",
+        "downloads": 7360,
+        "features": {
+            "httpcache": [
+                "dirs"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoom-api/0.2.3/dependencies",
+            "version_downloads": "/api/v1/crates/zoom-api/0.2.3/downloads",
+            "authors": "/api/v1/crates/zoom-api/0.2.3/authors"
+        },
+        "crate_size": 158251,
+        "published_by": {
+            "id": 94299,
+            "login": "jessfraz",
+            "name": "Jess Frazelle",
+            "avatar": "https://avatars.githubusercontent.com/u/1445228?v=4",
+            "url": "https://github.com/jessfraz"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 94299,
+                    "login": "jessfraz",
+                    "name": "Jess Frazelle",
+                    "avatar": "https://avatars.githubusercontent.com/u/1445228?v=4",
+                    "url": "https://github.com/jessfraz"
+                },
+                "time": "2021-08-15T03:24:46.029689Z"
+            }
+        ],
+        "checksum": "3c12951f77b739ddcf686eb5a4b0974b9876d8ec7f2781cc40920b8cb3bdc310",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "A fully generated & opinionated API client for the Zoom API.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zoom-api/",
+        "repository": "https://github.com/oxidecomputer/third-party-api-clients/tree/main/zoom",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 32753,
+                    "comment_lines": 18732,
+                    "files": 42
+                }
+            },
+            "total_code_lines": 32753,
+            "total_comment_lines": 18732
+        }
+    }
+}

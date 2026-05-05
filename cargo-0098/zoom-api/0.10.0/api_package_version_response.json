@@ -1,0 +1,87 @@
+{
+    "version": {
+        "id": 1515916,
+        "crate": "zoom-api",
+        "num": "0.10.0",
+        "dl_path": "/api/v1/crates/zoom-api/0.10.0/download",
+        "readme_path": "/api/v1/crates/zoom-api/0.10.0/readme",
+        "updated_at": "2025-04-08T14:40:12.102013Z",
+        "created_at": "2025-04-08T14:40:12.102013Z",
+        "downloads": 760,
+        "features": {
+            "default": [
+                "middleware",
+                "rustls-tls"
+            ],
+            "httpcache": [
+                "dirs"
+            ],
+            "middleware": [
+                "reqwest-conditional-middleware",
+                "reqwest-middleware",
+                "reqwest-retry",
+                "reqwest-tracing"
+            ],
+            "native-tls": [
+                "reqwest/default-tls",
+                "openssl"
+            ],
+            "rustls-tls": [
+                "reqwest/rustls-tls",
+                "ring",
+                "pem"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoom-api/0.10.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoom-api/0.10.0/downloads",
+            "authors": "/api/v1/crates/zoom-api/0.10.0/authors"
+        },
+        "crate_size": 183801,
+        "published_by": {
+            "id": 6509,
+            "login": "augustuswm",
+            "name": "Augustus Mayo",
+            "avatar": "https://avatars.githubusercontent.com/u/1377730?v=4",
+            "url": "https://github.com/augustuswm"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6509,
+                    "login": "augustuswm",
+                    "name": "Augustus Mayo",
+                    "avatar": "https://avatars.githubusercontent.com/u/1377730?v=4",
+                    "url": "https://github.com/augustuswm"
+                },
+                "time": "2025-04-08T14:40:12.102013Z"
+            }
+        ],
+        "checksum": "27f6a036b62e0672fa22bb24b0aea89f9f358282eabde14eedaf8a3af4cc0c85",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A fully generated & opinionated API client for the Zoom API.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zoom-api/",
+        "repository": "https://github.com/oxidecomputer/third-party-api-clients/tree/main/zoom",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 38780,
+                    "comment_lines": 18778,
+                    "files": 41
+                }
+            },
+            "total_code_lines": 38780,
+            "total_comment_lines": 18778
+        }
+    }
+}

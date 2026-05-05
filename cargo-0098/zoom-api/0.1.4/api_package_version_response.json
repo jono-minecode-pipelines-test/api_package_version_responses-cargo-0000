@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 279532,
+        "crate": "zoom-api",
+        "num": "0.1.4",
+        "dl_path": "/api/v1/crates/zoom-api/0.1.4/download",
+        "readme_path": "/api/v1/crates/zoom-api/0.1.4/readme",
+        "updated_at": "2020-09-03T01:29:39.220744Z",
+        "created_at": "2020-09-03T01:29:39.220744Z",
+        "downloads": 1262,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zoom-api/0.1.4/dependencies",
+            "version_downloads": "/api/v1/crates/zoom-api/0.1.4/downloads",
+            "authors": "/api/v1/crates/zoom-api/0.1.4/authors"
+        },
+        "crate_size": 7051,
+        "published_by": {
+            "id": 94299,
+            "login": "jessfraz",
+            "name": "Jess Frazelle",
+            "avatar": "https://avatars.githubusercontent.com/u/1445228?v=4",
+            "url": "https://github.com/jessfraz"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 94299,
+                    "login": "jessfraz",
+                    "name": "Jess Frazelle",
+                    "avatar": "https://avatars.githubusercontent.com/u/1445228?v=4",
+                    "url": "https://github.com/jessfraz"
+                },
+                "time": "2020-09-03T01:29:39.220744Z"
+            }
+        ],
+        "checksum": "1398e53a4b74d86c2775319e9cfe91b731d615485f145efa88cbfca22d586156",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "An API client for Zoom",
+        "homepage": null,
+        "documentation": "https://docs.rs/zoom-api",
+        "repository": "https://github.com/oxidecomputer/cio",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 708,
+                    "comment_lines": 68,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 708,
+            "total_comment_lines": 68
+        }
+    }
+}
