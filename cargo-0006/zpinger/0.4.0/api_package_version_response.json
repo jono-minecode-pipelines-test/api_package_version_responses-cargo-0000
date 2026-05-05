@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2322669,
+        "crate": "zpinger",
+        "num": "0.4.0",
+        "dl_path": "/api/v1/crates/zpinger/0.4.0/download",
+        "readme_path": "/api/v1/crates/zpinger/0.4.0/readme",
+        "updated_at": "2026-04-29T03:25:32.187189Z",
+        "created_at": "2026-04-29T03:25:32.187189Z",
+        "downloads": 23,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zpinger/0.4.0/dependencies",
+            "version_downloads": "/api/v1/crates/zpinger/0.4.0/downloads",
+            "authors": "/api/v1/crates/zpinger/0.4.0/authors"
+        },
+        "crate_size": 24958,
+        "published_by": {
+            "id": 157047,
+            "login": "zondatw",
+            "name": "Zonda Yang",
+            "avatar": "https://avatars.githubusercontent.com/u/17905185?v=4",
+            "url": "https://github.com/zondatw"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 157047,
+                    "login": "zondatw",
+                    "name": "Zonda Yang",
+                    "avatar": "https://avatars.githubusercontent.com/u/17905185?v=4",
+                    "url": "https://github.com/zondatw"
+                },
+                "time": "2026-04-29T03:25:32.187189Z"
+            }
+        ],
+        "checksum": "17491a7072e690c1621774d25db1a9af9af6d6704c0d3ea05062dc676178083b",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "zonda pinger library",
+        "homepage": "https://github.com/zondatw/knock_knock",
+        "documentation": null,
+        "repository": "https://github.com/zondatw/knock_knock",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1416,
+                    "comment_lines": 29,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 1416,
+            "total_comment_lines": 29
+        }
+    }
+}

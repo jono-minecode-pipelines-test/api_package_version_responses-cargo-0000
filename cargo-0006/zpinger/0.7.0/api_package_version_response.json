@@ -1,0 +1,130 @@
+{
+    "version": {
+        "id": 2329972,
+        "crate": "zpinger",
+        "num": "0.7.0",
+        "dl_path": "/api/v1/crates/zpinger/0.7.0/download",
+        "readme_path": "/api/v1/crates/zpinger/0.7.0/readme",
+        "updated_at": "2026-04-30T13:32:23.321844Z",
+        "created_at": "2026-04-30T13:32:23.321844Z",
+        "downloads": 11,
+        "features": {
+            "_tls": [
+                "dep:rustls",
+                "dep:tokio-rustls",
+                "dep:rustls-pki-types",
+                "dep:webpki-roots"
+            ],
+            "all": [
+                "tcp",
+                "udp",
+                "dns",
+                "http",
+                "ws",
+                "mqtt",
+                "grpc",
+                "hls",
+                "tls",
+                "ntp",
+                "stun",
+                "turn",
+                "rtsp",
+                "rtmp",
+                "quic"
+            ],
+            "default": [
+                "all"
+            ],
+            "dns": [],
+            "grpc": [
+                "dep:tonic",
+                "dep:tonic-health"
+            ],
+            "hls": [
+                "_tls"
+            ],
+            "http": [
+                "_tls"
+            ],
+            "mqtt": [
+                "_tls"
+            ],
+            "ntp": [],
+            "quic": [
+                "dep:quinn",
+                "dep:rustls",
+                "dep:rustls-pki-types",
+                "dep:webpki-roots"
+            ],
+            "rtmp": [
+                "_tls"
+            ],
+            "rtsp": [
+                "_tls"
+            ],
+            "stun": [],
+            "tcp": [],
+            "tls": [
+                "_tls"
+            ],
+            "turn": [],
+            "udp": [],
+            "ws": [
+                "_tls",
+                "dep:tokio-tungstenite",
+                "dep:futures-util"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zpinger/0.7.0/dependencies",
+            "version_downloads": "/api/v1/crates/zpinger/0.7.0/downloads",
+            "authors": "/api/v1/crates/zpinger/0.7.0/authors"
+        },
+        "crate_size": 50376,
+        "published_by": {
+            "id": 157047,
+            "login": "zondatw",
+            "name": "Zonda Yang",
+            "avatar": "https://avatars.githubusercontent.com/u/17905185?v=4",
+            "url": "https://github.com/zondatw"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 157047,
+                    "login": "zondatw",
+                    "name": "Zonda Yang",
+                    "avatar": "https://avatars.githubusercontent.com/u/17905185?v=4",
+                    "url": "https://github.com/zondatw"
+                },
+                "time": "2026-04-30T13:32:23.321844Z"
+            }
+        ],
+        "checksum": "76686d874113477c33052711d335607bca06d90665bf7d37b370c9dd99e839de",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Async, protocol-agnostic latency probe library: TCP / UDP / HTTP(S) / WebSocket / DNS / MQTT / gRPC / HLS / TLS / NTP / STUN / TURN / RTSP / RTMP / QUIC",
+        "homepage": "https://github.com/zondatw/knock_knock",
+        "documentation": null,
+        "repository": "https://github.com/zondatw/knock_knock",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3067,
+                    "comment_lines": 119,
+                    "files": 19
+                }
+            },
+            "total_code_lines": 3067,
+            "total_comment_lines": 119
+        }
+    }
+}

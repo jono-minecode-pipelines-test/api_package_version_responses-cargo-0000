@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2009802,
+        "crate": "zparse-cli",
+        "num": "2.0.1",
+        "dl_path": "/api/v1/crates/zparse-cli/2.0.1/download",
+        "readme_path": "/api/v1/crates/zparse-cli/2.0.1/readme",
+        "updated_at": "2026-02-08T19:05:53.060069Z",
+        "created_at": "2026-02-08T19:05:53.060069Z",
+        "downloads": 18,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zparse-cli/2.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zparse-cli/2.0.1/downloads",
+            "authors": "/api/v1/crates/zparse-cli/2.0.1/authors"
+        },
+        "crate_size": 18222,
+        "published_by": {
+            "id": 319988,
+            "login": "pixincreate",
+            "name": "Pa1NarK ",
+            "avatar": "https://avatars.githubusercontent.com/u/69745008?v=4",
+            "url": "https://github.com/pixincreate"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 319988,
+                    "login": "pixincreate",
+                    "name": "Pa1NarK ",
+                    "avatar": "https://avatars.githubusercontent.com/u/69745008?v=4",
+                    "url": "https://github.com/pixincreate"
+                },
+                "time": "2026-02-08T19:05:53.060069Z"
+            }
+        ],
+        "checksum": "4c75bcdf6ce649a000baae55cf66b355d7655db529e3fabb5da9801606377094",
+        "rust_version": "1.85",
+        "has_lib": false,
+        "bin_names": [
+            "zparse"
+        ],
+        "edition": "2024",
+        "description": "CLI tool for zparse library",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/pixincreate/zParse",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 163,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 163,
+            "total_comment_lines": 0
+        }
+    }
+}

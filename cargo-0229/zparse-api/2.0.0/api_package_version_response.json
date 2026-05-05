@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2009688,
+        "crate": "zparse-api",
+        "num": "2.0.0",
+        "dl_path": "/api/v1/crates/zparse-api/2.0.0/download",
+        "readme_path": "/api/v1/crates/zparse-api/2.0.0/readme",
+        "updated_at": "2026-02-08T18:36:50.308406Z",
+        "created_at": "2026-02-08T18:36:50.308406Z",
+        "downloads": 20,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zparse-api/2.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zparse-api/2.0.0/downloads",
+            "authors": "/api/v1/crates/zparse-api/2.0.0/authors"
+        },
+        "crate_size": 20485,
+        "published_by": {
+            "id": 319988,
+            "login": "pixincreate",
+            "name": "Pa1NarK ",
+            "avatar": "https://avatars.githubusercontent.com/u/69745008?v=4",
+            "url": "https://github.com/pixincreate"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 319988,
+                    "login": "pixincreate",
+                    "name": "Pa1NarK ",
+                    "avatar": "https://avatars.githubusercontent.com/u/69745008?v=4",
+                    "url": "https://github.com/pixincreate"
+                },
+                "time": "2026-02-08T18:36:50.308406Z"
+            }
+        ],
+        "checksum": "21aebfbba79fdc0ac3b0cc70e27edefc2058982e5717dec30322cd3e4c7f54b9",
+        "rust_version": "1.85",
+        "has_lib": false,
+        "bin_names": [
+            "zparse-api"
+        ],
+        "edition": "2024",
+        "description": "Axum-based API for zparse on Cloudflare Workers",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/pixincreate/zParse",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 101,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 101,
+            "total_comment_lines": 0
+        }
+    }
+}

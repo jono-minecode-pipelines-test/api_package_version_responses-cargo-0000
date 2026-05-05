@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2000860,
+        "crate": "zpl-rs",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zpl-rs/0.1.0/download",
+        "readme_path": "/api/v1/crates/zpl-rs/0.1.0/readme",
+        "updated_at": "2026-02-05T12:41:14.993180Z",
+        "created_at": "2026-02-05T12:41:14.993180Z",
+        "downloads": 32,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zpl-rs/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zpl-rs/0.1.0/downloads",
+            "authors": "/api/v1/crates/zpl-rs/0.1.0/authors"
+        },
+        "crate_size": 20427,
+        "published_by": {
+            "id": 387140,
+            "login": "BrianLeishman",
+            "name": "Brian Leishman",
+            "avatar": "https://avatars.githubusercontent.com/u/1208702?v=4",
+            "url": "https://github.com/BrianLeishman"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 387140,
+                    "login": "BrianLeishman",
+                    "name": "Brian Leishman",
+                    "avatar": "https://avatars.githubusercontent.com/u/1208702?v=4",
+                    "url": "https://github.com/BrianLeishman"
+                },
+                "time": "2026-02-05T12:41:14.993180Z"
+            }
+        ],
+        "checksum": "56ad47e3d03b1d138fbf53105587180f435055ffef06eb21c276b23295567d47",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZPL (Zebra Programming Language) rendering library - parse and render thermal label ZPL to images",
+        "homepage": null,
+        "documentation": "https://docs.rs/zpl-rs",
+        "repository": "https://github.com/StirlingMarketingGroup/go-zpl",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 394,
+                    "comment_lines": 17,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 394,
+            "total_comment_lines": 17
+        }
+    }
+}
