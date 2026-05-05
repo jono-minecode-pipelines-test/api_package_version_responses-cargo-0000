@@ -1,0 +1,84 @@
+{
+    "version": {
+        "id": 2029963,
+        "crate": "zvault-server",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zvault-server/0.2.0/download",
+        "readme_path": "/api/v1/crates/zvault-server/0.2.0/readme",
+        "updated_at": "2026-02-15T11:39:16.621582Z",
+        "created_at": "2026-02-15T11:39:16.621582Z",
+        "downloads": 22,
+        "features": {
+            "default": [
+                "rocksdb-backend",
+                "spring-oauth"
+            ],
+            "postgres-backend": [
+                "zvault-storage/postgres-backend"
+            ],
+            "redb-backend": [
+                "zvault-storage/redb-backend"
+            ],
+            "rocksdb-backend": [
+                "zvault-storage/rocksdb-backend"
+            ],
+            "spring-oauth": [
+                "dep:reqwest",
+                "dep:sha2"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zvault-server/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zvault-server/0.2.0/downloads",
+            "authors": "/api/v1/crates/zvault-server/0.2.0/authors"
+        },
+        "crate_size": 66080,
+        "published_by": {
+            "id": 389812,
+            "login": "VanitasCaesar1",
+            "name": "Vanitas Caesar",
+            "avatar": "https://avatars.githubusercontent.com/u/94681960?v=4",
+            "url": "https://github.com/VanitasCaesar1"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 389812,
+                    "login": "VanitasCaesar1",
+                    "name": "Vanitas Caesar",
+                    "avatar": "https://avatars.githubusercontent.com/u/94681960?v=4",
+                    "url": "https://github.com/VanitasCaesar1"
+                },
+                "time": "2026-02-15T11:39:16.621582Z"
+            }
+        ],
+        "checksum": "f1fb53d4c359cf2b52e45ac01c2afe40bdfbadc1011c38d49e042179b19e74a2",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [
+            "zvault-server"
+        ],
+        "edition": "2024",
+        "description": "ZVault HTTP server \u2014 REST API, web dashboard, and system routes for the AI-native secrets manager",
+        "homepage": "https://zvault.cloud",
+        "documentation": "https://docs.zvault.cloud",
+        "repository": "https://github.com/VanitasCaesar1/zvault",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4153,
+                    "comment_lines": 124,
+                    "files": 22
+                }
+            },
+            "total_code_lines": 4153,
+            "total_comment_lines": 124
+        }
+    }
+}
