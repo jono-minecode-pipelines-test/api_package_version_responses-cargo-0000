@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 839201,
+        "crate": "zolt",
+        "num": "0.5.0",
+        "dl_path": "/api/v1/crates/zolt/0.5.0/download",
+        "readme_path": "/api/v1/crates/zolt/0.5.0/readme",
+        "updated_at": "2023-07-05T08:25:31.206562Z",
+        "created_at": "2023-07-05T08:25:31.206562Z",
+        "downloads": 1073,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0-or-later",
+        "links": {
+            "dependencies": "/api/v1/crates/zolt/0.5.0/dependencies",
+            "version_downloads": "/api/v1/crates/zolt/0.5.0/downloads",
+            "authors": "/api/v1/crates/zolt/0.5.0/authors"
+        },
+        "crate_size": 14397,
+        "published_by": {
+            "id": 167830,
+            "login": "hwittenborn",
+            "name": "Hunter Wittenborn",
+            "avatar": "https://avatars.githubusercontent.com/u/74838472?v=4",
+            "url": "https://github.com/hwittenborn"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 167830,
+                    "login": "hwittenborn",
+                    "name": "Hunter Wittenborn",
+                    "avatar": "https://avatars.githubusercontent.com/u/74838472?v=4",
+                    "url": "https://github.com/hwittenborn"
+                },
+                "time": "2023-07-05T08:25:31.206562Z"
+            }
+        ],
+        "checksum": "bf9c3d1b4439ebd0f0ad96ea684b049b875fc8f64bf7e75cbdf97aebf1e0ce7b",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Beautiful and user-friendly terminal output",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/hwittenborn/zolt",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 33,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 33,
+            "total_comment_lines": 0
+        }
+    }
+}

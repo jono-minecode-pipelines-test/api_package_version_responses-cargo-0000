@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 9544,
+        "crate": "zombie",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zombie/0.0.1/download",
+        "readme_path": "/api/v1/crates/zombie/0.0.1/readme",
+        "updated_at": "2017-11-30T03:43:54.673502Z",
+        "created_at": "2015-04-28T04:03:18.098250Z",
+        "downloads": 2702,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-3-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zombie/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zombie/0.0.1/downloads",
+            "authors": "/api/v1/crates/zombie/0.0.1/authors"
+        },
+        "crate_size": 1352,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "00d1a789740964961f4c0caa41af7b4d7ce61934e2a5cec9a19dcbd50971c713",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": null,
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 13,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 13,
+            "total_comment_lines": 0
+        }
+    }
+}

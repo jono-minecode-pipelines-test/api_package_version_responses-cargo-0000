@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1391072,
+        "crate": "zoitei",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zoitei/0.1.0/download",
+        "readme_path": "/api/v1/crates/zoitei/0.1.0/readme",
+        "updated_at": "2024-12-31T07:47:39.665891Z",
+        "created_at": "2024-12-31T07:47:39.665891Z",
+        "downloads": 906,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR BSL-1.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoitei/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoitei/0.1.0/downloads",
+            "authors": "/api/v1/crates/zoitei/0.1.0/authors"
+        },
+        "crate_size": 12123,
+        "published_by": {
+            "id": 1828,
+            "login": "AldaronLau",
+            "name": "Jeryn Aldaron Lau",
+            "avatar": "https://avatars.githubusercontent.com/u/8846235?v=4",
+            "url": "https://github.com/AldaronLau"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 1828,
+                    "login": "AldaronLau",
+                    "name": "Jeryn Aldaron Lau",
+                    "avatar": "https://avatars.githubusercontent.com/u/8846235?v=4",
+                    "url": "https://github.com/AldaronLau"
+                },
+                "time": "2024-12-31T07:47:39.665891Z"
+            }
+        ],
+        "checksum": "a8878c1640a969a5a25cf32e763a64623c8ac90285d938b3a98ef8ba88275806",
+        "rust_version": "1.83",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Zoitei alphabet conversions",
+        "homepage": "https://aldaronlau.github.io/zoitei",
+        "documentation": "https://docs.rs/zoitei",
+        "repository": "https://github.com/AldaronLau/zoitei",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 326,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 326,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 231138,
+        "crate": "zohohorrorshow",
+        "num": "0.7.5",
+        "dl_path": "/api/v1/crates/zohohorrorshow/0.7.5/download",
+        "readme_path": "/api/v1/crates/zohohorrorshow/0.7.5/readme",
+        "updated_at": "2020-04-14T12:15:41.724320Z",
+        "created_at": "2020-04-14T12:15:41.724320Z",
+        "downloads": 1346,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zohohorrorshow/0.7.5/dependencies",
+            "version_downloads": "/api/v1/crates/zohohorrorshow/0.7.5/downloads",
+            "authors": "/api/v1/crates/zohohorrorshow/0.7.5/authors"
+        },
+        "crate_size": 35857,
+        "published_by": {
+            "id": 20715,
+            "login": "Xymist",
+            "name": "Xymist",
+            "avatar": "https://avatars.githubusercontent.com/u/9251567?v=4",
+            "url": "https://github.com/Xymist"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 20715,
+                    "login": "Xymist",
+                    "name": "Xymist",
+                    "avatar": "https://avatars.githubusercontent.com/u/9251567?v=4",
+                    "url": "https://github.com/Xymist"
+                },
+                "time": "2020-04-14T12:15:41.724320Z"
+            }
+        ],
+        "checksum": "b14ebf8acd74bed6c31bd4b0d7cf48a1755215de11b1bc42b17c665284d215a6",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "A library for interacting with the Zoho Projects API",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Xymist/zohohorrorshow",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3404,
+                    "comment_lines": 54,
+                    "files": 24
+                }
+            },
+            "total_code_lines": 3404,
+            "total_comment_lines": 54
+        }
+    }
+}

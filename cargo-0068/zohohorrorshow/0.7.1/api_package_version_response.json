@@ -1,0 +1,52 @@
+{
+    "version": {
+        "id": 147816,
+        "crate": "zohohorrorshow",
+        "num": "0.7.1",
+        "dl_path": "/api/v1/crates/zohohorrorshow/0.7.1/download",
+        "readme_path": "/api/v1/crates/zohohorrorshow/0.7.1/readme",
+        "updated_at": "2019-04-30T21:44:57.372892Z",
+        "created_at": "2019-04-30T21:44:57.372892Z",
+        "downloads": 1433,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zohohorrorshow/0.7.1/dependencies",
+            "version_downloads": "/api/v1/crates/zohohorrorshow/0.7.1/downloads",
+            "authors": "/api/v1/crates/zohohorrorshow/0.7.1/authors"
+        },
+        "crate_size": 21521,
+        "published_by": {
+            "id": 20715,
+            "login": "Xymist",
+            "name": "Xymist",
+            "avatar": "https://avatars.githubusercontent.com/u/9251567?v=4",
+            "url": "https://github.com/Xymist"
+        },
+        "audit_actions": [],
+        "checksum": "de7091242d060d2905e464d4a45c1f25effffeb2cdd05d98bd497591b34eb1a4",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "A library for interacting with the Zoho Projects API",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Xymist/zohohorrorshow",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3342,
+                    "comment_lines": 43,
+                    "files": 24
+                }
+            },
+            "total_code_lines": 3342,
+            "total_comment_lines": 43
+        }
+    }
+}

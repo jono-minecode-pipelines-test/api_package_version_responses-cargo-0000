@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1524193,
+        "crate": "zola_abridge_helper",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zola_abridge_helper/0.1.1/download",
+        "readme_path": "/api/v1/crates/zola_abridge_helper/0.1.1/readme",
+        "updated_at": "2025-04-15T04:13:49.424270Z",
+        "created_at": "2025-04-15T04:13:49.424270Z",
+        "downloads": 551,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zola_abridge_helper/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zola_abridge_helper/0.1.1/downloads",
+            "authors": "/api/v1/crates/zola_abridge_helper/0.1.1/authors"
+        },
+        "crate_size": 23658,
+        "published_by": {
+            "id": 209493,
+            "login": "c-git",
+            "name": "On\u00e8",
+            "avatar": "https://avatars.githubusercontent.com/u/43485962?v=4",
+            "url": "https://github.com/c-git"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 209493,
+                    "login": "c-git",
+                    "name": "On\u00e8",
+                    "avatar": "https://avatars.githubusercontent.com/u/43485962?v=4",
+                    "url": "https://github.com/c-git"
+                },
+                "time": "2025-04-15T04:13:49.424270Z"
+            }
+        ],
+        "checksum": "6927a23bc5623722df6e5d87504e15ae332a1af506d47f755a18c07ef14055ce",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zola_abridge_helper"
+        ],
+        "edition": "2024",
+        "description": "Tool to facilitate working with abridge theme for zola and some simple SEO checks",
+        "homepage": null,
+        "documentation": "https://docs.rs/zola_abridge_helper",
+        "repository": "https://github.com/c-git/zola_abridge_helper",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 481,
+                    "comment_lines": 22,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 481,
+            "total_comment_lines": 22
+        }
+    }
+}

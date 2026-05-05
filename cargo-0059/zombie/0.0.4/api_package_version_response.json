@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 17917,
+        "crate": "zombie",
+        "num": "0.0.4",
+        "dl_path": "/api/v1/crates/zombie/0.0.4/download",
+        "readme_path": "/api/v1/crates/zombie/0.0.4/readme",
+        "updated_at": "2017-11-30T03:59:44.943804Z",
+        "created_at": "2015-11-09T23:52:36.677465Z",
+        "downloads": 13136,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-3-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zombie/0.0.4/dependencies",
+            "version_downloads": "/api/v1/crates/zombie/0.0.4/downloads",
+            "authors": "/api/v1/crates/zombie/0.0.4/authors"
+        },
+        "crate_size": 1417,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "a2a923d29f39b60d437dc36e2f33e88493dd4386a397820105ac17100859c6e6",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "A safe way to remove any zombie child processes (unix/linux only)",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 13,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 13,
+            "total_comment_lines": 0
+        }
+    }
+}

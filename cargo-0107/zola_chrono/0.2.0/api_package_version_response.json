@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 950363,
+        "crate": "zola_chrono",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zola_chrono/0.2.0/download",
+        "readme_path": "/api/v1/crates/zola_chrono/0.2.0/readme",
+        "updated_at": "2023-11-09T17:46:17.110787Z",
+        "created_at": "2023-11-09T17:46:17.110787Z",
+        "downloads": 1282,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zola_chrono/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zola_chrono/0.2.0/downloads",
+            "authors": "/api/v1/crates/zola_chrono/0.2.0/authors"
+        },
+        "crate_size": 26358,
+        "published_by": {
+            "id": 209493,
+            "login": "c-git",
+            "name": "On\u00e8",
+            "avatar": "https://avatars.githubusercontent.com/u/43485962?v=4",
+            "url": "https://github.com/c-git"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 209493,
+                    "login": "c-git",
+                    "name": "On\u00e8",
+                    "avatar": "https://avatars.githubusercontent.com/u/43485962?v=4",
+                    "url": "https://github.com/c-git"
+                },
+                "time": "2023-11-09T17:46:17.110787Z"
+            }
+        ],
+        "checksum": "6fbc14952dfc6e7f7c266ea90da60878531988fb20cc67f6ca02ca2bb14b196a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zola_chrono"
+        ],
+        "edition": "2021",
+        "description": "Tool to set dates for zola pages based on git history",
+        "homepage": null,
+        "documentation": "https://docs.rs/zola_chrono",
+        "repository": "https://github.com/c-git/zola_chrono",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 753,
+                    "comment_lines": 38,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 753,
+            "total_comment_lines": 38
+        }
+    }
+}
