@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1202363,
+        "crate": "zksync_test_account",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zksync_test_account/0.1.0/download",
+        "readme_path": "/api/v1/crates/zksync_test_account/0.1.0/readme",
+        "updated_at": "2024-07-13T05:26:44.866942Z",
+        "created_at": "2024-07-13T05:26:44.866942Z",
+        "downloads": 2086,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_test_account/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_test_account/0.1.0/downloads",
+            "authors": "/api/v1/crates/zksync_test_account/0.1.0/authors"
+        },
+        "crate_size": 2977,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-07-13T05:26:44.866942Z"
+            }
+        ],
+        "checksum": "3829e388d59b79c272aa2973870aeac19fe079465796efa917a1e558372e91cb",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync test account for writing unit tests",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 232,
+                    "comment_lines": 3,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 232,
+            "total_comment_lines": 3
+        }
+    }
+}
