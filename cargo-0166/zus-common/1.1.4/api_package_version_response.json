@@ -1,0 +1,80 @@
+{
+    "version": {
+        "id": 1961147,
+        "crate": "zus-common",
+        "num": "1.1.4",
+        "dl_path": "/api/v1/crates/zus-common/1.1.4/download",
+        "readme_path": "/api/v1/crates/zus-common/1.1.4/readme",
+        "updated_at": "2026-01-21T12:16:06.639755Z",
+        "created_at": "2026-01-21T12:16:06.639755Z",
+        "downloads": 339,
+        "features": {
+            "apollo": [
+                "reqwest",
+                "serde_json"
+            ],
+            "default": [],
+            "telemetry": [
+                "tracing-opentelemetry",
+                "opentelemetry",
+                "opentelemetry_sdk",
+                "opentelemetry-otlp",
+                "opentelemetry-semantic-conventions",
+                "opentelemetry-appender-tracing",
+                "tracing-subscriber/registry",
+                "tonic"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zus-common/1.1.4/dependencies",
+            "version_downloads": "/api/v1/crates/zus-common/1.1.4/downloads",
+            "authors": "/api/v1/crates/zus-common/1.1.4/authors"
+        },
+        "crate_size": 50852,
+        "published_by": {
+            "id": 380354,
+            "login": "Junfei-Wang_astg",
+            "name": "Junfei Wang",
+            "avatar": "https://avatars.githubusercontent.com/u/241197463?v=4",
+            "url": "https://github.com/Junfei-Wang_astg"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 380354,
+                    "login": "Junfei-Wang_astg",
+                    "name": "Junfei Wang",
+                    "avatar": "https://avatars.githubusercontent.com/u/241197463?v=4",
+                    "url": "https://github.com/Junfei-Wang_astg"
+                },
+                "time": "2026-01-21T12:16:06.639755Z"
+            }
+        ],
+        "checksum": "46f6effdae2fb10a475af6f01aae4e034a7bb82f734dd6fcf329f0e8c8781b1a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Core utilities for ZUS RPC framework - codec, compression, encryption",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zus-dev/zus-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3123,
+                    "comment_lines": 234,
+                    "files": 14
+                }
+            },
+            "total_code_lines": 3123,
+            "total_comment_lines": 234
+        }
+    }
+}

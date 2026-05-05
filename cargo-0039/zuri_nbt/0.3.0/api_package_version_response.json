@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 845788,
+        "crate": "zuri_nbt",
+        "num": "0.3.0",
+        "dl_path": "/api/v1/crates/zuri_nbt/0.3.0/download",
+        "readme_path": "/api/v1/crates/zuri_nbt/0.3.0/readme",
+        "updated_at": "2023-07-14T10:26:36.665804Z",
+        "created_at": "2023-07-14T10:26:36.665804Z",
+        "downloads": 1955,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zuri_nbt/0.3.0/dependencies",
+            "version_downloads": "/api/v1/crates/zuri_nbt/0.3.0/downloads",
+            "authors": "/api/v1/crates/zuri_nbt/0.3.0/authors"
+        },
+        "crate_size": 18215,
+        "published_by": {
+            "id": 169438,
+            "login": "andreashgk",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/36563463?v=4",
+            "url": "https://github.com/andreashgk"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 169438,
+                    "login": "andreashgk",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/36563463?v=4",
+                    "url": "https://github.com/andreashgk"
+                },
+                "time": "2023-07-14T10:26:36.665804Z"
+            }
+        ],
+        "checksum": "1982ba3925239b58cb055415c83fc10e6dea6a2fca5b6a679cec5d29d0c868be",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Read and write minecraft NBT data",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zuri-mc/zuri/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2514,
+                    "comment_lines": 3,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 2514,
+            "total_comment_lines": 3
+        }
+    }
+}

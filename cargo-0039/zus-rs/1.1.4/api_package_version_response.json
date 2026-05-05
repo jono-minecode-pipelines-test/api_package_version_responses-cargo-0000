@@ -1,0 +1,102 @@
+{
+    "version": {
+        "id": 1961160,
+        "crate": "zus-rs",
+        "num": "1.1.4",
+        "dl_path": "/api/v1/crates/zus-rs/1.1.4/download",
+        "readme_path": "/api/v1/crates/zus-rs/1.1.4/readme",
+        "updated_at": "2026-01-21T12:19:27.172811Z",
+        "created_at": "2026-01-21T12:19:27.172811Z",
+        "downloads": 151,
+        "features": {
+            "client": [
+                "protocol",
+                "zus-rpc-client",
+                "zus-discovery",
+                "tokio",
+                "bytes",
+                "anyhow",
+                "tracing",
+                "async-trait"
+            ],
+            "default": [
+                "protocol",
+                "client",
+                "server"
+            ],
+            "full": [
+                "client",
+                "server"
+            ],
+            "minimal": [],
+            "protocol": [
+                "zus-common"
+            ],
+            "server": [
+                "protocol",
+                "zus-rpc-server",
+                "zus-discovery",
+                "zus-macros",
+                "tokio",
+                "bytes",
+                "anyhow",
+                "tracing",
+                "async-trait"
+            ],
+            "telemetry": [
+                "zus-common/telemetry"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zus-rs/1.1.4/dependencies",
+            "version_downloads": "/api/v1/crates/zus-rs/1.1.4/downloads",
+            "authors": "/api/v1/crates/zus-rs/1.1.4/authors"
+        },
+        "crate_size": 22682,
+        "published_by": {
+            "id": 380354,
+            "login": "Junfei-Wang_astg",
+            "name": "Junfei Wang",
+            "avatar": "https://avatars.githubusercontent.com/u/241197463?v=4",
+            "url": "https://github.com/Junfei-Wang_astg"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 380354,
+                    "login": "Junfei-Wang_astg",
+                    "name": "Junfei Wang",
+                    "avatar": "https://avatars.githubusercontent.com/u/241197463?v=4",
+                    "url": "https://github.com/Junfei-Wang_astg"
+                },
+                "time": "2026-01-21T12:19:27.172811Z"
+            }
+        ],
+        "checksum": "2626b6ea39017eed8ce39c28cb6c9e7be7c4a62c2940a9007ffdb9aaa372263e",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "ZUS RPC Framework - Rust implementation with cross-language compatibility",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zus-dev/zus-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 82,
+                    "comment_lines": 21,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 82,
+            "total_comment_lines": 21
+        }
+    }
+}

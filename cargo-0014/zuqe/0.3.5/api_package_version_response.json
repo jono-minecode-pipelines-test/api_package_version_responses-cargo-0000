@@ -1,0 +1,84 @@
+{
+    "version": {
+        "id": 1973547,
+        "crate": "zuqe",
+        "num": "0.3.5",
+        "dl_path": "/api/v1/crates/zuqe/0.3.5/download",
+        "readme_path": "/api/v1/crates/zuqe/0.3.5/readme",
+        "updated_at": "2026-01-26T08:58:28.494738Z",
+        "created_at": "2026-01-26T08:58:28.494738Z",
+        "downloads": 18,
+        "features": {
+            "all_unicode": [
+                "unicode-xid",
+                "unicode-normalization"
+            ],
+            "builtin_date": [
+                "libc"
+            ],
+            "builtin_json": [],
+            "default": [
+                "all_unicode",
+                "builtin_json",
+                "builtin_date"
+            ],
+            "dump_bytecode": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zuqe/0.3.5/dependencies",
+            "version_downloads": "/api/v1/crates/zuqe/0.3.5/downloads",
+            "authors": "/api/v1/crates/zuqe/0.3.5/authors"
+        },
+        "crate_size": 465871,
+        "published_by": {
+            "id": 379080,
+            "login": "nupha",
+            "name": "John Ray",
+            "avatar": "https://avatars.githubusercontent.com/u/22436228?v=4",
+            "url": "https://github.com/nupha"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 379080,
+                    "login": "nupha",
+                    "name": "John Ray",
+                    "avatar": "https://avatars.githubusercontent.com/u/22436228?v=4",
+                    "url": "https://github.com/nupha"
+                },
+                "time": "2026-01-26T08:58:28.494738Z"
+            }
+        ],
+        "checksum": "cd0e68c4a3f321d0526a57019638e7c4b83c7b06080fc0f1f9a66b540a78b5e7",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Zuqe JS Engine - A lightweight JS engine implemented in Rust, designed for embedded systems and general\u2011purpose use.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/nupha/zuqe",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "JavaScript": {
+                    "code_lines": 1359,
+                    "comment_lines": 73,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 51482,
+                    "comment_lines": 3841,
+                    "files": 190
+                }
+            },
+            "total_code_lines": 52841,
+            "total_comment_lines": 3914
+        }
+    }
+}

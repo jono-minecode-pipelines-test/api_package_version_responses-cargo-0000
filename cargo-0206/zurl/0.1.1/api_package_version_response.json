@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1541217,
+        "crate": "zurl",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zurl/0.1.1/download",
+        "readme_path": "/api/v1/crates/zurl/0.1.1/readme",
+        "updated_at": "2025-04-27T12:03:30.208432Z",
+        "created_at": "2025-04-27T12:03:30.208432Z",
+        "downloads": 544,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zurl/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zurl/0.1.1/downloads",
+            "authors": "/api/v1/crates/zurl/0.1.1/authors"
+        },
+        "crate_size": 14454,
+        "published_by": {
+            "id": 329995,
+            "login": "Muhammad-Owais-Warsi",
+            "name": "Muhammad Owais Warsi",
+            "avatar": "https://avatars.githubusercontent.com/u/133518394?v=4",
+            "url": "https://github.com/Muhammad-Owais-Warsi"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 329995,
+                    "login": "Muhammad-Owais-Warsi",
+                    "name": "Muhammad Owais Warsi",
+                    "avatar": "https://avatars.githubusercontent.com/u/133518394?v=4",
+                    "url": "https://github.com/Muhammad-Owais-Warsi"
+                },
+                "time": "2025-04-27T12:03:30.208432Z"
+            }
+        ],
+        "checksum": "bbdf8e16e24a895f84f4698a77a90f0c1242b23dd8be8de3a745074c623ece56",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zurl"
+        ],
+        "edition": "2021",
+        "description": "Because simplicity matters, even in APIs",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Muhammad-Owais-Warsi/zurl",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 138,
+                    "comment_lines": 0,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 138,
+            "total_comment_lines": 0
+        }
+    }
+}

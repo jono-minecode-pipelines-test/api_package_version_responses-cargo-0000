@@ -1,0 +1,88 @@
+{
+    "version": {
+        "id": 1041091,
+        "crate": "zusi",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zusi/0.2.0/download",
+        "readme_path": "/api/v1/crates/zusi/0.2.0/readme",
+        "updated_at": "2024-02-06T09:37:45.724021Z",
+        "created_at": "2024-02-06T09:19:33.213001Z",
+        "downloads": 1126,
+        "features": {
+            "async": [
+                "bytes",
+                "tokio-util",
+                "zusi-protocol/parser",
+                "nom"
+            ],
+            "default": [
+                "fahrpult"
+            ],
+            "fahrpult": [
+                "zusi-fahrpult"
+            ]
+        },
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zusi/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zusi/0.2.0/downloads",
+            "authors": "/api/v1/crates/zusi/0.2.0/authors"
+        },
+        "crate_size": 11323,
+        "published_by": {
+            "id": 82324,
+            "login": "schjan",
+            "name": "Jannis Schaefer",
+            "avatar": "https://avatars.githubusercontent.com/u/2733990?v=4",
+            "url": "https://github.com/schjan"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 82324,
+                    "login": "schjan",
+                    "name": "Jannis Schaefer",
+                    "avatar": "https://avatars.githubusercontent.com/u/2733990?v=4",
+                    "url": "https://github.com/schjan"
+                },
+                "time": "2024-02-06T09:19:33.213001Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 82324,
+                    "login": "schjan",
+                    "name": "Jannis Schaefer",
+                    "avatar": "https://avatars.githubusercontent.com/u/2733990?v=4",
+                    "url": "https://github.com/schjan"
+                },
+                "time": "2024-02-06T09:37:45.726711Z"
+            }
+        ],
+        "checksum": "fbc4e878410950169c54b5edecf1d581f1c0d56bb00701f68eb586493d79a603",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Proxy crate which bundles an async and sync TCP client for Zusi 3",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zusi/zusi-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 258,
+                    "comment_lines": 4,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 258,
+            "total_comment_lines": 4
+        }
+    }
+}

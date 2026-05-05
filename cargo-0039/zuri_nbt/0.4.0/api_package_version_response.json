@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1533295,
+        "crate": "zuri_nbt",
+        "num": "0.4.0",
+        "dl_path": "/api/v1/crates/zuri_nbt/0.4.0/download",
+        "readme_path": "/api/v1/crates/zuri_nbt/0.4.0/readme",
+        "updated_at": "2025-04-21T19:16:26.853354Z",
+        "created_at": "2025-04-21T19:16:26.853354Z",
+        "downloads": 851,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zuri_nbt/0.4.0/dependencies",
+            "version_downloads": "/api/v1/crates/zuri_nbt/0.4.0/downloads",
+            "authors": "/api/v1/crates/zuri_nbt/0.4.0/authors"
+        },
+        "crate_size": 20532,
+        "published_by": {
+            "id": 169438,
+            "login": "andreashgk",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/36563463?v=4",
+            "url": "https://github.com/andreashgk"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 169438,
+                    "login": "andreashgk",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/36563463?v=4",
+                    "url": "https://github.com/andreashgk"
+                },
+                "time": "2025-04-21T19:16:26.853354Z"
+            }
+        ],
+        "checksum": "393fc1bce87b20139f1310a3846998795124b1e48476a7f53e9e672c5f276166",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Read and write minecraft NBT data",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zuri-mc/zuri_nbt/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2597,
+                    "comment_lines": 7,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 2597,
+            "total_comment_lines": 7
+        }
+    }
+}
