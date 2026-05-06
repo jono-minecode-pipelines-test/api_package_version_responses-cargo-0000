@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2012563,
+        "crate": "zksync_cs_derive",
+        "num": "0.32.8",
+        "dl_path": "/api/v1/crates/zksync_cs_derive/0.32.8/download",
+        "readme_path": "/api/v1/crates/zksync_cs_derive/0.32.8/readme",
+        "updated_at": "2026-02-09T17:16:35.895801Z",
+        "created_at": "2026-02-09T17:16:35.895801Z",
+        "downloads": 424,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_cs_derive/0.32.8/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_cs_derive/0.32.8/downloads",
+            "authors": "/api/v1/crates/zksync_cs_derive/0.32.8/authors"
+        },
+        "crate_size": 10720,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2026-02-09T17:16:35.895801Z"
+            }
+        ],
+        "checksum": "cb6e6bb19b4a45d334c98c87a36fc8f611bd45c65c10d32171b368eb43fa7299",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Derive macro for boojum crate",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-crypto/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 770,
+                    "comment_lines": 35,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 770,
+            "total_comment_lines": 35
+        }
+    }
+}
