@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1584092,
+        "crate": "zksync_concurrency",
+        "num": "0.11.1",
+        "dl_path": "/api/v1/crates/zksync_concurrency/0.11.1/download",
+        "readme_path": "/api/v1/crates/zksync_concurrency/0.11.1/readme",
+        "updated_at": "2025-05-29T19:57:49.095713Z",
+        "created_at": "2025-05-29T19:57:49.095713Z",
+        "downloads": 3015,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_concurrency/0.11.1/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_concurrency/0.11.1/downloads",
+            "authors": "/api/v1/crates/zksync_concurrency/0.11.1/authors"
+        },
+        "crate_size": 41289,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2025-05-29T19:57:49.095713Z"
+            }
+        ],
+        "checksum": "2e68a4a3016741275fcfa5a7d1bde98ad51a46d1d463ad6f0ba8fdd5b5b10888",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Structured concurrency framework",
+        "homepage": "https://matter-labs.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/era-consensus",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2276,
+                    "comment_lines": 189,
+                    "files": 32
+                }
+            },
+            "total_code_lines": 2276,
+            "total_comment_lines": 189
+        }
+    }
+}

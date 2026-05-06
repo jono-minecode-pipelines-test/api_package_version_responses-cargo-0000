@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1281463,
+        "crate": "zksync_concurrency",
+        "num": "0.3.0",
+        "dl_path": "/api/v1/crates/zksync_concurrency/0.3.0/download",
+        "readme_path": "/api/v1/crates/zksync_concurrency/0.3.0/readme",
+        "updated_at": "2024-09-26T07:34:54.052070Z",
+        "created_at": "2024-09-26T07:34:54.052070Z",
+        "downloads": 17843,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_concurrency/0.3.0/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_concurrency/0.3.0/downloads",
+            "authors": "/api/v1/crates/zksync_concurrency/0.3.0/authors"
+        },
+        "crate_size": 34400,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-09-26T07:34:54.052070Z"
+            }
+        ],
+        "checksum": "a4724d51934e475c846ba9e6ed169e25587385188b928a9ecfbbf616092a1c17",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Structured concurrency framework",
+        "homepage": "https://matter-labs.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/era-consensus",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2274,
+                    "comment_lines": 187,
+                    "files": 32
+                }
+            },
+            "total_code_lines": 2274,
+            "total_comment_lines": 187
+        }
+    }
+}
