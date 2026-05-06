@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1232373,
+        "crate": "zksync_consensus_roles",
+        "num": "0.1.0-rc.10",
+        "dl_path": "/api/v1/crates/zksync_consensus_roles/0.1.0-rc.10/download",
+        "readme_path": "/api/v1/crates/zksync_consensus_roles/0.1.0-rc.10/readme",
+        "updated_at": "2024-08-12T14:33:21.055668Z",
+        "created_at": "2024-08-12T14:33:21.055668Z",
+        "downloads": 8078,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": "zksync_consensus_roles_proto",
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_consensus_roles/0.1.0-rc.10/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_consensus_roles/0.1.0-rc.10/downloads",
+            "authors": "/api/v1/crates/zksync_consensus_roles/0.1.0-rc.10/authors"
+        },
+        "crate_size": 36872,
+        "published_by": {
+            "id": 196241,
+            "login": "pompon0",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/1547635?v=4",
+            "url": "https://github.com/pompon0"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 196241,
+                    "login": "pompon0",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/1547635?v=4",
+                    "url": "https://github.com/pompon0"
+                },
+                "time": "2024-08-12T14:33:21.055668Z"
+            }
+        ],
+        "checksum": "e426aa7c68a12dde702c3ec4ef49de24d9054ef908384232b7887e043ca3f2fe",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync consensus node role types",
+        "homepage": "https://matter-labs.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/era-consensus",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4257,
+                    "comment_lines": 75,
+                    "files": 40
+                }
+            },
+            "total_code_lines": 4257,
+            "total_comment_lines": 75
+        }
+    }
+}
