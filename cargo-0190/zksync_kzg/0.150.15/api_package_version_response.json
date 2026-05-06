@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 1346250,
+        "crate": "zksync_kzg",
+        "num": "0.150.15",
+        "dl_path": "/api/v1/crates/zksync_kzg/0.150.15/download",
+        "readme_path": "/api/v1/crates/zksync_kzg/0.150.15/readme",
+        "updated_at": "2024-11-21T13:25:04.716712Z",
+        "created_at": "2024-11-20T08:56:24.874044Z",
+        "downloads": 982,
+        "features": {
+            "default": []
+        },
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_kzg/0.150.15/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_kzg/0.150.15/downloads",
+            "authors": "/api/v1/crates/zksync_kzg/0.150.15/authors"
+        },
+        "crate_size": 515511,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-11-20T08:56:24.874044Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-11-21T13:25:04.718811Z"
+            }
+        ],
+        "checksum": "5d1dd0710594f1f4d32fcb10aa482fbfdb281ae45dd89646f845a668fbb59405",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync Era KZG implementation",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-protocol/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4701,
+                    "comment_lines": 21,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 4701,
+            "total_comment_lines": 21
+        }
+    }
+}
