@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1829425,
+        "crate": "zksync_health_check",
+        "num": "29.6.0-non-semver-compat",
+        "dl_path": "/api/v1/crates/zksync_health_check/29.6.0-non-semver-compat/download",
+        "readme_path": "/api/v1/crates/zksync_health_check/29.6.0-non-semver-compat/readme",
+        "updated_at": "2025-11-17T15:07:07.951579Z",
+        "created_at": "2025-11-17T15:07:07.951579Z",
+        "downloads": 644,
+        "features": {
+            "default": [],
+            "node_framework": [
+                "dep:zksync_node_framework"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_health_check/29.6.0-non-semver-compat/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_health_check/29.6.0-non-semver-compat/downloads",
+            "authors": "/api/v1/crates/zksync_health_check/29.6.0-non-semver-compat/authors"
+        },
+        "crate_size": 13247,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2025-11-17T15:07:07.951579Z"
+            }
+        ],
+        "checksum": "800a2fa00760b3f1ba158cc37024a24e4fed6a03be31232b72c9f3c0d59ebf27",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Health checks library",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 558,
+                    "comment_lines": 3,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 558,
+            "total_comment_lines": 3
+        }
+    }
+}

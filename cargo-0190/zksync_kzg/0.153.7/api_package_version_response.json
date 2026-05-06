@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2014579,
+        "crate": "zksync_kzg",
+        "num": "0.153.7",
+        "dl_path": "/api/v1/crates/zksync_kzg/0.153.7/download",
+        "readme_path": "/api/v1/crates/zksync_kzg/0.153.7/readme",
+        "updated_at": "2026-02-10T09:36:58.896867Z",
+        "created_at": "2026-02-10T09:36:58.896867Z",
+        "downloads": 377,
+        "features": {
+            "default": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_kzg/0.153.7/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_kzg/0.153.7/downloads",
+            "authors": "/api/v1/crates/zksync_kzg/0.153.7/authors"
+        },
+        "crate_size": 524248,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2026-02-10T09:36:58.896867Z"
+            }
+        ],
+        "checksum": "c56779ad4fcae6d6ada10b5c0ccc63f0fb0dcd9814e82443d00b56f57db85b54",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync Era KZG implementation",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-protocol/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4701,
+                    "comment_lines": 21,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 4701,
+            "total_comment_lines": 21
+        }
+    }
+}
