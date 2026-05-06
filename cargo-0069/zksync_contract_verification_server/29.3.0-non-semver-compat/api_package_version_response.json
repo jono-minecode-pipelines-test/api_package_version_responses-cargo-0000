@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1736172,
+        "crate": "zksync_contract_verification_server",
+        "num": "29.3.0-non-semver-compat",
+        "dl_path": "/api/v1/crates/zksync_contract_verification_server/29.3.0-non-semver-compat/download",
+        "readme_path": "/api/v1/crates/zksync_contract_verification_server/29.3.0-non-semver-compat/readme",
+        "updated_at": "2025-09-18T22:01:49.370794Z",
+        "created_at": "2025-09-18T22:01:49.370794Z",
+        "downloads": 267,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_contract_verification_server/29.3.0-non-semver-compat/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_contract_verification_server/29.3.0-non-semver-compat/downloads",
+            "authors": "/api/v1/crates/zksync_contract_verification_server/29.3.0-non-semver-compat/authors"
+        },
+        "crate_size": 53560,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2025-09-18T22:01:49.370794Z"
+            }
+        ],
+        "checksum": "4c5e00128eaf0428085ce37928daa8725cb85356f32ea3579c7ac7dc3cf2e6aa",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync contract verification server",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 724,
+                    "comment_lines": 17,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 724,
+            "total_comment_lines": 17
+        }
+    }
+}
