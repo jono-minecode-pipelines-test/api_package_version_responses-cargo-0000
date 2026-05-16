@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2397500,
+        "crate": "zyx-derive",
+        "num": "0.15.3",
+        "dl_path": "/api/v1/crates/zyx-derive/0.15.3/download",
+        "readme_path": "/api/v1/crates/zyx-derive/0.15.3/readme",
+        "updated_at": "2026-05-14T15:56:28.038639Z",
+        "created_at": "2026-05-14T15:56:28.038639Z",
+        "downloads": 17,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "LGPL-3.0-only",
+        "links": {
+            "dependencies": "/api/v1/crates/zyx-derive/0.15.3/dependencies",
+            "version_downloads": "/api/v1/crates/zyx-derive/0.15.3/downloads",
+            "authors": "/api/v1/crates/zyx-derive/0.15.3/authors"
+        },
+        "crate_size": 4229,
+        "published_by": {
+            "id": 177851,
+            "login": "zk4x",
+            "name": "zk4x",
+            "avatar": "https://avatars.githubusercontent.com/u/114350751?v=4",
+            "url": "https://github.com/zk4x"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 177851,
+                    "login": "zk4x",
+                    "name": "zk4x",
+                    "avatar": "https://avatars.githubusercontent.com/u/114350751?v=4",
+                    "url": "https://github.com/zk4x"
+                },
+                "time": "2026-05-14T15:56:28.038639Z"
+            }
+        ],
+        "checksum": "b86579a52f57f6b6ebcfa9c997b0f98b5ef5dd4654f8f0f343533437a1f7fe06",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Zyx procedural macros",
+        "homepage": "https://github.com/zk4x/zyx",
+        "documentation": "https://docs.rs/zyx-derive",
+        "repository": "https://github.com/zk4x/zyx",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 213,
+                    "comment_lines": 5,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 213,
+            "total_comment_lines": 5
+        }
+    }
+}
